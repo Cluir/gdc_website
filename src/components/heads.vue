@@ -16,10 +16,9 @@
         <li  @click="ztlt" :class="{'aa':index==h}">主题论坛</li>
         <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li>
 
-
       </ul>
       <div class="top_div">
-        <span @click="hrefClick"
+        <span @click="chzc" :class="{'aa':index==j}"
           >参会注册 <b><img src="../assets/youjiantou.png" alt="" /></b
         ></span>
       </div>
@@ -44,7 +43,8 @@ export default {
       g: 0,
       h: 0,
       i: 0,
-      arr:[-1,-1,-1,-1,-1,-1,-1,-1,-1]
+      j: 0,
+      arr:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]
     };
   },
   mounted(){
@@ -74,6 +74,12 @@ export default {
       // }
       // console.log(this.arr);
       this.$router.push("/zz");
+    },
+    chzc() {
+      this.a = 0
+      this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
+      this.g = 0; this.h = 0; this.i = 0; this.j = 1;
+      this.$router.push("/chzc");
     },
     hy() {
       this.a = 0

@@ -11,6 +11,7 @@ import Hq from '../components/heads/hq'
 import Js from '../components/heads/js'
 import Ztlt from '../components/heads/ztlt'
 import Zzqy from '../components/heads/zzqy'
+import Chzc from '../components/heads/chzc'
 
 import Hyjt from '../components/tails/hyjt'
 import Jdyd from '../components/tails/jdyd'
@@ -22,6 +23,11 @@ export default new VueRouter({
         {
 			path:'/subject',
 			component:Subject
+		},
+                
+        {
+			path:'/chzc',
+			component:Chzc
 		},
         {
 			path:'/hq',
