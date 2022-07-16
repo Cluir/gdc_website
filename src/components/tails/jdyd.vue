@@ -47,7 +47,12 @@
 </template>
 
 <script>
-
+export default {
+    name:'jdyd',
+    mounted() {
+      window.scrollTo(0,0);
+    }
+}
 </script>
 
 <style>
