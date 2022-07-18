@@ -19,7 +19,7 @@
       <p> <b>酒店一：青岛汇泉王朝大饭店 <span style="color: red;">(主会场酒店）</span></b> </p> 
       <ul>
         <li>地址：青岛市市南区南海路9号</li>
-        <li>价格：标准间700元/晚、大床房700元/晚（协议价格），含早</li>3
+        <li>价格：标准间700元/晚、大床房700元/晚（协议价格），含早</li>
         <li>客房预订：18605326331</li>
       </ul>
       <p style="text-align: center;"><img src="../../assets/jdyd/hotel1.png" style="width: 70%; margin-top: 20px;"></p> <br><br>
