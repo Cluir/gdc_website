@@ -9,7 +9,8 @@
       <h3 class="title">主办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:30px auto;">
-          <img src="../../assets/index_06.png" alt="">
+        
+        <a href="https://www.csiam.org.cn/home/index/index.html" target="_blank"><img src="../../assets/index_06.png" alt=""></a>
           <!-- <h4 style="text-align:center;">中国工业与应用数学学会</h4> -->
         </div>
       </div>
@@ -19,8 +20,8 @@
       <h3 class="title">承办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:0 auto;">
-          <img src="../../assets/index_10.png" alt="" style="height:150px;margin-right: 100px;margin-bottom: 20px;">
-          <img src="../../assets/index_03.png" alt="" style="margin-bottom: 50px;">
+          <a href="http://47.89.254.160/gdc/" target="_blank"><img src="../../assets/index_10.png" alt="" style="height:150px;margin-right: 100px;margin-bottom: 20px;"></a>
+          <a href="https://www.sdu.edu.cn/" target="_blank"><img src="../../assets/index_03.png" alt="" style="margin-bottom: 50px;"></a>
 
           <!-- <h4 style="text-align:center;">中国工业与应用数学学会</h4> -->
         </div>

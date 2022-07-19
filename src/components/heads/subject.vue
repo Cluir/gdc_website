@@ -35,7 +35,9 @@
       <!-- 右边 -->
       <div class="right">
         <p class="right_p" style="text-align:justify;">
-          由中国工业与应用数学学会(CSIAM)主办，几何设计与计算专委会、山东大学承办的第十四届全国几何设计与计算学术会议(GDC
+          由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办，
+          <a href="http://47.89.254.160/gdc/" target="_blank">几何设计与计算专委会</a>、
+          <a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>、承办的第十四届全国几何设计与计算学术会议(GDC山东大学承办的第十四届全国几何设计与计算学术会议(GDC
           2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行。
 
         </p>
