@@ -2,7 +2,7 @@
   <div class="g-rep">
     <div class="introduce_1">
       <h3>计算几何四十年暨何苏步青先生诞辰120周年特别论坛 </h3>
-      <span>第十四届全国几何设计与计算学术会议</span>
+      <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <div class="pp" style="text-align:justify;">
       <p>1982年1月，我国著名数学家苏步青先生领导成立全国计算几何协作组，并在7月于青岛成功召开了第一次全国计算几何讨论会。

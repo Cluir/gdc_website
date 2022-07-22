@@ -4,7 +4,7 @@
 
     <div class="introduce">
       <h3>通知公告</h3>
-      <span>第十四届全国几何设计与计算学术会议</span>
+      <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
       <li>2022.07.13  GDC 2022已开放注册，请前往<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/chzc" >大会注册</a></li>
@@ -20,7 +20,7 @@
     <!-- 大会介绍 introduce-->
     <div class="introduce">
       <h3>大会介绍</h3>
-      <span>第十四届全国几何设计与计算学术会议</span>
+      <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
 
 

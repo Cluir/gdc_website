@@ -2,7 +2,7 @@
   <div class="g-rep">
     <div class="introduce">
       <h3>酒店预定</h3>
-      <span>第十四届全国几何设计与计算学术会议</span>
+      <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <div class="text">
       <p><strong>会议酒店：汇泉王朝大饭店</strong></p> 

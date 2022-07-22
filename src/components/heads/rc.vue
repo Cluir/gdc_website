@@ -2,7 +2,7 @@
   <div class="g-rep">
     <div class="introduce">
       <h3>会议日程</h3>
-      <span>第十四届全国几何设计与计算学术会议</span>
+      <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <h2>待更新...</h2>
 

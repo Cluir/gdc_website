@@ -2,7 +2,7 @@
   <div class="g-rep">
     <div class="introduce">
       <h3>参会注册</h3>
-      <span>第十四届全国几何设计与计算学术会议</span>
+      <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <div style="font-size:20px;line-height: 1.35;">
     <p style="font-weight: bold;line-height: 2;">参会收费标准：</p>  
