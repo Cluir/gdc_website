@@ -16,12 +16,12 @@
 			</td>
 			<td width="233" valign="bottom" colspan="2" style="border:1.0000pt outset #337FE5;background:#548DD4;">
 				<p class="MsoNormal" align="center" style="text-align:center;">
-					<b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;">提前注册</span></b><b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;"></span></b> 
+					<b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;">早鸟注册</span></b><b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;"></span></b> 
 				</p>
 			</td>
 			<td width="236" valign="bottom" colspan="2" style="border:1.0000pt outset #337FE5;background:#548DD4;">
 				<p class="MsoNormal" align="center" style="text-align:center;">
-					<b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;">现场注册</span></b><b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;"></span></b> 
+					<b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;">正常注册/现场注册</span></b><b><span class="15" style="font-family:宋体;line-height:150%;font-size:12.0000pt;"></span></b> 
 				</p>
 			</td>
 		</tr>
@@ -107,10 +107,10 @@
 <br/>
   <div  style="font-size:20px;line-height: 1.35;">
       <span  style="font-weight:bold;line-height: 2;">会议注册说明：</span> <br/>
-      <p>1、提前注册时间：7月14日00:00-8月19日00:00 <br/>
+      <p>1、早鸟注册时间：7月14日00:00-8月13日00:00 <br/>&nbsp;&nbsp;&nbsp;&nbsp;正常注册时间：8月13日00:00-8月20日00:00 <br/>
       &nbsp;&nbsp;&nbsp;  现场注册时间：8月20日00:00-8月22日00:00</p>
       <p>2、8月13日前于线上注册的参会嘉宾请于8月20日报到当天领取注册费发票<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8月14日及之后的日期注册的参会嘉宾在两周后可查收电子发票</p>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8月13日及之后的日期注册的参会嘉宾在两周后可查收电子发票</p>
       <p>3、 请根据注册情况选择合适的注册类型，每篇录用论文<span style="font-weight:bold">至少1位作者必须以非学生</span>的类型进行注册。同一作者如有多篇论文录用，需要分别独立注册。<br/></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;会员指“中国工业与应用数学学会”会员，加入中国工业与应用数学学会请参见：<a href="https://www.csiam.org.cn/member/join.php" target="_blank">https://www.csiam.org.cn/member/join.php</a>。对于非学会人员，建议先申请加入学会，获得会员号后即可享受优惠价格注册，申请入会时请选择“<span style="font-weight:bold">几何设计与计算专业委员会</span>”。由于会员系统与会议系统数据不是实时更新，如需享受会员优惠，请提前注册会员并缴纳会费。如新注册会员遇会议系统不能识别的情况，请等待几天再尝试注册会议。</p>
       <p>4、注册链接：<a href="https://csiam.org.cn/submission/" target="_blank">https://csiam.org.cn/submission/</a></p>
