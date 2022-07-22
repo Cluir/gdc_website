@@ -19,7 +19,7 @@
               <p><strong>题目：</strong>待定</p>
               <p style="text-indent: 27px;"><strong>时间：</strong>待定</p>
             <br><br><br><br>
-              <p class="intro2 intro" style="text-indent: 27px;"><strong>个人简介：</strong>浙江大学CAD&CG国家重点实验室教授、博导，之江实验室副主任，国家“杰出青年”科学基金获得者， 教育部长江学者特聘教授。主要从事计算机图形学和混合现实技术的研究，所领导团队获首届国家创新研究群体科学基金的资助。 作为首席科学家，先后二次承担了国家重大基础研究发展规划（973计划）项目虚拟现实和混合现实的理论和技术的研究。 在图形和视觉计算、虚拟现实、增强现实的理论、算法和平台方面取得了重要突破，在国际重要学术期刊和学术会议上 发表论文180余篇，获授权国家发明专利80余件，出版著作三部。成功研发云端协同的混合现实支撑软件平台，得到了成功应用。 曾荣获国家自然科学奖二等奖1项，高等学校优秀成果奖一等奖2项，浙江省科学技术奖一等奖2项。所指导的二篇博士学位 论文被评为全国百篇优秀博士论文，三篇被评为计算机学会优秀博士论文。2017年获计算机学会王选奖。2004年获得“中国计算机图形学杰出奖”。
+              <p class="intro2_intro" style="text-indent: 27px;"><strong>个人简介：</strong>浙江大学CAD&CG国家重点实验室教授、博导，之江实验室副主任，国家“杰出青年”科学基金获得者， 教育部长江学者特聘教授。主要从事计算机图形学和混合现实技术的研究，所领导团队获首届国家创新研究群体科学基金的资助。 作为首席科学家，先后二次承担了国家重大基础研究发展规划（973计划）项目虚拟现实和混合现实的理论和技术的研究。 在图形和视觉计算、虚拟现实、增强现实的理论、算法和平台方面取得了重要突破，在国际重要学术期刊和学术会议上 发表论文180余篇，获授权国家发明专利80余件，出版著作三部。成功研发云端协同的混合现实支撑软件平台，得到了成功应用。 曾荣获国家自然科学奖二等奖1项，高等学校优秀成果奖一等奖2项，浙江省科学技术奖一等奖2项。所指导的二篇博士学位 论文被评为全国百篇优秀博士论文，三篇被评为计算机学会优秀博士论文。2017年获计算机学会王选奖。2004年获得“中国计算机图形学杰出奖”。
 </p>
             </div>
           </div>
@@ -35,7 +35,7 @@
               <p><strong>题目：</strong>待定</p>
               <p style="text-indent: 27px;"><strong>时间：</strong>待定</p>
             <br><br><br><br>
-              <p class="intro2 intro" style="text-indent: 27px;"><strong>个人简介：</strong>北京大学博雅特聘教授、智能学院副院长， 博士生导师，IEEE Fellow、中国计算机学会会士和中国 图像图形学学会会士。研究领域为计算机图形学、三维视觉与可视化，在ACM SIGGRAPH、IEEE VIS、ACM TOG等国际 会议和刊物发表论文200余篇。曾担任973项目“城市大数据计算理论与方法”首席科学家、SIGGRAPH ASIA 2014和 IEEE Visualization 2005会议主席及IEEE Visualization 2004程序委员会主席。获2003年美国国家科学基 金会杰出青年学者奖（NSF CAREER Award）、2005年IEEE可视化国际会议最佳论文奖、2014年中国计算机图形学大会杰出奖， 入选2008年中科院百人计划、2010年国家“杰出青年”科学基金资助、2015年长江学者特聘计划、2016年“万人计划”领军人才、 2019年IEEE Fellow和2021年IEEE Visualization Academy。2014年获得“中国计算机图形学杰出奖”。担任中国图像图形学学会常务理事和三维视觉专委会主任。曾任第七届教育部科技委信息学部委员、中国计算机学会常务 理事和青工委主任、北京电影学院未来影像高精尖创新中心首席科学家。现主持国家重点研发计划“科技冬奥”重点专项“冰雪 项目交互式多维度观赛体验技术与系统”，为北京冬残奥冰球比赛实时提供“子弹时间”特效精彩瞬间回放，并受到了OBS工程 技术总监伊西多罗·莫瑞诺（Isidoro Moreno）的高度赞誉。
+              <p class="intro2_intro" style="text-indent: 27px;"><strong>个人简介：</strong>北京大学博雅特聘教授、智能学院副院长， 博士生导师，IEEE Fellow、中国计算机学会会士和中国 图像图形学学会会士。研究领域为计算机图形学、三维视觉与可视化，在ACM SIGGRAPH、IEEE VIS、ACM TOG等国际 会议和刊物发表论文200余篇。曾担任973项目“城市大数据计算理论与方法”首席科学家、SIGGRAPH ASIA 2014和 IEEE Visualization 2005会议主席及IEEE Visualization 2004程序委员会主席。获2003年美国国家科学基 金会杰出青年学者奖（NSF CAREER Award）、2005年IEEE可视化国际会议最佳论文奖、2014年中国计算机图形学大会杰出奖， 入选2008年中科院百人计划、2010年国家“杰出青年”科学基金资助、2015年长江学者特聘计划、2016年“万人计划”领军人才、 2019年IEEE Fellow和2021年IEEE Visualization Academy。2014年获得“中国计算机图形学杰出奖”。担任中国图像图形学学会常务理事和三维视觉专委会主任。曾任第七届教育部科技委信息学部委员、中国计算机学会常务 理事和青工委主任、北京电影学院未来影像高精尖创新中心首席科学家。现主持国家重点研发计划“科技冬奥”重点专项“冰雪 项目交互式多维度观赛体验技术与系统”，为北京冬残奥冰球比赛实时提供“子弹时间”特效精彩瞬间回放，并受到了OBS工程 技术总监伊西多罗·莫瑞诺（Isidoro Moreno）的高度赞誉。
 </p>
             </div>
           </div>
@@ -52,10 +52,10 @@
               </p>
               <p style="text-indent: 27px;"><strong>时间：</strong>待定</p>
             <br><br><br><br>
-              <p class="intro2 intro" style="text-indent: 27px;"><strong>报告摘要：</strong>To design time-optimal trajectories under the constraints of the dynamic ability of the CNC machines and a given precision bound is a basic problem in CNC machining of freeform surfaces. In this talk, we will show that efficient numerical algorithms and rigorous mathematic theories can be developed for several problems of this type, which are of practical significance. Precisely, we give polynomial-time algorithms for the problem of time-optimal trajectory planning along micro-line tool-paths and spline tool-paths under a wide range of kinematic constraints, tracking error constraints, and dynamic constraints. The concept of time-spline is introduced as a key tool to solve these problems.
+              <p class="intro2_intro" style="text-indent: 27px;"><strong>报告摘要：</strong>To design time-optimal trajectories under the constraints of the dynamic ability of the CNC machines and a given precision bound is a basic problem in CNC machining of freeform surfaces. In this talk, we will show that efficient numerical algorithms and rigorous mathematic theories can be developed for several problems of this type, which are of practical significance. Precisely, we give polynomial-time algorithms for the problem of time-optimal trajectory planning along micro-line tool-paths and spline tool-paths under a wide range of kinematic constraints, tracking error constraints, and dynamic constraints. The concept of time-spline is introduced as a key tool to solve these problems.
 </p>
               <br>
-              <p class="intro2 intro" style="text-indent: 27px;"><strong>个人简介：</strong>中国科学院数学与系统科学研究院研究员，常务副院长。长期从事数学机械化、几何自动推理、智能CAD与数控算法研究并做出了突出贡献。曾获得国家自然科学二等奖、香港求是杰出青年学者奖、吴文俊应用数学奖、吴文俊人工智能杰出贡献奖、国家基金委杰青、国际计算机学会ISSAC杰出论文奖。曾担任3个973项目的首席科学家、国家基金委创新群体学术带头人。
+              <p class="intro2_intro" style="text-indent: 27px;"><strong>个人简介：</strong>中国科学院数学与系统科学研究院研究员，常务副院长。长期从事数学机械化、几何自动推理、智能CAD与数控算法研究并做出了突出贡献。曾获得国家自然科学二等奖、香港求是杰出青年学者奖、吴文俊应用数学奖、吴文俊人工智能杰出贡献奖、国家基金委杰青、国际计算机学会ISSAC杰出论文奖。曾担任3个973项目的首席科学家、国家基金委创新群体学术带头人。
 </p>
             </div>
           </div>
@@ -213,5 +213,9 @@ export default {
 }
 .intro{
 	text-indent:35px;
+}
+
+.intro2_intro{
+  text-align:justify; 
 }
 </style>
