@@ -2,7 +2,6 @@
   <div class="g-rep">
     <div class="introduce">
       <h3>特邀报告</h3>
-      <span>著名专家学者</span>
     </div>
     <section id="keynoteSpeaker" class="sections">
     <div id="speakerList" class="container">
@@ -13,7 +12,7 @@
             <div class="keynoteMark"><span></span></div>
 
             <div class="keynote_text">
-              <img src="../../assets/ty/bhj.png" />
+              <img src="../../assets/ty/bhj.png" onclick='window.open("http://www.cad.zju.edu.cn/home/bao/")' title="查看主页"/>
               <p><strong>报告人：</strong>鲍虎军
 </p>
               <p><strong>题目：</strong>待定</p>
@@ -30,7 +29,7 @@
             <div class="keynoteMark"><span></span></div>
 
             <div class="keynote_text">
-              <img src="../../assets/ty/cbq.png" />
+              <img src="../../assets/ty/cbq.png" onclick='window.open("http://cfcs.pku.edu.cn/baoquan/")' title="查看主页"/>
               <p><strong>报告人：</strong>陈宝权</p>
               <p><strong>题目：</strong>待定</p>
               <p style="text-indent: 27px;"><strong>时间：</strong>待定</p>
@@ -46,7 +45,7 @@
             <div class="keynoteMark"><span></span></div>
 
             <div class="keynote_text">
-              <img src="../../assets/ty/gxs.png" />
+              <img src="../../assets/ty/gxs.png" onclick='window.open("http://www.mmrc.iss.ac.cn/~xgao/")' title="查看主页"/>
               <p><strong>报告人：</strong>高小山</p>
               <p><strong>题目：</strong>数控加工最优路径规划
               </p>
