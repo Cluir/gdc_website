@@ -54,11 +54,11 @@
                       (4) 提交论文的时候在Comment中备注是GDC2022录取并推荐的论文。
                   </p>
                   <p>2. 《Applied Mathematics - A Journal of Chinese Universities (Series B)》</p>
-                  <p style="margin-left:2em;text-align:justify;">根据会议审稿意见修改论文。复审投稿流程待更新。</p>
+                  <p style="margin-left:2em;text-align:justify;">根据会议审稿意见修改论文。复审投稿流程已邮件通知。</p>
                   <p>3.	《Computer Modeling in Engineering & Sciences》</p>
-                  <p style="margin-left:2em;text-align:justify;">(1) 	根据会议审稿意见修改论文。<br/>
-                    (2) 修改稿投稿时务必加后缀“-GDC2022”，并附上修改说明(需要英文) ，投稿地址：<br/>
-                     https://www.techscience.com/CMES/special_detail/integration
+                  <p style="margin-left:2em;">(1)按照会议审稿意见认真修改，将干净的修改稿上传即可，不需要附修改说明，投稿题目不需要加后缀GDC2022；<br/>
+                    (2)投稿地址：https://www.techscience.com/CMES/special_detail/integration <br/>
+                    (3)投稿时需要在"Section"这里选择 Special issue: Integration of Geometric Modeling and Numerical Simulation" 。
                   </p>
                   <p>4.	《计算机辅助设计与图形学学报》</p>
                   <p style="margin-left:2em;text-align:justify;">(1) 根据会议审稿意见修改论文，于8月12日前提交至期刊，若作者逾期视为放弃推荐；<br/>
@@ -72,12 +72,15 @@
 (3) 提交带标记的修改稿、评审意见原文、评审意见的逐条回复。
 </p>
 <p>6.《计算机科学与工程》</p>
-<p style="margin-left:2em;text-align:justify;">根据会议审稿意见修改论文。复审投稿流程待更新。</p>
+<p style="margin-left:2em;text-align:justify;">(1)根据会议审稿意见修改论文；<br/>
+(2)通过期刊主页joces.nudt.edu.cn提交论文，论文格式请使用期刊主页下载中心的模板。<br/>
+(3)提交论文时必须备注GDC 2022推荐论文。
+</p>
 <p>7. 《图学学报》</p>
 <p style="margin-left:2em;text-align:justify;">(1) 根据会议审稿意见修改论文；<br/>
 (2) 登录期刊官网(http://www.txxb.com.cn/) ，点击作者在线投稿，新用户需在线注册，老用户直接使用用户名及密码登录。<br/>
 (3) 将带批注或用修订格式的修改稿、至少2位审稿专家的审稿意见、修改说明3个文件压缩上传系统(期刊为了快速审稿，需上传会议方给出的审稿意见、根据审稿意见做出的相应回答的修改说明、带批注的修改稿) 。<br/>
-(4) 另外，为了便于本刊标记，请在投稿的计划栏目中选择“GDC2022_济南”栏目。(已经开通会议稿件投稿专门通道。) 
+(4) 另外，为了便于本刊标记，请在投稿的计划栏目中选择“GDC2022-青岛”栏目。(已经开通会议稿件投稿专门通道) 
 </p>
                 </div>
             </div>
