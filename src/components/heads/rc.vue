@@ -47,8 +47,8 @@
                     </tr>
                   
                     <tr>
-                        <td>14:00—15:40</td>
-                        <td colspan="2" style="text-align: left">论文快放</td>
+                        <td>14:00—15:30</td>
+                        <td colspan="2" style="text-align: left">论文快放1</td>
                     </tr>
                     <tr>
                         <td>16:00—17:30</td>
@@ -68,7 +68,7 @@
                         <td style="text-align: center; width: 50%"><b>日程安排</b></td>
                     </tr>
                     <tr>
-                        <td>8:30—9:00</td>
+                        <td>8:30—9:30</td>
                         <td style="text-align: left">特邀报告2</td>
                     </tr>
                     <tr>

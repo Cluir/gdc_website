@@ -7,6 +7,9 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
+      <li>2022.07.23  发布了<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc" >会议日程</a></li>
+      <li>2022.07.22  早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li>
+      <li>2022.07.21  发布了<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty" >特邀报告</a></li>
       <li>2022.07.13  GDC 2022已开放注册，请前往<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/chzc" >大会注册</a></li>
       <li>2022.07.11  发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hy" >推荐期刊的复审要求</a></li>
       <li>2022.05.21  GDC2022<a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">诚邀赞助商</a></li>
