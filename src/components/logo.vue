@@ -9,16 +9,17 @@
     <div class="g-rep img_g">
       <div class="img_tu">
         <a href="https://www.zwcad.com/" target="_blank">
-          <img src="../assets/zanzhu1-logo.png" alt="" style="width: 350px;"/>
+          <img src="../assets/zanzhu1-logo.png" alt="" style="width: 400px;margin-bottom:10px"/>
         </a>
       </div>
-      <div class="more">
-        <p>持续招募中，更多赞助信息请访问
-          <a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">
-            https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg
-          </a>
-        </p>
+
+      <div class="img_tu">
+        <a href="https://www.zwcad.com/" target="_blank">
+          <img src="../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
+        </a>
       </div>
+      <br/>
+
       
       <!-- <div class="img_tu">
         <a href="#">
@@ -50,6 +51,13 @@
         </a>
       </div>
     </div> -->
+      <div class="more">
+        <p>持续招募中，更多赞助信息请访问
+          <a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">
+            https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg
+          </a>
+        </p>
+      </div>
   
   </div>
 </template>
@@ -73,9 +81,9 @@
 .img_tu {
   /* border: 1px solid red; */
   /* width: 80%; */
-  display: block;
+  display: inline;
   text-align: center;
-  /* margin: 0px auto; */
+  margin-left: 100px;
 }
 .img_tu:nth-child(2),
 .img_tu:nth-child(3) {
