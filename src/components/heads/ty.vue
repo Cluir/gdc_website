@@ -17,7 +17,7 @@
 </p>
               <p><strong>题目：</strong>神经隐式三维重建与绘制技术
 </p>
-              <p style="text-indent: 27px;"><strong>时间：</strong>待定</p>
+              <p style="text-indent: 27px;"><strong>时间：</strong>8月20日上午09:00-10:00</p>
             <br><br><br><br>
               <p class="intro2_intro" style="text-indent: 27px;"><strong>报告摘要：</strong>三维景物的建模与绘制是计算机图形学的基础性问题，也是混合现实、数字孪生、无人系统等众多应用的核心技术。传统的三维几何建模与绘制技术经过多年发展已趋成熟，但仍面临着质量与效率之间的矛盾，且难以处理动态人体、弱纹理表面、透明与高光物体等复杂对象。近年来涌现的神经隐式表示方法为解决上述挑战提供了新的途径。该方法能够更灵活地表达三维对象的几何与外观信息，更好地学习与利用对象的先验知识，并且支持基于可微渲染的端到端优化，以实现高效率、高真实感的建模与绘制。本报告将重点介绍我们团队在该方向的最新研究进展，包括：实时单目三维场景重建、用户化身的高精度重建与多模态自然驱动等，并简要探讨未来的研究方向。
 
@@ -38,7 +38,7 @@
               <img src="../../assets/ty/cbq.png" onclick='window.open("http://cfcs.pku.edu.cn/baoquan/")' title="查看主页"/>
               <p><strong>报告人：</strong>陈宝权</p>
               <p><strong>题目：</strong>待定</p>
-              <p style="text-indent: 27px;"><strong>时间：</strong>待定</p>
+              <p style="text-indent: 27px;"><strong>时间：</strong>8月21日上午08:30—09:30</p>
             <br><br><br><br>
               <p class="intro2_intro" style="text-indent: 27px;"><strong>个人简介：</strong>北京大学博雅特聘教授、智能学院副院长， 博士生导师，IEEE Fellow、中国计算机学会会士和中国 图像图形学学会会士。研究领域为计算机图形学、三维视觉与可视化，在ACM SIGGRAPH、IEEE VIS、ACM TOG等国际 会议和刊物发表论文200余篇。曾担任973项目“城市大数据计算理论与方法”首席科学家、SIGGRAPH ASIA 2014和 IEEE Visualization 2005会议主席及IEEE Visualization 2004程序委员会主席。获2003年美国国家科学基 金会杰出青年学者奖（NSF CAREER Award）、2005年IEEE可视化国际会议最佳论文奖、2014年中国计算机图形学大会杰出奖， 入选2008年中科院百人计划、2010年国家“杰出青年”科学基金资助、2015年长江学者特聘计划、2016年“万人计划”领军人才、 2019年IEEE Fellow和2021年IEEE Visualization Academy。2014年获得“中国计算机图形学杰出奖”。担任中国图像图形学学会常务理事和三维视觉专委会主任。曾任第七届教育部科技委信息学部委员、中国计算机学会常务 理事和青工委主任、北京电影学院未来影像高精尖创新中心首席科学家。现主持国家重点研发计划“科技冬奥”重点专项“冰雪 项目交互式多维度观赛体验技术与系统”，为北京冬残奥冰球比赛实时提供“子弹时间”特效精彩瞬间回放，并受到了OBS工程 技术总监伊西多罗·莫瑞诺（Isidoro Moreno）的高度赞誉。
 </p>
@@ -55,7 +55,7 @@
               <p><strong>报告人：</strong>高小山</p>
               <p><strong>题目：</strong>数控加工最优路径规划
               </p>
-              <p style="text-indent: 27px;"><strong>时间：</strong>待定</p>
+              <p style="text-indent: 27px;"><strong>时间：</strong>8月21日下午14:00—15:00</p>
             <br><br><br><br>
               <p class="intro2_intro" style="text-indent: 27px;"><strong>报告摘要：</strong>To design time-optimal trajectories under the constraints of the dynamic ability of the CNC machines and a given precision bound is a basic problem in CNC machining of freeform surfaces. In this talk, we will show that efficient numerical algorithms and rigorous mathematic theories can be developed for several problems of this type, which are of practical significance. Precisely, we give polynomial-time algorithms for the problem of time-optimal trajectory planning along micro-line tool-paths and spline tool-paths under a wide range of kinematic constraints, tracking error constraints, and dynamic constraints. The concept of time-spline is introduced as a key tool to solve these problems.
 </p>
