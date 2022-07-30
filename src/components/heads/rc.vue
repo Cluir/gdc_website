@@ -78,9 +78,13 @@
                         <td>8:30—9:30</td>
                         <td style="text-align: left">特邀报告2</td>
                     </tr>
+                     <tr>
+                        <td rowspan="2">9:50—11.30</td>
+                        <td style="text-align: left">专题论坛1 国产CAD几何引擎</td>
+                    </tr>
                     <tr>
-                       <td>9:50—11.30</td>
-                        <td style="text-align: left">专题论坛1  数字孪生</td>
+                       
+                        <td style="text-align: left">专题论坛2  数字孪生</td>
                     </tr>
                      <tr>
                        <td>11:30—12:00</td>
@@ -96,12 +100,12 @@
                     </tr>
                     <tr>
                         <td rowspan="2">15:40—17:20</td>
-                        <td colspan="2" style="text-align: left">专题论坛2 开源工业软件</td>
+                        <td colspan="2" style="text-align: left">专题论坛3 开源工业软件</td>
                     </tr>
 
                   
                     <tr>
-                        <td   style="text-align: left">专题论坛3 深度几何学习</td>
+                        <td   style="text-align: left">专题论坛4 深度几何学习</td>
                     </tr>
                     
 
@@ -119,12 +123,10 @@
                         <td style="text-align: left">产业特别论坛  </td>
                     </tr>
                     <tr>
-                       <td rowspan="2">10:10—11:50</td>
-                        <td style="text-align: left">专题论坛4 增材制造</td>
+                       <td >10:10—11:50</td>
+                        <td style="text-align: left">专题论坛5 增材制造</td>
                     </tr>
-                    <tr>
-                        <td style="text-align: left">专题论坛5 国产CAD几何引擎</td>
-                    </tr>
+                   
                     <tr>
                         <td>11:50—12:00</td>
                         <td colspan="2" style="text-align: left">闭幕式</td>
