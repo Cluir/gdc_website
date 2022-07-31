@@ -11,7 +11,19 @@
       <br/>
         <div class="sponsor_img">
           <a href="https://www.zwcad.com/" target="_blank">
-            <img src="../../assets/zanzhu1-logo.png" alt="" style="width: 350px;"/>
+            <img src="../../assets/zanzhu1-logo.png" alt="" style="width: 300px;margin-bottom: 10px;"/>
+          </a>
+        </div>
+        
+        <div class="sponsor_img">
+          <a href="https://www.featuremaker.com/" target="_blank">
+            <img src="../../assets/zanzhu3-logo.png" alt="" style="width: 300px;"/>
+          </a>
+        </div>
+
+        <div class="sponsor_img">
+          <a href="https://www.boomingtech.com/" target="_blank">
+            <img src="../../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
           </a>
         </div>
     </div>
@@ -52,6 +64,9 @@ export default {
 }
 .sponsor_img {
   margin-bottom: 20px;
+  margin-left: 20px;
+  display: inline;
+
 }
 .sponsor > h3 {
   border-bottom: 4px solid #d8d8d8;

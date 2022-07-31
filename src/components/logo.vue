@@ -9,7 +9,13 @@
     <div class="g-rep img_g">
       <div class="img_tu">
         <a href="https://www.zwcad.com/" target="_blank">
-          <img src="../assets/zanzhu1-logo.png" alt="" style="width: 400px;margin-bottom:10px"/>
+          <img src="../assets/zanzhu1-logo.png" alt="" style="width: 300px;margin-bottom:10px"/>
+        </a>
+      </div>
+
+      <div class="img_tu">
+        <a href="https://www.featuremaker.com/" target="_blank">
+          <img src="../assets/zanzhu3-logo.png" alt="" style="width: 300px;"/>
         </a>
       </div>
 
@@ -18,7 +24,9 @@
           <img src="../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
         </a>
       </div>
-      <br/>
+
+
+      <br/>      <br/>
 
       
       <!-- <div class="img_tu">
@@ -83,11 +91,11 @@
   /* width: 80%; */
   display: inline;
   text-align: center;
-  margin-left: 100px;
+  margin-left: 20px;
 }
 .img_tu:nth-child(2),
 .img_tu:nth-child(3) {
-  margin-left: 65px;
+  /* margin-left: 65px; */
 }
 .img_tu:last-child {
   position: absolute;
@@ -141,7 +149,7 @@ font-size: 7vw;
 }
 .img_tu:nth-child(2),
 .img_tu:nth-child(3) {
-  margin-left: 65px;
+  /* margin-left: 65px; */
 }
 .img_tu:last-child {
   position: absolute;
