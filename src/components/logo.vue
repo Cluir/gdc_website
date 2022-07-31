@@ -14,7 +14,7 @@
       </div>
 
       <div class="img_tu">
-        <a href="https://www.zwcad.com/" target="_blank">
+        <a href="https://www.boomingtech.com/" target="_blank">
           <img src="../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
         </a>
       </div>
