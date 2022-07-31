@@ -12,12 +12,14 @@
         <h2>论坛列表</h2>
         <ul>
           <li><b><a href="#panel_1">国产CAD几何引擎</a></b></li>
-          <li><b><a href="#panel_2">开源工业软件</a></b></li>
+          <li><b><a href="#panel_2">数字孪生</a></b></li>
+          <li><b><a href="#panel_3">开源工业软件</a></b></li>
+          <li><b><a href="#panel_4">深度几何学习</a></b></li>
+          <li><b><a href="#panel_5">增材制造</a></b></li>
         </ul>
       </div>
 
       <div id="panel_1"></div>
-    
       <div class="forum">
         <h2>国产CAD几何引擎</h2>
         <p><b>论坛简介</b></p>
@@ -195,11 +197,21 @@
         <hr style="width: 95%; margin: auto">
          -->
       </div>
-       
 
-     
+      <div id="panel_2"></div>
       <div class="forum">
-        <div id="panel_2"></div>
+
+        <h2>数字孪生</h2>
+        <p><b>论坛简介</b></p>
+        <p style="text-indent: 2em; margin-top: 5px;">
+          待更新...
+        </p>
+
+      </div>
+
+      <div id="panel_3"></div>
+      <div class="forum">
+        <div id="panel_3"></div>
         <h2>开源工业软件</h2>
         <p><b>论坛简介</b></p>
         <p style="text-indent: 2em; margin-top: 5px;">
@@ -335,7 +347,29 @@
         <hr style="width: 95%; margin: auto">
         -->
       </div>
-      
+
+
+      <div id="panel_4"></div>
+      <div class="forum">
+
+        <h2>深度几何学习</h2>
+        <p><b>论坛简介</b></p>
+        <p style="text-indent: 2em; margin-top: 5px;">
+          待更新...
+        </p>
+
+      </div>
+
+      <div id="panel_5"></div>
+      <div class="forum">
+
+        <h2>增材制造</h2>
+        <p><b>论坛简介</b></p>
+        <p style="text-indent: 2em; margin-top: 5px;">
+          待更新...
+        </p>
+
+      </div>
     </div>
 
   </div>
