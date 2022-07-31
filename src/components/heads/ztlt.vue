@@ -8,7 +8,7 @@
     </div>
 
     <div class="content-main">
-      <div class="formu-list" style="margin-bottom: 20px;">
+      <div class="formu-list" style="font-size: 23px; margin-bottom: 20px;">
         <h2>论坛列表</h2>
         <ul>
           <li><b><a href="#panel_1">国产CAD几何引擎</a></b></li>
