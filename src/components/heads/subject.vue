@@ -7,11 +7,17 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
+      <li>2022.07.31  赞助商：<a href="https://www.featuremaker.com/" >圜晖科技</a></li>
+      <li>2022.07.31  发布了专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/panel_1" >国产CAD几何引擎</a></li>
+      <li>2022.07.31  发布了专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/panel_3" >开源工业软件</a></li>
+      <li>2022.07.27  赞助商：<a href="https://www.boomingtech.com/" >不鸣科技</a></li>
       <li>2022.07.23  发布了<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc" >会议日程</a></li>
       <li>2022.07.22  早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li>
-      <li>2022.07.21  发布了<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty" >特邀报告</a></li>
+      <li>2022.07.21  发布了特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">神经隐式三维重建与绘制技术（鲍虎军）</a></li>
+      <li>2022.07.21  发布了特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数控加工最优路径规划（高小山）</a></li>
       <li>2022.07.13  GDC 2022已开放注册，请前往<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/chzc" >大会注册</a></li>
       <li>2022.07.11  发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hy" >推荐期刊的复审要求</a></li>
+      <li>2022.06.11  赞助商：<a href="https://www.zwcad.com/" >中望科技</a></li>
       <li>2022.05.21  GDC2022<a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">诚邀赞助商</a></li>
       <li>2022.05.05  征稿截止日期延期至5月31日</li>
       <li>2022.05.05  论文录用通知延期至7月11日</li>
