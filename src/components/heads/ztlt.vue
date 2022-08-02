@@ -369,15 +369,64 @@
         </p>
 
       </div>
-      
+
+      <!-- <div class="menu" v-if="topShow">
+        <p><b><a href="#panel_1">国产CAD几何引擎</a></b></p>
+        <p><b><a href="#panel_2">数字孪生</a></b></p>
+        <p><b><a href="#panel_3">开源工业软件</a></b></p>
+        <p><b><a href="#panel_4">深度几何学习</a></b></p>
+        <p><b><a href="#panel_5">增材制造</a></b></p>
+      </div> -->
+
+      <!-- 点击回到顶部 -->
+      <div class="backTop" @click="backTop" v-if="topShow">
+        <img src="../../assets/up-arrow.png" style="width: 50px;">
+
+      </div>
+
     </div>
 
   </div>
+
 </template>
 
 <script>
 export default {
-    name:'ztlt'
+  name: 'ztlt',
+  data() {
+    return {
+      topShow: false, //记录当前返回顶部标志的可视状态
+      // topShow: true, //记录当前返回顶部标志的可视状态
+      scrollTop: 0, //当前滚动位置
+    };
+  },
+  mounted() {
+    window.addEventListener("scroll", this.scrollToTop); //监听滚动条
+  },
+  destroyed() {
+    window.removeEventListener("scroll", this.scrollToTop); //移除滚动条监听
+  },
+  methods: {
+    backTop() {
+      window.scroll({ top: 0, left: 0, behavior: 'smooth' })
+    },
+
+    scrollToTop() {
+      this.scrollTop =
+        window.scrollY ||
+        window.pageYOffset ||
+        document.documentElement.scrollTop ||
+        document.body.scrollTop;
+      // console.log(this.scrollTop);
+
+      // 计算距离顶部的高度，当高度大于300显示回顶部图标，小于300则隐藏
+      if (this.scrollTop > 800) {
+        this.topShow = true;
+      } else {
+        this.topShow = false;
+      }
+    },
+  }
 }
 </script>
 
@@ -419,4 +468,27 @@ h2{
 .teacher{
   margin-top: 20px;
 }
+
+.backTop {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  color: #ddd6d7;
+  position: fixed;
+  right: 15%;
+  bottom: 15%;
+}
+
+.menu{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: #ddd6d7;
+    position: fixed;
+    right: 15%;
+    bottom: 35%;
+    background-color: rgb(227, 24, 24);
+    font-size: 20px;
+}
+
 </style>
