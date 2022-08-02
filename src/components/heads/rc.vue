@@ -38,7 +38,7 @@
                     </tr>
                     <tr>
                        <td>9:00—10:00</td>
-                        <td style="text-align: left">特邀报告1 </td>
+                        <td style="text-align: left"><router-link to="/ty">特邀报告1：神经隐式三维重建与绘制技术 </router-link>  &nbsp; &nbsp;   <b>报告人:</b>浙江大学 鲍虎军</td>
                     </tr>
                     <tr>
                         <td>10:20—12:00</td>
@@ -76,15 +76,15 @@
                     </tr>
                     <tr>
                         <td>8:30—9:30</td>
-                        <td style="text-align: left">特邀报告2</td>
+                        <td style="text-align: left"><router-link to="/ty">特邀报告2  </router-link> &nbsp; &nbsp;   <b>报告人:</b>北京大学 陈宝权</td>
                     </tr>
                      <tr>
                         <td rowspan="2">9:50—11.30</td>
-                        <td style="text-align: left">专题论坛1 国产CAD几何引擎</td>
+                        <td style="text-align: left"><router-link to="/ztlt">专题论坛1 国产CAD几何引擎</router-link></td>
                     </tr>
                     <tr>
                        
-                        <td style="text-align: left">专题论坛2  数字孪生</td>
+                        <td style="text-align: left"><router-link to="/ztlt">专题论坛2  数字孪生</router-link></td>
                     </tr>
                      <tr>
                        <td>11:30—12:00</td>
@@ -92,7 +92,7 @@
                     </tr>
                      <tr>
                        <td>14:00—15:00</td>
-                        <td style="text-align: left">特邀报告3</td>
+                        <td style="text-align: left"><router-link to="/ty">特邀报告3：数控加工最优路径规划 </router-link> &nbsp; &nbsp;   <b>报告人:</b> 中国科学院 高小山</td>
                     </tr>
                     <tr>
                         <td>15:00—15:40</td>
@@ -100,12 +100,12 @@
                     </tr>
                     <tr>
                         <td rowspan="2">15:40—17:20</td>
-                        <td colspan="2" style="text-align: left">专题论坛3 开源工业软件</td>
+                        <td colspan="2" style="text-align: left"><router-link to="/ztlt">专题论坛3 开源工业软件</router-link> </td>
                     </tr>
 
                   
                     <tr>
-                        <td   style="text-align: left">专题论坛4 深度几何学习</td>
+                        <td   style="text-align: left"><router-link to="/ztlt">专题论坛4 深度几何学习</router-link></td>
                     </tr>
                     
 
@@ -124,7 +124,7 @@
                     </tr>
                     <tr>
                        <td >10:10—11:50</td>
-                        <td style="text-align: left">专题论坛5 增材制造</td>
+                        <td style="text-align: left"><router-link to="/ztlt">专题论坛5 增材制造</router-link></td>
                     </tr>
                    
                     <tr>
