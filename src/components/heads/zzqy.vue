@@ -20,12 +20,21 @@
             <img src="../../assets/zanzhu3-logo.png" alt="" style="width: 300px;"/>
           </a>
         </div>
+       <div class="tebiezanzhu">
+        <a href="https://www.zwcad.com/" target="_blank">中望软件</a>
+        <a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a>
+       </div> 
 
+        <h3>铂金赞助</h3>
+        <br/>
         <div class="sponsor_img">
           <a href="https://www.boomingtech.com/" target="_blank">
             <img src="../../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
           </a>
         </div>
+        <div class="bojinzanzhu">
+          <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>
+        </div> 
     </div>
         <br/>
       <br/>
@@ -82,5 +91,14 @@ export default {
   margin-top: 10px;
   color: #898989;
   font-size: 15px;
+}
+.tebiezanzhu :nth-child(1){
+  margin-left: 120px;
+}
+.tebiezanzhu :nth-child(2){
+  margin-left: 240px;
+}
+.bojinzanzhu {
+  margin-left: 100px;
 }
 </style>

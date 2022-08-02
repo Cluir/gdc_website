@@ -6,7 +6,13 @@
       <h3>赞助企业</h3>
       <span>SPONSOR</span>
     </div>
+    
     <div class="g-rep img_g">
+      <h3>特别赞助：
+        <a href="https://www.zwcad.com/" target="_blank">中望软件</a>、
+        <a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a>
+      </h3>
+      <br/>
       <div class="img_tu">
         <a href="https://www.zwcad.com/" target="_blank">
           <img src="../assets/zanzhu1-logo.png" alt="" style="width: 300px;margin-bottom:10px"/>
@@ -18,7 +24,10 @@
           <img src="../assets/zanzhu3-logo.png" alt="" style="width: 300px;"/>
         </a>
       </div>
-
+      <h3>铂金赞助：
+        <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>
+      </h3>
+      <br/>
       <div class="img_tu">
         <a href="https://www.boomingtech.com/" target="_blank">
           <img src="../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
