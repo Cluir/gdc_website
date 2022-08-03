@@ -27,7 +27,7 @@
           几何引擎是CAD软件的核心模块。我国的CAD软件在系统稳定性和生态完整性上与国际先进水平尚有一定差距，特别是在自主产权的CAD几何引擎上呈现卡脖子和研究断档态势，链条式地影响到航空、航天、国防等核心制造领域。近年来，国家重启了对CAD几何引擎和CAD软件研发的战略部署，本论坛将邀请到我国CAD学术和工业界的资深人士，共谈国产CAD几何引擎的过去、现状和未来。
         </p>
 
-        <!--
+
         <p class="teacher"><b>论坛召集人</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
@@ -121,8 +121,9 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify">
-                  <b>汪国平</b>，北京大学博雅特聘教授，从事计算机图形学和虚拟仿真等研究，1997年6月获得复旦大学理学博士学位，2002年8月受聘北京大学信息学院教授，现任北京大学北京市虚拟仿真与可视化工程中心主任，北大图形与交互技术实验室主任。主持研发了特征驱动的三维离散造型设计与优化系统PUM、物理仿真引擎Physika、分布式虚拟仿真支撑平台ViWo、基于图像的三维重建系统i23D、虚实融合系统VVF等，在国防军事、工程设计和数字城市等行业领域有良好应用。曾获教育部科技进步一等奖、中国图像图形学会科技进步奖等，2009年获得国家杰出青年基金资助，2010年获国务院政府特殊津贴，2020年获得中国计算机图形学杰出奖，发表学术论文200余篇，国家发明专利50余项，多项专利获得商业转让。现任中国计算机学会 CADCG专委会主任，CSIAM GDC专委会主任、中国指挥与控制学会虚拟现实与人机交互专委会主任，中国图象图形学会副理事长，中国图学会常务理事，中国计算机学会理事，军委科技委智能领域专家，军委科技委深圳快响小组成员、装发陆军智能应用专业组专家、国家信息标准化委员会专家委员，国家信息标准化委员会SC24分委会副主任委员，图学学报主编和VR&IH副主编等。
-
+                  <b>汪国平</b>，北京大学博雅特聘教授，从事计算机图形学和虚拟仿真等研究，1997年6月获得复旦大学理学博士学位，2002年8月受聘北京大学信息学院教授，现任北京大学北京市虚拟仿真与可视化工程中心主任，北大图形与交互技术实验室主任。主持研发了特征驱动的三维离散造型设计与优化系统PUM、物理仿真引擎Physika、分布式虚拟仿真支撑平台ViWo、基于图像的三维重建系统i23D、虚实融合系统VVF等，在国防军事、工程设计和数字城市等行业领域有良好应用。曾获教育部科技进步一等奖、中国图像图形学会科技进步奖等，2009年获得国家杰出青年基金资助，2010年获国务院政府特殊津贴，2020年获得中国计算机图形学杰出奖，发表学术论文200余篇，国家发明专利50余项，多项专利获得商业转让。现任中国计算机学会
+                  CADCG专委会主任，CSIAM
+                  GDC专委会主任、中国指挥与控制学会虚拟现实与人机交互专委会主任，中国图象图形学会副理事长，中国图学会常务理事，中国计算机学会理事，军委科技委智能领域专家，军委科技委深圳快响小组成员、装发陆军智能应用专业组专家、国家信息标准化委员会专家委员，国家信息标准化委员会SC24分委会副主任委员，图学学报主编和VR&IH副主编等。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">wgp@graphics.pku.edu.cn</span>
               </td>
@@ -183,19 +184,20 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify">
-                  <b>陈志杨</b>，杭州新迪数字工程系统有限公司CTO，长期从事三维CAD软件研发，具有丰富CAD软件理论和开发实践经验。浙江大学机械工程学院博士、浙江大学计算机科学与技术学院博士后。中国图学会理事、中国图学会企业工作委员会副主任委员、浙江工业软件产业技术联盟副理事长、东南大学机械工程学院硕士生导师（校外）、全国信息技术标准化技术委员会云计算标准工作组（CCWG）技术专家。
+                  <b>银鸽</b>，2020年获英国剑桥大学计算力学博士学位，同年作为”海外高层次人才“引入广州市，现任广州中望龙腾软件股份有限公司CAX算法研究部总监，主持几何建模底层算法、网格/点云建模的研究和开发工作。银鸽先后师从Fehmi
+                  Cirak、Malcolm Sabin和Mark
+                  Girolami，曾在浙江大学、英国国立阿兰图灵研究所从事CAX理论研究工作，期间参与了瑞士ABB集团、英国国防部、美国NASA的科研项目，在计算力学/计算数学领域发表多篇论文，拥有多项发明专利。
                 </p>
-                邮箱：<span style="color:rgb(52, 152, 221)">chen.zhiyang@newdimchina.com</span>
               </td>
               <td style="width: 25%; vertical-align: top">
-                <img src="../../assets/ztlt/czy.png" style="display: block; margin: 10px; width: 80%">
+                <img src="../../assets/ztlt/yg.jpg" style="display: block; margin: 10px; width: 80%">
               </td>
             </tr>
           </tbody>
         </table>
-        
+
         <hr style="width: 95%; margin: auto">
-         -->
+
       </div>
 
       <div id="panel_2"></div>
@@ -203,7 +205,7 @@
 
         <h2>数字孪生</h2>
         <p><b>论坛简介</b></p>
-        <p style="text-indent: 2em; margin-top: 5px;">
+        <p style="text-indent: 2em; margin-top: 5px; color: blue;">
           待更新...
         </p>
 
@@ -218,14 +220,14 @@
           “开源+软件”
           组合是实现专业领域软件技术腾飞的重要途径。开源工业软件及其商业发行版、商业解决方案，将成为提升工业发展质量和效益的基础工具。在当今的开源浪潮下，推进开源与工业软件充分融合，发挥庞大的开源社区的力量，聚众人之智、众人之力，完善工业软件产业链，对整个工业领域的发展起着重要作用。本论坛将邀请业内著名专家学者，对工业软件开源社区openCAX的建设进展进行介绍，分享结构拓扑优化、等几何分析、偏微分方程数值求解器、基于模型的系统工程、开源CAE框架等方向的最新软件成果。
         </p>
-        <!--
+
         <p class="teacher"><b>论坛召集人</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>徐岗</b>
-                ，杭州电子科技大学教授，博导，计算机学院副院长，CCF杰出会员，主要研究方向为几何计算、等几何分析及工业软件研发。2003年本科毕业于山东大学，2008年博士毕业于浙江大学，2008-2010年在法国INRIA
+                  ，杭州电子科技大学教授，博导，计算机学院副院长，CCF杰出会员，主要研究方向为几何计算、等几何分析及工业软件研发。2003年本科毕业于山东大学，2008年博士毕业于浙江大学，2008-2010年在法国INRIA
                   Sophia-Antipolis
                   从事博士后研究。曾获得全国首届“几何设计与计算”青年学者奖，陆增镛CAD&CG高科技奖二等奖，入选浙江省杰青、浙江省“万人计划”及浙江省首批高校创新领军人才。以负责人身份主持在研或完成国家自然科学基金项目7项（重点项目2项，面上项目3项），主持国家重点研发计划课题1项，中物院挑战计划专题项目1项，国家数值风洞重大工程课题1项，浙江省重点研发计划项目1项，并主持研发了面向天枢人工智能平台的深度学习可视化系统。
                 </p>
@@ -246,7 +248,7 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>郭旭</b>，
-                大连理工大学工程力学系主任、openCAX工委会主席、工业装备结构分析国家重点实验室副主任、中国力学学会副理事长、计算力学专委会主任、国际结构与多学科优化学会执委、国务院力学学科评议组成员、教育部教学指导委员会（力学）成员、国家杰出青年基金获得者、长江学者特聘教授、自然科学基金委创新研究群体负责人。主要从事计算力学、结构优化和固体力学研究。曾2次获得国家自然科学二等奖、2次获得教育部自然科学一等奖。还曾获全国创新争先奖、中国青年科技奖、钱令希计算力学成就奖、亚洲结构与多学科优化学会成就奖等。
+                  大连理工大学工程力学系主任、openCAX工委会主席、工业装备结构分析国家重点实验室副主任、中国力学学会副理事长、计算力学专委会主任、国际结构与多学科优化学会执委、国务院力学学科评议组成员、教育部教学指导委员会（力学）成员、国家杰出青年基金获得者、长江学者特聘教授、自然科学基金委创新研究群体负责人。主要从事计算力学、结构优化和固体力学研究。曾2次获得国家自然科学二等奖、2次获得教育部自然科学一等奖。还曾获全国创新争先奖、中国青年科技奖、钱令希计算力学成就奖、亚洲结构与多学科优化学会成就奖等。
                 </p>
               </td>
               <td style="width: 25%; vertical-align: top">
@@ -282,7 +284,7 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>张文丰</b>，
-                中组部国家特聘专家，重点研发计划首席科学家，92*数字化专家组专家。上海宇航系统工程研究所，科技委常委。新一代运载火箭总师助理，数字化副总师。自2018年人才引进回国后，牵引全所MBSE一体化研制模式转型工作，并在火箭、卫星和探月等型号开展试点实践。长期从事基于模型的系统工程、数字孪生、基于模型定义和复杂系统建模与仿真研究。主持和参与科技部重点研发计划、装发预研、国防基础科研、日产和丰田全车型等十余个项目，获得教育部自然科学一等奖、日产“行家风范奖”、本田“最佳合作伙伴奖”等奖项。
+                  中组部国家特聘专家，重点研发计划首席科学家，92*数字化专家组专家。上海宇航系统工程研究所，科技委常委。新一代运载火箭总师助理，数字化副总师。自2018年人才引进回国后，牵引全所MBSE一体化研制模式转型工作，并在火箭、卫星和探月等型号开展试点实践。长期从事基于模型的系统工程、数字孪生、基于模型定义和复杂系统建模与仿真研究。主持和参与科技部重点研发计划、装发预研、国防基础科研、日产和丰田全车型等十余个项目，获得教育部自然科学一等奖、日产“行家风范奖”、本田“最佳合作伙伴奖”等奖项。
                 </p>
               </td>
               <td style="width: 25%; vertical-align: top">
@@ -345,7 +347,7 @@
           </tbody>
         </table>
         <hr style="width: 95%; margin: auto">
-        -->
+
       </div>
 
 
@@ -356,6 +358,104 @@
         <p style="text-indent: 2em; margin-top: 5px;">
           三维几何模型是描述三维空间内物体的表面或内部的数学表达，是计算机图形学的主要研究对象。几何数据的生成和处理是构建真实世界数字化三维表达的关键，是图形学的核心研究内容，在国防军事、智慧城市、智能制造、生活医疗、机器人等领域都有重大的应用需求。近些年来，随着人工智能技术的快速发展，同时伴随着大量三维数据的出现，给三维几何数据的生成和处理技术革新带来了机遇和挑战。围绕“深度几何学习”这一主题，本论坛邀请到学术界多位青年教师分享他们在几何配准、重建、表达、处理、分析与合成等方面的最新研究进展，并就其中的相关问题展开讨论。
         </p>
+
+        <p class="teacher"><b>论坛召集人</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>胡瑞珍</b>，
+                  深圳大学长聘副教授，博士生导师，广东省杰青，深圳市优青。研究方向为计算机图形学，长期从事智能几何建模与处理方面的研究，发表ACM SIGGRAPH/TOG、IEEE TVCG等CCF
+                  A类论文二十余篇；入选中科协青年人才托举工程；荣获亚洲图形学协会青年学者奖、几何设计与计算青年学者奖；曾担任国际会议SMI
+                  2020程序委员会主席，多次担任SIGGRAPH等大会程序委员会委员；担任中国计算机学会计算机辅助设计与图形学专委会副秘书长、计算机图形学与混合现实在线平台(GAMES)线上活动运营负责人。</p>
+                邮箱：<span style="color:rgb(52, 152, 221)">ruizhen.hu@szu.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/hrz.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://csse.szu.edu.cn/staff/ruizhenhu/ ')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者1</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>李昌健</b>，
+                  现为英国爱丁堡大学助理教授。在此之前，他作为初级研究员任职法国国家信息与自动化研究所（INRIA）进行研究工作。他于2019年在香港大学（HKU）获得博士学位，师从王文平教授，并于2019-2021年间在英国伦敦大学学院（UCL）进行博士后研究，师从Niloy
+                  Mitra教授。他的研究方向为计算机图形学，主要研究兴趣为三维内容生成与分析，包括基于草图的智能三维建模，医学图像处理与建模，几何处理，三维重建，深度学习等。请参考李昌健博士个人主页获得更多信息。</p>
+                邮箱：<span style="color:rgb(52, 152, 221)">chjili2011@gmail.com</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lcj.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://enigma-li.github.io')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者2</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>李曼祎</b>，
+                  山东大学软件学院人机交互与虚拟现实中心副研究员。2018年博士毕业于山东大学计算机科学与技术学院，2019-2021年在加拿大西蒙弗雷泽大学GrUVi实验室进行博士后研究。研究方向为基于深度学习的三维建模，具体包括三维模型重建、三维形状生成、室内场景生成等，相关成果已形成多篇论文发表于TOG、Siggraph
+                  Asia、CVPR等计算机图形学和视觉的期刊或会议。担任TVCG、CVPR、ECCV等会议或期刊审稿人、Graphics Interface 2022程序委员会委员等。</p>
+                邮箱：<span style="color:rgb(52, 152, 221)">manyili@sdu.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lmw.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://manyili12345.github.io/')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者3</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>李贤芝</b>，
+                  华中科技大学计算机科学与技术学院副教授，于2020年7月获得香港中文大学计算机科学与工程专业博士学位，2020年8月至2021年8月担任香港中文大学计算机系和香港物流机器人研究中心博士后研究员。研究兴趣集中在三维视觉、计算机视觉、深度学习和人工智能，侧重于利用人工智能等技术对三维空间中的物体进行感知和分析，致力于从三维视觉的角度解决各种实际应用场景中的视觉分析问题。目前已于ACM
+                  TOG、ACM SIGGRAPH、 IEEE TVCG、CVPR、ICCV、ECCV等国际会议和期刊上发表论文十余篇，并担任多个会议和期刊的审稿人。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">xzli@hust.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lxz.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://nini-lxz.github.io/')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者4</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>张举勇</b>，
+                  中国科学技术大学数学科学学院特任教授，博士生导师，国家基金委优秀青年基金获得者。2006年本科毕业于中科大计算机系，2011年博士毕业于新加坡南洋理工大学，2011年至2012年于瑞士联邦理工学院洛桑分校从事博士后研究。研究领域为三维视觉与计算机图形学，近期主要研究兴趣为基于神经隐式表示、逆向渲染与数值优化方法对真实物理世界进行高效高保真三维数字化，以及高真实感虚拟数字内容的创建。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">juyong@ustc.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/zjy.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://staff.ustc.edu.cn/~juyong/')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
 
       </div>
 
@@ -368,20 +468,140 @@
           增材制造是一种快速发展的新型制造技术，在高几何复杂度、多功能性需求的产品制造中具有显著优势。目前增材制造已在航空航天、医疗器械、个性化消费品等领域开展了初步应用并展现出广阔的前景。研究如何通过几何与拓扑结构的巧妙设计和精准制造，达成传统结构所不具备的优良物理性质，已成为多学科交叉的研究热点。本论坛邀请到来自数学、计算力学、机械科学与工程、计算机科学等多个领域从事增材制造相关研究的一线专家学者，就增材制造中的几何与拓扑优化、超材料设计等几何计算的最新研究进展和关键问题进行探讨。
         </p>
 
+        <p class="teacher"><b>论坛召集人</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>吕琳</b>，
+                  山东大学齐鲁青年学者特聘教授。研究方向为计算机图形学，特别是以数字制造为背景的几何计算与优化问题。发表论文60余篇，出版专著1部，授权发明专利35项。获国际实体与物理造型会议（SPM
+                  2020）最佳论文一等奖， 2020年度山东省自然科学一等奖，2021年度吴文俊人工智能自然科学奖二等奖等。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">llu@sdu.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/ll.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://irc.cs.sdu.edu.cn/~lulin')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者1</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>李好</b>，
+                  华中科技大学机械学院副教授/博导，国家重点研发计划青年项目首席科学家，湖北省楚天学者。主要围绕航空、航天、航海等重点领域关键产品的轻量化、整体化、多功能设计需求，从事几何驱动的拓扑优化设计方法及软件、功能超材料结构的多尺度设计与制造、面向制造的优化设计方法与技术等方面的科研工作，发表专著2部、SCI论文40余篇，申请/授权发明专利20余项、登记计算机软件著作权5项，获湖北省科技进步二等奖等奖励。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">lihao2009@hust.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lh.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://faculty.hust.edu.cn/LIHAO/zh_CN/index.htm')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者2</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>刘继凯</b>，
+                  山东大学机械工程学院教授、博导，齐鲁青年学者。2015年于加拿大阿尔伯塔大学获得博士学位，2016年-2018年于美国匹兹堡大学从事博士后研究工作。主要从事拓扑优化与增材制造相关的研究工作。主持与参与国家自然科学基金、装备预研共用技术项目、装备预研快速扶持项目、山东省重点研发计划项目、山东省自然科学基金重大基础项目等国家及省部级项目10余项。至今以一作或通讯作者身份发表SCI检索论文40余篇（中科院一区11篇，ESI高被引5篇）。曾受邀前往加拿大滑铁卢大学、香港中文大学等世界知名高校做专题学术报告。兼任中国机械工程学会增材制造分会委员、山东省工研院增材制造协同创新中心共建负责人。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">jikai_liu@sdu.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/ljk.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://www.mech.sdu.edu.cn/info/1537/129551.htm')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者3</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>王伟明</b>，
+                  大连理工大学数学科学学院，副教授。访问德国亚琛工业大学计算机学院、
+                  2018年在玛丽居里基金的资助下到荷兰代尔夫特理工大学进行博士后工作。主要研究为数字几何处理与计算制造。主持国家自然科学基金青年/面上、玛丽居里基金、辽宁省面上项目等；发表论文20余篇、ESI高被引论文2篇，申请发明专利4项。获得国际结构与多学科优化/Springer最佳论文奖、第十三届几何设计与计算大会最佳论文奖等。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">wwmdlut@dlut.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/wwm.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://wmwang.weebly.com/ ')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者4</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>熊异</b>，
+                  南方科技大学副研究员，博士生导师，深圳市海外高层次人才。2016年毕业于芬兰阿尔托大学工程设计与制造专业，获博士学位。主要从事增材制造装备、自适应工艺规划、设计制造一体化等领域研究。在国际学术刊物杂志及重要国际学术会议上发表论文近40篇。目前承担有科技部、国家自然科学基金、广东省自然科学基金、深圳市科创委项目多项。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">xiongy3@sustech.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/xy.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://faculty.sustech.edu.cn/xiongy3/')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者5</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>邹强</b>，
+                  浙江大学计算机学院CAD&CG国家重点实验室研究员，博士生导师。研究方向为CAD直接建模、CAM加工仿真。研究成果“等水平规划
+                  (IsoLevel)”已作为路径规划领域代表性算法，收录于MIT研究生课程。任中国计算机学会CAD&CG专委会委员，中国图象图形学学会智能图形专委会委员，多个国际会议的程序委员会委员、分论坛主席。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">qiangzou@cad.zju.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/zq.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://person.zju.edu.cn/qiangzou')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
       </div>
 
-      <!-- <div class="menu" v-if="topShow">
-        <p><b><a href="#panel_1">国产CAD几何引擎</a></b></p>
-        <p><b><a href="#panel_2">数字孪生</a></b></p>
-        <p><b><a href="#panel_3">开源工业软件</a></b></p>
-        <p><b><a href="#panel_4">深度几何学习</a></b></p>
-        <p><b><a href="#panel_5">增材制造</a></b></p>
-      </div> -->
+      <div class="menu" v-if="topShow">
+        <div class="menu_list" v-if="Menu">
+          <p><b><a href="#panel_1">国产CAD几何引擎</a></b></p>
+          <p><b><a href="#panel_2">数字孪生</a></b></p>
+          <p><b><a href="#panel_3">开源工业软件</a></b></p>
+          <p><b><a href="#panel_4">深度几何学习</a></b></p>
+          <p><b><a href="#panel_5">增材制造</a></b></p>
+        </div>
+        <div class="menu_icon" @click="showMenu"><img src="../../assets/menu_icon.png" style="width: 50px;"></div>
+
+      </div>
 
       <!-- 点击回到顶部 -->
       <div class="backTop" @click="backTop" v-if="topShow">
         <img src="../../assets/up-arrow.png" style="width: 50px;">
-
       </div>
 
     </div>
@@ -396,7 +616,7 @@ export default {
   data() {
     return {
       topShow: false, //记录当前返回顶部标志的可视状态
-      // topShow: true, //记录当前返回顶部标志的可视状态
+      Menu: false,
       scrollTop: 0, //当前滚动位置
     };
   },
@@ -410,7 +630,17 @@ export default {
     backTop() {
       window.scroll({ top: 0, left: 0, behavior: 'smooth' })
     },
+    showMenu(){
+      console.log("hhh")
+      console.log(this.Menu)
+      if(this.Menu){
+        this.Menu = false;
+      }else{
+        this.Menu = true;
+      }
 
+      
+    },
     scrollToTop() {
       this.scrollTop =
         window.scrollY ||
@@ -419,8 +649,8 @@ export default {
         document.body.scrollTop;
       // console.log(this.scrollTop);
 
-      // 计算距离顶部的高度，当高度大于300显示回顶部图标，小于300则隐藏
-      if (this.scrollTop > 800) {
+
+      if (this.scrollTop > 600) {
         this.topShow = true;
       } else {
         this.topShow = false;
@@ -480,15 +710,21 @@ h2{
 }
 
 .menu{
-    width: 200px;
-    height: 200px;
-    text-align: center;
+
+    text-align: left;
     color: #ddd6d7;
     position: fixed;
     right: 15%;
-    bottom: 35%;
-    background-color: rgb(227, 24, 24);
-    font-size: 20px;
+    bottom: 21%;
+}
+
+.menu_icon{
+    width: 30px;
+    height: 30px;
+    color: #ddd6d7;
+    position: fixed;
+    right: 15%;
+    bottom: 21%;
 }
 
 </style>
