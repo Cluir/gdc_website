@@ -35,6 +35,19 @@
         <div class="bojinzanzhu">
           <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>
         </div> 
+
+        <h3>金牌赞助</h3>
+        <br/>
+        <div class="sponsor_img">
+          <a href="https://www.hoteamsoft.com/" target="_blank">
+            <img src="../../assets/zanzhu4-logo.png" alt="" style="width: 300px;"/>
+          </a>
+        </div>
+        <div class="jinpaizanzhu">
+          <a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a>
+        </div> 
+
+
     </div>
         <br/>
       <br/>
@@ -99,6 +112,9 @@ export default {
   margin-left: 240px;
 }
 .bojinzanzhu {
-  margin-left: 100px;
+  margin-left: 120px;
+}
+.jinpaizanzhu {
+  margin-left: 120px;
 }
 </style>

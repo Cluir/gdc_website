@@ -7,6 +7,7 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
+      <li>2022.08.03  新增赞助商：<a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a></li>
       <li>2022.07.31  新增赞助商：<a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a></li>
       <li>2022.07.31  发布了专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/panel_1">国产CAD几何引擎</a></li>
       <li>2022.07.31  发布了专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/panel_3" >开源工业软件</a></li>

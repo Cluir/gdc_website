@@ -33,6 +33,17 @@
           <img src="../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
         </a>
       </div>
+       <br/>
+       <br/>
+
+      <h3>&nbsp;金牌赞助：
+        <a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a>
+      </h3>
+      <div class="img_tu">
+        <a href="https://www.hoteamsoft.com/" target="_blank">
+          <img src="../assets/zanzhu4-logo.png" alt="" style="width: 300px;"/>
+        </a>
+      </div>
 
 
       <br/>      <br/>
@@ -103,7 +114,7 @@
   text-align: center;
   margin-left: 20px;
 }
-.img_tu:nth-child(2),
+.img_tu:nth-child(2), 
 .img_tu:nth-child(3) {
   /* margin-left: 65px; */
 }
