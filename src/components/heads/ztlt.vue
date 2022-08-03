@@ -368,7 +368,7 @@
                   深圳大学长聘副教授，博士生导师，广东省杰青，深圳市优青。研究方向为计算机图形学，长期从事智能几何建模与处理方面的研究，发表ACM SIGGRAPH/TOG、IEEE TVCG等CCF
                   A类论文二十余篇；入选中科协青年人才托举工程；荣获亚洲图形学协会青年学者奖、几何设计与计算青年学者奖；曾担任国际会议SMI
                   2020程序委员会主席，多次担任SIGGRAPH等大会程序委员会委员；担任中国计算机学会计算机辅助设计与图形学专委会副秘书长、计算机图形学与混合现实在线平台(GAMES)线上活动运营负责人。</p>
-                邮箱：<span style="color:rgb(52, 152, 221)">ruizhen.hu@szu.edu.cn</span>
+               邮箱：<span style="color:rgb(52, 152, 221)">ruizhen.hu@szu.edu.cn</span>  
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/hrz.jpg" style="display: block; margin: 10px; width: 80%"
@@ -387,6 +387,7 @@
                 <p style="text-align: justify"><b>李昌健</b>，
                   现为英国爱丁堡大学助理教授。在此之前，他作为初级研究员任职法国国家信息与自动化研究所（INRIA）进行研究工作。他于2019年在香港大学（HKU）获得博士学位，师从王文平教授，并于2019-2021年间在英国伦敦大学学院（UCL）进行博士后研究，师从Niloy
                   Mitra教授。他的研究方向为计算机图形学，主要研究兴趣为三维内容生成与分析，包括基于草图的智能三维建模，医学图像处理与建模，几何处理，三维重建，深度学习等。请参考李昌健博士个人主页获得更多信息。</p>
+                报告题目：<span style="color:rgb(91, 91, 91)">Free2CAD: Parsing Freehand Drawings into CAD Commands</span> <br>
                 邮箱：<span style="color:rgb(52, 152, 221)">chjili2011@gmail.com</span>
               </td>
               <td style="width: 25%; vertical-align: top">
@@ -406,6 +407,7 @@
                 <p style="text-align: justify"><b>李曼祎</b>，
                   山东大学软件学院人机交互与虚拟现实中心副研究员。2018年博士毕业于山东大学计算机科学与技术学院，2019-2021年在加拿大西蒙弗雷泽大学GrUVi实验室进行博士后研究。研究方向为基于深度学习的三维建模，具体包括三维模型重建、三维形状生成、室内场景生成等，相关成果已形成多篇论文发表于TOG、Siggraph
                   Asia、CVPR等计算机图形学和视觉的期刊或会议。担任TVCG、CVPR、ECCV等会议或期刊审稿人、Graphics Interface 2022程序委员会委员等。</p>
+                    报告题目：<span style="color:rgb(91, 91, 91)">三维物体建模中的形状结构表达与学习</span> <br>
                 邮箱：<span style="color:rgb(52, 152, 221)">manyili@sdu.edu.cn</span>
               </td>
               <td style="width: 25%; vertical-align: top">
@@ -426,6 +428,7 @@
                   华中科技大学计算机科学与技术学院副教授，于2020年7月获得香港中文大学计算机科学与工程专业博士学位，2020年8月至2021年8月担任香港中文大学计算机系和香港物流机器人研究中心博士后研究员。研究兴趣集中在三维视觉、计算机视觉、深度学习和人工智能，侧重于利用人工智能等技术对三维空间中的物体进行感知和分析，致力于从三维视觉的角度解决各种实际应用场景中的视觉分析问题。目前已于ACM
                   TOG、ACM SIGGRAPH、 IEEE TVCG、CVPR、ICCV、ECCV等国际会议和期刊上发表论文十余篇，并担任多个会议和期刊的审稿人。
                 </p>
+                  报告题目：<span style="color:rgb(91, 91, 91)">基于深度学习的点云处理与应用</span> <br>
                 邮箱：<span style="color:rgb(52, 152, 221)">xzli@hust.edu.cn</span>
               </td>
               <td style="width: 25%; vertical-align: top">
@@ -445,7 +448,9 @@
                 <p style="text-align: justify"><b>张举勇</b>，
                   中国科学技术大学数学科学学院特任教授，博士生导师，国家基金委优秀青年基金获得者。2006年本科毕业于中科大计算机系，2011年博士毕业于新加坡南洋理工大学，2011年至2012年于瑞士联邦理工学院洛桑分校从事博士后研究。研究领域为三维视觉与计算机图形学，近期主要研究兴趣为基于神经隐式表示、逆向渲染与数值优化方法对真实物理世界进行高效高保真三维数字化，以及高真实感虚拟数字内容的创建。
                 </p>
+                  报告题目：<span style="color:rgb(91, 91, 91)">基于深度学习的几何配准与三维形变物体重建</span> <br>
                 邮箱：<span style="color:rgb(52, 152, 221)">juyong@ustc.edu.cn</span>
+                
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/zjy.png" style="display: block; margin: 10px; width: 80%"
