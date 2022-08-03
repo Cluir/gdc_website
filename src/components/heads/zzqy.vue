@@ -32,8 +32,15 @@
             <img src="../../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
           </a>
         </div>
+        <div class="sponsor_img">
+          <a href="http://www2.lysis.com.cn/" target="_blank">
+            <img src="../../assets/zanzhu5-logo.png" alt="" style="width: 200px;"/>
+          </a>
+        </div>
         <div class="bojinzanzhu">
           <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>
+          <a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a>
+
         </div> 
 
         <h3>金牌赞助</h3>
@@ -111,8 +118,11 @@ export default {
 .tebiezanzhu :nth-child(2){
   margin-left: 240px;
 }
-.bojinzanzhu {
+.bojinzanzhu :nth-child(1){
   margin-left: 120px;
+}
+.bojinzanzhu :nth-child(2){
+  margin-left: 200px;
 }
 .jinpaizanzhu {
   margin-left: 120px;

@@ -7,6 +7,7 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
+      <li>2022.08.03  新增赞助商：<a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a></li>
       <li>2022.08.03  新增赞助商：<a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a></li>
       <li>2022.07.31  新增赞助商：<a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a></li>
       <li>2022.07.31  发布了专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/panel_1">国产CAD几何引擎</a></li>
@@ -45,10 +46,10 @@
       <!-- 右边 -->
       <div class="right">
         <p class="right_p" style="text-align:justify;">
-          由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办，
+          <!-- 由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办，
           <a href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专委会</a>
-          和<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>承办的第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行。
-
+          和<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>承办的第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行。 -->
+          第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行，会议由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办， <a href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专委会</a>、<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>和<a href="http://www.sdiitqd.cn/" target="_blank">山东产业技术研究院（青岛）</a>承办。
         </p>
         <p class="right_p right_pp">
         </p>

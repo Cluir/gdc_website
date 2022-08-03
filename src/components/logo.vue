@@ -25,7 +25,8 @@
         </a>
       </div>
       <h3>铂金赞助：
-        <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>
+        <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>、
+        <a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a>
       </h3>
       <br/>
       <div class="img_tu">
@@ -33,6 +34,13 @@
           <img src="../assets/zanzhu2-logo.png" alt="" style="width: 300px;"/>
         </a>
       </div>
+
+      <div class="img_tu">
+        <a href="http://www2.lysis.com.cn/" target="_blank">
+          <img src="../assets/zanzhu5-logo.png" alt="" style="width: 200px;"/>
+        </a>
+      </div>
+
        <br/>
        <br/>
 
