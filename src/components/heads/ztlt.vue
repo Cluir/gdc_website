@@ -3,7 +3,7 @@
   <div class="g-rep">
 
     <div class="introduce">
-      <h3>主题论坛</h3>
+      <h3>专题论坛</h3>
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
 
@@ -212,6 +212,84 @@
           随着数字孪生在许多重大应用（如智能制造、智慧城市等）中应用的深入，其核心技术与理论方法也得到了快速发展。面向数字孪生的真实环境数字化建模、表达与学习是智能图形领域的新兴研究热点和前沿交叉方向。传统基于CAD的三维建模方式对于大规模动态环境缺乏规模扩展性和更新灵活性，如何利用智能图形技术进一步提升对数字孪生构建和演进的支撑是当前的热门研究方向。本论坛将探究如何融合智能图形技术，建立和实现真实和虚拟世界间的信息关联和智能演进，实现孪生环境的高效建模、自主学习、虚实联动等。
         </p>
 
+        <p class="teacher"><b>论坛召集人</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>徐凯</b>
+                  ， 国防科技大学教授。国家优青，湖南省杰青。普林斯顿大学访问学者，西蒙弗雷泽大学客座教授。研究方向为数据驱动的三维感知与建模、三维视觉及其机器人应用等。发表CCF
+                  A类论文60余篇，其中包括领域顶级会议和期刊ACM SIGGRAPH/Transactions on Graphics论文27篇。担任ACM Transactions on
+                  Graphics，以及重要期刊Computer Graphics Forum、Computers and Graphics和The Visual Computer等的编委。担任GMP
+                  2023等国际会议的论文共同主席，以及SIGGRAPH、Eurographics等会议的程序委员。担任中国图象图形学会三维视觉专委会副主任，中国工业与应用数学学会几何设计与计算专委会秘书长、中国图学学会理事。获湖南省自然科学一等奖2项（排名第1和第3）、中国计算机学会自然科学一等奖、军队科技进步二等奖等。
+                </p>
+
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/xk.png" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者1</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>汪俊</b>，
+                  南京航空航天大学教授，博士生导师。担任机械结构力学及控制国家重点实验室副主任。先后入选国家海外高层次青年人才计划、江苏省特聘教授、江苏省“双创计划”创新人才、江苏省杰出青年基金项目获得者等。长期从事数字化检测技术与装备、数字孪生与智能制造系统等领域研究，在相关领域共发表高水平SCI论文100余篇，出版学术著作2部，软件著作30余项；第一发明人授权发明专利85件（其中美国发明专利5件、日本发明专利1件）。主持来自国家科技部、国家自然基金委、GF科工局、J科委，以及航空工业、航天科技、航天科工等国家级基础研究课题与国家重大型号科技攻关项目20余项。兼任先进材料与绿色制造山东省实验室副主任、全国增材制造标准化委员会委员，ASME
+                  会刊JCISE（SCI检索）副主编、中南大学学报（自然科学版）编委等。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">wjun@nuaa.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>大尺度刚柔耦合航天器在轨运行数字孪生技术初探</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    针对在轨工况与形性时变的复杂运行过程，建立航天器在轨运行双向映射数字孪生系统，实现运行系统的主动感知、动态优化控制和智能决策。本报告将介绍大尺度刚柔耦合航天器在轨展开运行过程孪生系统，主要包括机构数字孪生混合驱动建模、虚实同步映射、多学科联合智能仿真与在线预测等关键技术，实现机构展开过程的动态仿真与准确预测，形成具有虚实同步、智能可视化、在线精准预测为主要特征的展开测试示范单元间，建立空-地模型实时精确孪生系统，完成柔性航天器结构在轨状态的地面实时动态反演。
+                  </p>
+
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/wj.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://www.3dgp.net ')">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+
+        <p class="teacher"><b>论坛讲者2</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>贾金原</b>
+                  ，现任同济大学软件学院媒体艺术与科学专业责任教授，智慧三维图形实验室（smart3d.tongji.edu.cn/cn）主任。十七年来潜心研究Web3D关键技术，坚持应用驱动的研究与工程两条腿走路，他带领团队提出了一种面向移动互联网的Web3D大数据在线可视化的轻量级解决方案（轻量级3D建模、大型Web3D渐进P2P传输、基于云烘焙的轻量级Web3D全局光照在线渲染），并成功研发了若干WebVR/WebGame/WebBIM示范项目，相继在国际顶级学术会议SIGGRAPH
+                  Asia、CVPR、ICCV、SIGMM、SIGSIM等、CCF国际期刊TOG、IVCG、CGF、TOMM、WWWJ、Graphical
+                  Models、MTAP、TVC、CAVW、PRL、NCA等及中文一级学报中国科学（信息科学）、计算机学报、电子学报、计算机辅助设计与图形学报上发表了50余篇高质量论文。共申请了16项发明专利，其中10项专利获得授权，均成功转让给企业进行产业化。2021年他被增选为中国图学学会常务理事，创建网络图形学（Web3D）专委会主任，曾两次担任中国虚拟现实大会程序委员会主席，两次担任ACM
+                  Web3D大会程序委员会主席。其团队的研究成果连续四次获得中国虚拟现实大会（ChinaVR）最佳论文奖、国际 (Edutainment2017)会议最佳论文奖和国际ACM
+                  Web3D2020会议最佳论文奖。他还曾先后获得上海科技进步一等奖、中国产学研合作（个人）创新奖与工匠精神奖以及中国图学学会科技进步二等奖等。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">jyjia@tongji.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>面向元宇宙的轻量级Web3D引擎关键技术与在线应用示范</p>
+                  <p style="color:rgb(91, 91, 91)">
+                    <b>内容摘要：</b>目前十分火爆的元宇宙作为新一代的互联网，呼唤一个人人都能随时随地在互联网上线创作任意形态与规模虚拟世界的3D引擎，Web3D因其易用性而成为元宇宙的天然选择。然而，元宇宙对Web3D引擎提出了极具挑战性的需求，本团队围绕着这些挑战经过长期深耕提出了一整套的高效率、低成本、低能耗、高品质的轻量级解决方案：（1）海量虚拟世界场景的轻量级细粒度化预处理；（2）支持多人在线共享虚拟世界的网络传输调度机制；（3）海量Web3D场景复杂光影的轻量级在线高品质渲染。若干在线体验的demo也初步验证了该解决方案的可行性，这些关键技术的集成就为面向元宇宙的Web3D引擎的研发奠定了技术基础。最后，一起为元宇宙级Web3D引擎的未来发展进行了展望。
+                  </p>
+
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/jjy.jpg" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
       </div>
 
       <div id="panel_3"></div>
@@ -389,10 +467,15 @@
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>李昌健</b>，
                   现为英国爱丁堡大学助理教授。在此之前，他作为初级研究员任职法国国家信息与自动化研究所（INRIA）进行研究工作。他于2019年在香港大学（HKU）获得博士学位，师从王文平教授，并于2019-2021年间在英国伦敦大学学院（UCL）进行博士后研究，师从Niloy
-                  Mitra教授。他的研究方向为计算机图形学，主要研究兴趣为三维内容生成与分析，包括基于草图的智能三维建模，医学图像处理与建模，几何处理，三维重建，深度学习等。请参考李昌健博士个人主页获得更多信息。</p>
-                报告题目：<span style="color:rgb(91, 91, 91)">Free2CAD: Parsing Freehand Drawings into CAD Commands</span>
-                <br>
+                  Mitra教授。他的研究方向为计算机图形学，主要研究
+                  兴趣为三维内容生成与分析，包括基于草图的智能三维建模，医学图像处理与建模，几何处理，三维重建，深度学习等。请参考李昌健博士个人主页获得更多信息。
+                </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">chjili2011@gmail.com</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>Free2CAD: Parsing Freehand Drawings into CAD Commands</p>
+                </div>
+
+
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/lcj.jpg" style="display: block; margin: 10px; width: 80%"
@@ -411,8 +494,10 @@
                 <p style="text-align: justify"><b>李曼祎</b>，
                   山东大学软件学院人机交互与虚拟现实中心副研究员。2018年博士毕业于山东大学计算机科学与技术学院，2019-2021年在加拿大西蒙弗雷泽大学GrUVi实验室进行博士后研究。研究方向为基于深度学习的三维建模，具体包括三维模型重建、三维形状生成、室内场景生成等，相关成果已形成多篇论文发表于TOG、Siggraph
                   Asia、CVPR等计算机图形学和视觉的期刊或会议。担任TVCG、CVPR、ECCV等会议或期刊审稿人、Graphics Interface 2022程序委员会委员等。</p>
-                报告题目：<span style="color:rgb(91, 91, 91)">三维物体建模中的形状结构表达与学习</span> <br>
                 邮箱：<span style="color:rgb(52, 152, 221)">manyili@sdu.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>三维物体建模中的形状结构表达与学习</p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/lmw.png" style="display: block; margin: 10px; width: 80%"
@@ -432,8 +517,12 @@
                   华中科技大学计算机科学与技术学院副教授，于2020年7月获得香港中文大学计算机科学与工程专业博士学位，2020年8月至2021年8月担任香港中文大学计算机系和香港物流机器人研究中心博士后研究员。研究兴趣集中在三维视觉、计算机视觉、深度学习和人工智能，侧重于利用人工智能等技术对三维空间中的物体进行感知和分析，致力于从三维视觉的角度解决各种实际应用场景中的视觉分析问题。目前已于ACM
                   TOG、ACM SIGGRAPH、 IEEE TVCG、CVPR、ICCV、ECCV等国际会议和期刊上发表论文十余篇，并担任多个会议和期刊的审稿人。
                 </p>
-                报告题目：<span style="color:rgb(91, 91, 91)">基于深度学习的点云处理与应用</span> <br>
                 邮箱：<span style="color:rgb(52, 152, 221)">xzli@hust.edu.cn</span>
+
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>基于深度学习的点云处理与应用</p>
+
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/lxz.png" style="display: block; margin: 10px; width: 80%"
@@ -452,9 +541,11 @@
                 <p style="text-align: justify"><b>张举勇</b>，
                   中国科学技术大学数学科学学院特任教授，博士生导师，国家基金委优秀青年基金获得者。2006年本科毕业于中科大计算机系，2011年博士毕业于新加坡南洋理工大学，2011年至2012年于瑞士联邦理工学院洛桑分校从事博士后研究。研究领域为三维视觉与计算机图形学，近期主要研究兴趣为基于神经隐式表示、逆向渲染与数值优化方法对真实物理世界进行高效高保真三维数字化，以及高真实感虚拟数字内容的创建。
                 </p>
-                报告题目：<span style="color:rgb(91, 91, 91)">基于深度学习的几何配准与三维形变物体重建</span> <br>
                 邮箱：<span style="color:rgb(52, 152, 221)">juyong@ustc.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>基于深度学习的几何配准与三维形变物体重建</p>
 
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/zjy.png" style="display: block; margin: 10px; width: 80%"
@@ -734,6 +825,10 @@ h2{
     position: fixed;
     right: 15%;
     bottom: 21%;
+}
+.report{
+  margin-top: 5px;
+  padding-top: 3px;
 }
 
 </style>
