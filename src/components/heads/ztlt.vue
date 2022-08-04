@@ -3,7 +3,7 @@
   <div class="g-rep">
 
     <div class="introduce">
-      <h3>主题论坛</h3>
+      <h3>专题论坛</h3>
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
 

@@ -13,7 +13,7 @@
 
         <li  @click="hq" :class="{'aa':index==f}">会前课程</li>
         <li  @click="ty" :class="{'aa':index==g}">特邀报告</li>
-        <li  @click="ztlt" :class="{'aa':index==h}">主题论坛</li>
+        <li  @click="ztlt" :class="{'aa':index==h}">专题论坛</li>
         <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li>
 
       </ul>
