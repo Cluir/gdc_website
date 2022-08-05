@@ -20,8 +20,10 @@
       <h3 class="title">承办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:0 auto;">
-          <a href="http://47.89.254.160/gdc/" target="_blank"><img src="../../assets/index_10.png" alt="" style="height:150px;margin-right: 100px;margin-bottom: 20px;"></a>
-          <a href="https://www.sdu.edu.cn/" target="_blank"><img src="../../assets/index_03.png" alt="" style="margin-bottom: 50px;"></a>
+          <a href="http://47.89.254.160/gdc/" target="_blank"><img src="../../assets/index_10.png" alt="" style="height:150px;margin-bottom: 20px;margin-left:80px;"></a>
+          <a href="https://www.sdu.edu.cn/" target="_blank"><img src="../../assets/index_03.png" alt="" style="margin-bottom: 50px;margin-left:70px;margin-right: 70px;"></a>
+          <a href="http://www.sdiitqd.cn/" target="_blank"><img src="../../assets/index_11.png" alt="" style="height:60px;margin-bottom: 50px;"></a>
+
 
           <!-- <h4 style="text-align:center;">中国工业与应用数学学会</h4> -->
         </div>
