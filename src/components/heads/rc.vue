@@ -14,10 +14,10 @@
                     </tr>
                     <tr>
                          <td rowspan="2">14:00—17:00 </td>
-                        <td style="text-align: left">会前课程1 计图框架入门与进阶</td>
+                        <td style="text-align: left"><router-link to="/hq">会前课程1 计图框架入门与进阶</router-link> </td>
                     </tr>
                     <tr>
-                        <td style="text-align: left">会前课程2 高效网格生成</td>
+                        <td style="text-align: left"><router-link to="/hq">会前课程2 高效网格生成</router-link> </td>
                     </tr>
                     <tr>
                         <td>19:00—21:00</td>
