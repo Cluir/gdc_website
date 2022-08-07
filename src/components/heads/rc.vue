@@ -50,17 +50,17 @@
             </tr>
 
             <tr>
-                <td>14:00—16:00</td>
+                <td>14:00—16:30</td>
                 <td colspan="2" style="text-align: left">学科发展战略研讨会</td>
 
             </tr>
             <tr>
-                <td>16:20—16:50</td>
+                <td>16:50—17:20</td>
                 <td colspan="2" style="text-align: left">论文快放1</td>
 
             </tr>
             <tr>
-                <td>16:50—17:30</td>
+                <td>17:20—18:00</td>
                 <td colspan="2" style="text-align: left">论文交流1</td>
 
             </tr>
