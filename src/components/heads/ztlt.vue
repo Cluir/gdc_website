@@ -218,15 +218,11 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>徐凯</b>
-                  ， 国防科技大学教授。国家优青，湖南省杰青。普林斯顿大学访问学者，西蒙弗雷泽大学客座教授。研究方向为数据驱动的三维感知与建模、三维视觉及其机器人应用等。发表CCF
-                  A类论文60余篇，其中包括领域顶级会议和期刊ACM SIGGRAPH/Transactions on Graphics论文27篇。担任ACM Transactions on
-                  Graphics，以及重要期刊Computer Graphics Forum、Computers and Graphics和The Visual Computer等的编委。担任GMP
-                  2023等国际会议的论文共同主席，以及SIGGRAPH、Eurographics等会议的程序委员。担任中国图象图形学会三维视觉专委会副主任，中国工业与应用数学学会几何设计与计算专委会秘书长、中国图学学会理事。获湖南省自然科学一等奖2项（排名第1和第3）、中国计算机学会自然科学一等奖、军队科技进步二等奖等。
                 </p>
 
               </td>
               <td style="width: 25%; vertical-align: top">
-                <img src="../../assets/ztlt/xk.png" style="display: block; margin: 10px; width: 80%">
+                <!-- <img src="../../assets/ztlt/xk.png" style="display: block; margin: 10px; width: 80%"> -->
               </td>
             </tr>
           </tbody>
@@ -234,6 +230,35 @@
         <hr style="width: 95%; margin: auto">
 
         <p class="teacher"><b>论坛讲者1</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>徐凯</b>，国防科技大学教授。国家优青，湖南省杰青。普林斯顿大学访问学者，西蒙弗雷泽大学客座教授。研究方向为数据驱动的三维感知与建模、机器人三维视觉、数字孪生等。发表CCF
+                  A类论文60余篇，其中包括领域顶级会议和期刊ACM SIGGRAPH/Transactions on Graphics论文27篇。担任图形学顶级期刊ACM Transactions on
+                  Graphics，以及重要期刊Computer Graphics Forum、Computers and Graphics、The Visual Computer等的编委。担任GMP
+                  2023等国际会议的论文共同主席，以及SIGGRAPH、Eurographics等会议的程序委员。担任中国图象图形学会三维视觉专委会副主任，中国工业与应用数学学会几何设计与计算专委会秘书长，中国图学学会理事。获湖南省自然科学一等奖2项（排名第1和第3）、中国计算机学会自然科学一等奖（3）、军队科技进步二等奖等。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">kevin.kai.xu@gmail.com</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>基于数字孪生的智能工业控制软件开发平台</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    智能制造国家战略正推动“AI+工业”成为人工智能产业的新爆发点。随着场景应用的垂直深入，“AI+工业”的研发正从面向单工作站智能任务的单点算法研发，逐步走向面向全产线智能控制的软件系统研发。智能工控软件以数据驱动为核心，以智能感知、智能控制、智能决策为特色，是智能时代的生产控制类工业软件。然而，智能制造产线的柔性生产、在线配置、持续更新等需求，为智能工控软件的开发带来挑战。我们提出“数字孪生+云原生”的开发模式与平台，初步实现了智能工控软件开发的自动化。通过构建真实产线的软硬件全栈虚拟镜像，同时将智能感知、控制、决策等组件微服务化，在虚拟孪生中完成所见即所得的产线构建与流程编排，以及虚实无差别的软件生成和调试部署，实现了柔性产线的快速开发和灵活定制。通过平台提供的云边协同机制，实现智能算法的性能监测、在线学习和持续优化，以达到智能工控软件的持续开发、持续演进与持续交付。
+                  </p>
+
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/xk.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://www.kevinkaixu.net')">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者2</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
             <tr>
@@ -260,14 +285,42 @@
         </table>
         <hr style="width: 95%; margin: auto">
 
+        <p class="teacher"><b>论坛讲者4</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>刘斌</b>，山东大学教授，博导，国家优秀青年科学基金获得者，山东省杰出青年基金获得者，泰山学者青年专家，山东大学齐鲁青年学者。担任山东大学土建与水利学院党委书记、数据科学研究院副院长。兼任国际地球物理期刊《Journal
+                  of Applied Geophysics》副主编、国际工程地质与环境协会（IAEG）会刊《Bulletin of Engineering Geology and the
+                  Environment》编委、中国科技期刊卓越行动计划——领军期刊《Journal of Rock Mechanics and Geotechnical
+                  Engineering》编委、《隧道与地下工程灾害防治》执行主编；兼任中国岩石力学与工程学会兼职副秘书长，中国地球物理学会理事、浅地表专委会副主任，山东省地球物理学会副理事长、秘书长。
 
-        <p class="teacher"><b>论坛讲者2</b></p>
+                </p>
+                <!-- 邮箱：<span style="color:rgb(52, 152, 221)"></span> -->
+                <!-- <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b></p>
+                  <p style="color:rgb(91, 91, 91)">
+                    <b>内容摘要：</b>
+                  </p>
+
+                </div> -->
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lb.png" style="display: block; margin: 10px; width: 80%" onclick="window.open('https://tjsl.sdu.edu.cn/info/1337/12382.htm')">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者3</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>贾金原</b>
-                  ，现任同济大学软件学院媒体艺术与科学专业责任教授，智慧三维图形实验室（smart3d.tongji.edu.cn/cn）主任。十七年来潜心研究Web3D关键技术，坚持应用驱动的研究与工程两条腿走路，他带领团队提出了一种面向移动互联网的Web3D大数据在线可视化的轻量级解决方案（轻量级3D建模、大型Web3D渐进P2P传输、基于云烘焙的轻量级Web3D全局光照在线渲染），并成功研发了若干WebVR/WebGame/WebBIM示范项目，相继在国际顶级学术会议SIGGRAPH
+                ，现任同济大学软件学院媒体艺术与科学专业责任教授，智慧三维图形实验室（smart3d.tongji.edu.cn/cn）主任。十七年来潜心研究Web3D关键技术，坚持应用驱动的研究与工程两条腿走路，他带领团队提出了一种面向移动互联网的Web3D大数据在线可视化的轻量级解决方案（轻量级3D建模、大型Web3D渐进P2P传输、基于云烘焙的轻量级Web3D全局光照在线渲染），并成功研发了若干WebVR/WebGame/WebBIM示范项目，相继在国际顶级学术会议SIGGRAPH
                   Asia、CVPR、ICCV、SIGMM、SIGSIM等、CCF国际期刊TOG、IVCG、CGF、TOMM、WWWJ、Graphical
                   Models、MTAP、TVC、CAVW、PRL、NCA等及中文一级学报中国科学（信息科学）、计算机学报、电子学报、计算机辅助设计与图形学报上发表了50余篇高质量论文。共申请了16项发明专利，其中10项专利获得授权，均成功转让给企业进行产业化。2021年他被增选为中国图学学会常务理事，创建网络图形学（Web3D）专委会主任，曾两次担任中国虚拟现实大会程序委员会主席，两次担任ACM
                   Web3D大会程序委员会主席。其团队的研究成果连续四次获得中国虚拟现实大会（ChinaVR）最佳论文奖、国际 (Edutainment2017)会议最佳论文奖和国际ACM
@@ -289,6 +342,8 @@
           </tbody>
         </table>
         <hr style="width: 95%; margin: auto">
+
+
 
       </div>
 
