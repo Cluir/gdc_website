@@ -20,7 +20,7 @@
             </tr>
             <tr>
                 <td style="text-align: left">
-                    <router-link to="/hq">会前课程2 高效网格生成</router-link>
+                    <router-link to="/hq">会前课程2 网格生成</router-link>
                 </td>
             </tr>
 
