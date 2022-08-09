@@ -285,7 +285,7 @@
         </table>
         <hr style="width: 95%; margin: auto">
 
-        <p class="teacher"><b>论坛讲者4</b></p>
+        <p class="teacher"><b>论坛讲者3</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
             <tr>
@@ -315,7 +315,7 @@
         </table>
         <hr style="width: 95%; margin: auto">
 
-        <p class="teacher"><b>论坛讲者3</b></p>
+        <p class="teacher"><b>论坛讲者4</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
             <tr>
@@ -344,7 +344,7 @@
         </table>
         <hr style="width: 95%; margin: auto">
 
-        <p class="teacher"><b>论坛讲者3</b></p>
+        <p class="teacher"><b>论坛讲者5</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
             <tr>
