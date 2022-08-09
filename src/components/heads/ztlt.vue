@@ -307,7 +307,8 @@
                 </div> -->
               </td>
               <td style="width: 25%; vertical-align: top">
-                <img src="../../assets/ztlt/lb.png" style="display: block; margin: 10px; width: 80%" onclick="window.open('https://tjsl.sdu.edu.cn/info/1337/12382.htm')">
+                <img src="../../assets/ztlt/lb.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://tjsl.sdu.edu.cn/info/1337/12382.htm')">
               </td>
             </tr>
           </tbody>
@@ -320,7 +321,7 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>贾金原</b>
-                ，现任同济大学软件学院媒体艺术与科学专业责任教授，智慧三维图形实验室（smart3d.tongji.edu.cn/cn）主任。十七年来潜心研究Web3D关键技术，坚持应用驱动的研究与工程两条腿走路，他带领团队提出了一种面向移动互联网的Web3D大数据在线可视化的轻量级解决方案（轻量级3D建模、大型Web3D渐进P2P传输、基于云烘焙的轻量级Web3D全局光照在线渲染），并成功研发了若干WebVR/WebGame/WebBIM示范项目，相继在国际顶级学术会议SIGGRAPH
+                  ，现任同济大学软件学院媒体艺术与科学专业责任教授，智慧三维图形实验室（smart3d.tongji.edu.cn/cn）主任。十七年来潜心研究Web3D关键技术，坚持应用驱动的研究与工程两条腿走路，他带领团队提出了一种面向移动互联网的Web3D大数据在线可视化的轻量级解决方案（轻量级3D建模、大型Web3D渐进P2P传输、基于云烘焙的轻量级Web3D全局光照在线渲染），并成功研发了若干WebVR/WebGame/WebBIM示范项目，相继在国际顶级学术会议SIGGRAPH
                   Asia、CVPR、ICCV、SIGMM、SIGSIM等、CCF国际期刊TOG、IVCG、CGF、TOMM、WWWJ、Graphical
                   Models、MTAP、TVC、CAVW、PRL、NCA等及中文一级学报中国科学（信息科学）、计算机学报、电子学报、计算机辅助设计与图形学报上发表了50余篇高质量论文。共申请了16项发明专利，其中10项专利获得授权，均成功转让给企业进行产业化。2021年他被增选为中国图学学会常务理事，创建网络图形学（Web3D）专委会主任，曾两次担任中国虚拟现实大会程序委员会主席，两次担任ACM
                   Web3D大会程序委员会主席。其团队的研究成果连续四次获得中国虚拟现实大会（ChinaVR）最佳论文奖、国际 (Edutainment2017)会议最佳论文奖和国际ACM
@@ -337,6 +338,31 @@
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/jjy.jpg" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者3</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>刘红涛</b>
+                  ，北京圜晖科技有限公司创始人。1992年在北京交通大学留校任教。1995年辞职历任思科、甲骨文、施耐德、优集、西门子等国际知名企业高管职务，2008年转入西门子管理学院，2014年起负责西门子“工业4.0”、制造业数字化转型的顶层架构设计，推动中国工业企业数字化转型升级。2019年辞职创业，致力于打造中国自主三维CAD/BIM数据工程化、可视化应用生态。25年的职业生涯，深刻理解自动化、信息化、数字化发展的中国规律，总结出三维轻量化产品数据在“可视化”、“文档化”两大关键领域的发展脉络，积极推动有关国家标准的研制。圜晖科技也成为信创工程三维数据深化应用的排头兵，矢志助推中国自主工业软件的整体突围。
+                </p>
+                <!-- 邮箱：<span style="color:rgb(52, 152, 221)">jyjia@tongji.edu.cn</span> -->
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>基于多源异构CAD/BIM原生三维数据的精确数字孪生</p>
+                  <p style="color:rgb(91, 91, 91)">
+                    <b>内容摘要：</b>传统数字孪生的模型构建，大多依赖点云扫描和二次建模，往往缺乏内部结构和工业机理，一定程度上限制了数字孪生在制造业的深度应用。本报告将介绍基于CAD/BIM原生三维数据的精确数字孪生系统及实际应用案例，主要包括CAD/BIM模型轻量化、多源异构三维数据格式归一、多模型装配、超大模型实时绘制、零部件接口暴露、工控数据接入等关键技术，实现真实工控数据驱动虚体机构运动、全透明零部件故障监测、次生故障预警、全流程物理仿真、柔性产线工艺方案试车等解决制造业核心痛点的产业急需功能。基于原生三维设计数据的深度应用，形成以虚实高度对应、低时延生产状态反馈、工艺知识萃取为特色的“新一代”数字孪生系统。
+                  </p>
+
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lht.jpg" style="display: block; margin: 10px; width: 80%">
               </td>
             </tr>
           </tbody>
