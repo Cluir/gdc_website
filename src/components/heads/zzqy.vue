@@ -50,8 +50,14 @@
             <img src="../../assets/zanzhu4-logo.png" alt="" style="width: 300px;"/>
           </a>
         </div>
+        <div class="sponsor_img">
+          <a href="http://www.cogenda.com/" target="_blank">
+            <img src="../../assets/zanzhu6-logo.png" alt="" style="width: 300px;margin-bottom: 40px;"/>
+          </a>
+        </div>
         <div class="jinpaizanzhu">
           <a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a>
+          <a href="http://www.cogenda.com/" target="_blank">珂晶达</a>
         </div> 
 
 
@@ -126,5 +132,8 @@ export default {
 }
 .jinpaizanzhu {
   margin-left: 120px;
+}
+.jinpaizanzhu :nth-child(2){
+  margin-left: 240px;
 }
 </style>

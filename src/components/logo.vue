@@ -45,11 +45,17 @@
        <br/>
 
       <h3>&nbsp;金牌赞助：
-        <a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a>
+        <a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a>、
+        <a href="http://www.cogenda.com/" target="_blank">珂晶达</a>
       </h3>
       <div class="img_tu">
         <a href="https://www.hoteamsoft.com/" target="_blank">
           <img src="../assets/zanzhu4-logo.png" alt="" style="width: 300px;"/>
+        </a>
+      </div>
+      <div class="img_tu">
+        <a href="http://www.cogenda.com/" target="_blank">
+          <img src="../assets/zanzhu6-logo.png" alt="" style="width: 300px;margin-bottom:45px"/>
         </a>
       </div>
 
