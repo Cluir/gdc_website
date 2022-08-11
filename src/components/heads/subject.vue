@@ -7,14 +7,19 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
+      <li>2022.08.11  <b>发布</b><a href="https://irc.cs.sdu.edu.cn/gdc2022/pdf/20220810huiyitongzhi-dishisijiequanguojiheshejiyujisuanxueshuhuiyi.pdf" target="_blank"><b>会议通知</b></a></li>
       <li>2022.08.10  新增赞助商：<a href="http://www.cogenda.com/" target="_blank">珂晶达</a></li>
       <li>2022.08.04  发布会前课程 <a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hq" target="_blank">网格生成</a></li>
       <li>2022.08.03  新增赞助商：<a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a></li>
       <li>2022.08.03  新增赞助商：<a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a></li>
       <li>2022.07.31  新增赞助商：<a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a></li>
       <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">国产CAD几何引擎</a></li>
+      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">数字孪生</a></li>
       <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt" >开源工业软件</a></li>
+      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt" >深度几何学习</a></li>
+      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt" >增材制造</a></li>
       <li>2022.07.27  新增赞助商：<a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a></li>
+
       <li>2022.07.23  发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc" >会议日程</a></li>
       <li>2022.07.22  早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li>
       <li>2022.07.21  发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">神经隐式三维重建与绘制技术（鲍虎军）</a></li>
@@ -51,7 +56,7 @@
           <!-- 由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办，
           <a href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专委会</a>
           和<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>承办的第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行。 -->
-          第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行，会议由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办， <a href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专委会</a>、<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>和<a href="http://www.sdiitqd.cn/" target="_blank">山东产业技术研究院（青岛）</a>承办。
+          第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行，会议由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办， <a href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专业专委会</a>、<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>和<a href="http://www.sdiitqd.cn/" target="_blank">山东产业技术研究院（青岛）</a>承办。
         </p>
         <p class="right_p right_pp">
         </p>
