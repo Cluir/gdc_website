@@ -7,32 +7,35 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
-      <li>2022.08.11  <b>发布</b><a href="https://irc.cs.sdu.edu.cn/gdc2022/pdf/20220810huiyitongzhi-dishisijiequanguojiheshejiyujisuanxueshuhuiyi.pdf" target="_blank"><b>会议通知</b></a></li>
-      <li>2022.08.10  新增赞助商：<a href="http://www.cogenda.com/" target="_blank">珂晶达</a></li>
-      <li>2022.08.04  发布会前课程 <a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hq" target="_blank">网格生成</a></li>
-      <li>2022.08.03  新增赞助商：<a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a></li>
-      <li>2022.08.03  新增赞助商：<a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a></li>
-      <li>2022.07.31  新增赞助商：<a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a></li>
-      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">国产CAD几何引擎</a></li>
-      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">数字孪生</a></li>
-      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt" >开源工业软件</a></li>
-      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt" >深度几何学习</a></li>
-      <li>2022.07.31  发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt" >增材制造</a></li>
-      <li>2022.07.27  新增赞助商：<a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a></li>
+      <li>2022.08.11 <b>发布</b><a
+          href="https://irc.cs.sdu.edu.cn/gdc2022/pdf/20220810huiyitongzhi-dishisijiequanguojiheshejiyujisuanxueshuhuiyi.pdf"
+          target="_blank"><b>会议通知</b></a></li>
+      <li>2022.08.10 新增赞助商：<a href="http://www.cogenda.com/" target="_blank">珂晶达</a></li>
+      <li>2022.08.04 发布会前课程 <a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hq" target="_blank">网格生成</a></li>
+      <li>2022.08.03 新增赞助商：<a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a></li>
+      <li>2022.08.03 新增赞助商：<a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a></li>
+      <li>2022.07.31 新增赞助商：<a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a></li>
+      <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">国产CAD几何引擎</a></li>
+      <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">数字孪生</a></li>
+      <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">开源工业软件</a></li>
+      <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">深度几何学习</a></li>
+      <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">增材制造</a></li>
+      <li>2022.07.27 新增赞助商：<a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a></li>
 
-      <li>2022.07.23  发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc" >会议日程</a></li>
-      <li>2022.07.22  早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li>
-      <li>2022.07.21  发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">神经隐式三维重建与绘制技术（鲍虎军）</a></li>
-      <li>2022.07.21  发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数控加工最优路径规划（高小山）</a></li>
-      <li>2022.07.13  GDC 2022已开放注册，请前往<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/chzc" >大会注册</a></li>
-      <li>2022.07.11  发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hy" >推荐期刊的复审要求</a></li>
-      <li>2022.06.11  新增赞助商：<a href="https://www.zwcad.com/" target="_blank">中望科技</a></li>
-      <li>2022.05.21  GDC2022<a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">诚邀赞助商</a></li>
-      <li>2022.05.05  征稿截止日期延期至5月31日</li>
-      <li>2022.05.05  论文录用通知延期至7月11日</li>
-      <li>2022.04.02  会议网站<a href="https://gdc22.csiam-gdc.cn" target="_blank">https://gdc22.csiam-gdc.cn</a>上线</li>
-      <li>2022.02.20  发布<a href="https://mp.weixin.qq.com/s/QlcI3yPQmlwlcTQiiUTVfw" target="_blank">征稿通知</a></li>
-      <li>2022.02.18  会议投稿系统<a href="http://www.smartchair.org/GDC2022" target="_blank">http://www.smartchair.org/GDCGDC2022</a>上线</li>
+      <li>2022.07.23 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc">会议日程</a></li>
+      <li>2022.07.22 早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li>
+      <li>2022.07.21 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">神经隐式三维重建与绘制技术（鲍虎军）</a></li>
+      <li>2022.07.21 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数控加工最优路径规划（高小山）</a></li>
+      <li>2022.07.13 GDC 2022已开放注册，请前往<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/chzc">大会注册</a></li>
+      <li>2022.07.11 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hy">推荐期刊的复审要求</a></li>
+      <li>2022.06.11 新增赞助商：<a href="https://www.zwcad.com/" target="_blank">中望科技</a></li>
+      <li>2022.05.21 GDC2022<a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">诚邀赞助商</a></li>
+      <li>2022.05.05 征稿截止日期延期至5月31日</li>
+      <li>2022.05.05 论文录用通知延期至7月11日</li>
+      <li>2022.04.02 会议网站<a href="https://gdc22.csiam-gdc.cn" target="_blank">https://gdc22.csiam-gdc.cn</a>上线</li>
+      <li>2022.02.20 发布<a href="https://mp.weixin.qq.com/s/QlcI3yPQmlwlcTQiiUTVfw" target="_blank">征稿通知</a></li>
+      <li>2022.02.18 会议投稿系统<a href="http://www.smartchair.org/GDC2022"
+          target="_blank">http://www.smartchair.org/GDCGDC2022</a>上线</li>
     </ul>
 
     <!-- 大会介绍 introduce-->
@@ -43,7 +46,7 @@
 
 
     <!-- 内容文案 Copywriting-->
-    <div class="Copywriting clear" >
+    <div class="Copywriting clear">
       <!-- 左边 -->
       <div class="left">
         <p class="Copywriting_span">GDC</p>
@@ -56,7 +59,10 @@
           <!-- 由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办，
           <a href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专委会</a>
           和<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>承办的第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行。 -->
-          第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行，会议由<a href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办， <a href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专业专委会</a>、<a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a>和<a href="http://www.sdiitqd.cn/" target="_blank">山东产业技术研究院（青岛）</a>承办。
+          第十四届全国几何设计与计算学术会议(GDC 2022)暨全国计算几何协作组四十周年纪念将于2022年8月20日-22日在山东青岛举行，会议由<a
+            href="https://www.csiam.org.cn/home/index/index.html" target="_blank">中国工业与应用数学学会(CSIAM)</a>主办， <a
+            href="http://47.89.254.160/gdc/" target="_blank">CSIAM几何设计与计算专业委员会</a>、<a href="https://www.sdu.edu.cn/"
+            target="_blank">山东大学</a>和<a href="http://www.sdiitqd.cn/" target="_blank">山东产业技术研究院（青岛）</a>承办。
         </p>
         <p class="right_p right_pp">
         </p>
@@ -196,7 +202,7 @@
 
 
       </div> -->
-    
+
     </div>
 
 
@@ -217,15 +223,18 @@
   margin: 40px auto;
   font-size: 30px;
 }
-.introduce > span {
+
+.introduce>span {
   display: inline-block;
   margin-top: 10px;
   color: #898989;
   font-size: 15px;
 }
+
 .Copywriting {
   font-size: 20px;
 }
+
 /* 内容文案 */
 .left {
   float: left;
@@ -234,9 +243,11 @@
   box-sizing: border-box;
   margin-top: -20px;
 }
+
 .right {
   float: left;
 }
+
 .Copywriting_span {
   display: inline-block;
   font-size: 90px;
@@ -244,6 +255,7 @@
   font-weight: bold;
   text-shadow: -2px 1px 5px rgb(31 103 179);
 }
+
 .Copywriting_P {
   display: inline-block;
   font-size: 82px;
@@ -252,16 +264,19 @@
   text-shadow: -2px 1px 5px rgb(31 103 179);
   margin-top: -23px;
 }
+
 .right_p {
   text-indent: 2em;
   width: 697px;
   line-height: 1.35;
   /* letter-spacing:1px */
 }
+
 .right_pp {
   margin-top: 10px;
   line-height: 1.35;
 }
+
 .bottom_txt {
   text-indent: 2em;
 }
@@ -270,6 +285,7 @@
 .box {
   margin-top: 10px;
 }
+
 .box_1 {
   width: 460px;
   /* height: 300px; */
@@ -279,22 +295,26 @@
   /* padding-left: 10px; */
   box-sizing: border-box;
 }
+
 /* .box_top{
     margin-top: 20px;
 	} */
 .box_dingwei {
   position: relative;
 }
+
 .box_left {
   float: left;
   margin-top: 50px;
 }
+
 .box_right {
   margin-top: 50px;
   margin-left: 40px;
   float: left;
 }
-.box_dingwei > h3 {
+
+.box_dingwei>h3 {
   position: absolute;
   top: -50px;
   left: 1px;
@@ -303,108 +323,121 @@
   font-weight: bold;
   text-shadow: -2px 1px 5px rgb(31 103 179);
 }
+
 @media screen and (max-width:500px) {
   .g-rep {
     margin: 0 auto;
-    width:100%;
-}
- .subject .introduce {
-  width: 100%;
-  text-align: center;
-  margin: 3vw auto;
-  font-size: 7vw;
-}
-.introduce > span {
-  display: inline-block;
-  margin-top: 10px;
-  color: #898989;
-  font-size: 15px;
-}
-/* 内容文案 */
-.left {
-  float: none;
-  text-align: center;
-margin: auto;
-  /* width: 258px; */
-  padding: 2vw;
-  box-sizing: border-box;
- display: flex;
-}
-.right {
+    width: 100%;
+  }
 
+  .subject .introduce {
+    width: 100%;
+    text-align: center;
+    margin: 3vw auto;
+    font-size: 7vw;
+  }
 
-}
-.Copywriting{
-  width: 100%;
-}
-/* .Copywriting>p{
+  .introduce>span {
+    display: inline-block;
+    margin-top: 10px;
+    color: #898989;
+    font-size: 15px;
+  }
+
+  /* 内容文案 */
+  .left {
+    float: none;
+    text-align: center;
+    margin: auto;
+    /* width: 258px; */
+    padding: 2vw;
+    box-sizing: border-box;
+    display: flex;
+  }
+
+  .right {}
+
+  .Copywriting {
+    width: 100%;
+  }
+
+  /* .Copywriting>p{
   display: none;
 } */
-.Copywriting_span {
-  display: inline-block;
-  font-size: 13vw;
-  color: white;
-  font-weight: bold;
-  text-shadow: -2px 1px 5px rgb(31 103 179);
-   margin-left: 10vw;
-}
-.Copywriting_P {
-  display: inline-block;
-  font-size: 13vw;
-  color: white;
-  font-weight: bold;
-  text-shadow: -2px 1px 5px rgb(31 103 179);
-  margin-top: 0;
-  margin-left: 10vw;
-}
-.right_p {
-  text-indent: 2em;
-  width: 100%;
-  /* letter-spacing:1px */
-}
-.right_pp {
-  margin-top: 10px;
-}
-.bottom_txt {
-  text-indent: 2em;
-}
+  .Copywriting_span {
+    display: inline-block;
+    font-size: 13vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: -2px 1px 5px rgb(31 103 179);
+    margin-left: 10vw;
+  }
 
-/* <!-- 盒子 --> */
-.box {
-  margin-top: 10px;
-}
-.box_1 {
-  width: 100%;
-  /* height: 300px; */
-  box-shadow: 0 0 8px rgb(124 124 124);
-  display: inline-block;
-  padding:4vw 4vw 4vw 4vw ;
-  /* padding-left: 10px; */
-  box-sizing: border-box;
-}
-/* .box_top{
+  .Copywriting_P {
+    display: inline-block;
+    font-size: 13vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: -2px 1px 5px rgb(31 103 179);
+    margin-top: 0;
+    margin-left: 10vw;
+  }
+
+  .right_p {
+    text-indent: 2em;
+    width: 100%;
+    /* letter-spacing:1px */
+  }
+
+  .right_pp {
+    margin-top: 10px;
+  }
+
+  .bottom_txt {
+    text-indent: 2em;
+  }
+
+  /* <!-- 盒子 --> */
+  .box {
+    margin-top: 10px;
+  }
+
+  .box_1 {
+    width: 100%;
+    /* height: 300px; */
+    box-shadow: 0 0 8px rgb(124 124 124);
+    display: inline-block;
+    padding: 4vw 4vw 4vw 4vw;
+    /* padding-left: 10px; */
+    box-sizing: border-box;
+  }
+
+  /* .box_top{
     margin-top: 20px;
 	} */
-.box_dingwei {
-  position: relative;
-}
-.box_left {
-  float: left;
-  margin-top: 10vw;
-}
-.box_right {
-  margin-top:10vw;
-  margin-left: 0;
-  float: left;
-}
-.box_dingwei > h3 {
-  position: absolute;
-  top: -50px;
-  left: 1px;
-  font-size: 40px;
-  color: white;
-  font-weight: bold;
-  text-shadow: -2px 1px 5px rgb(31 103 179);
-}
+  .box_dingwei {
+    position: relative;
+  }
+
+  .box_left {
+    float: left;
+    margin-top: 10vw;
+  }
+
+  .box_right {
+    margin-top: 10vw;
+    margin-left: 0;
+    float: left;
+  }
+
+  .box_dingwei>h3 {
+    position: absolute;
+    top: -50px;
+    left: 1px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-shadow: -2px 1px 5px rgb(31 103 179);
+  }
 }
 </style>
