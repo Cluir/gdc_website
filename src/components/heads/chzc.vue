@@ -107,9 +107,9 @@
 <br/>
   <div  style="font-size:20px;line-height: 1.35;">
       <span  style="font-weight:bold;line-height: 2;">会议注册说明：</span> <br/>
-      <p style="text-align:left;">1、早鸟注册时间：7月14日00:00-8月13日00:00 <br/>
-	&nbsp;&nbsp;&nbsp;&nbsp;正常注册时间：8月13日00:00-8月20日00:00 <br/>
-	&nbsp;&nbsp;&nbsp;&nbsp;现场注册时间：8月20日00:00-8月22日00:00</p>
+      <p style="text-align:left;">1、早鸟注册时间：7月14日-8月12日 <br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;正常注册时间：8月13日-8月19日 <br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;现场注册时间：8月20日-8月21日</p>
       <p style="text-align:left;">2、8月13日前于线上注册的参会嘉宾请于8月20日报到当天领取注册费发票<br/>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8月13日及之后的日期注册的参会嘉宾在两周后可查收电子发票</p>
       <p  style="text-align:justify;">3、请根据注册情况选择合适的注册类型，每篇录用论文<span style="font-weight:bold">至少1位作者必须以非学生</span>的类型进行注册。同一作者如有多篇论文录用，需要分别独立注册。
