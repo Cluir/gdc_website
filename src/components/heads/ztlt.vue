@@ -16,6 +16,7 @@
           <li><b><a href="#panel_3">开源工业软件</a></b></li>
           <li><b><a href="#panel_4">深度几何学习</a></b></li>
           <li><b><a href="#panel_5">增材制造</a></b></li>
+          <li><b><a href="#panel_6">产业特别论坛</a></b></li>
         </ul>
       </div>
 
@@ -783,6 +784,140 @@
 
       </div>
 
+      <div id="panel_6"></div>
+      <div class="forum">
+
+        <h2>产业特别论坛</h2>
+        <!-- <p><b>论坛简介</b></p>
+        <p style="text-indent: 2em; margin-top: 5px;">
+          增材制造是一种快速发展的新型制造技术，在高几何复杂度、多功能性需求的产品制造中具有显著优势。目前增材制造已在航空航天、医疗器械、个性化消费品等领域开展了初步应用并展现出广阔的前景。研究如何通过几何与拓扑结构的巧妙设计和精准制造，达成传统结构所不具备的优良物理性质，已成为多学科交叉的研究热点。本论坛邀请到来自数学、计算力学、机械科学与工程、计算机科学等多个领域从事增材制造相关研究的一线专家学者，就增材制造中的几何与拓扑优化、超材料设计等几何计算的最新研究进展和关键问题进行探讨。
+        </p> -->
+
+        <p class="teacher"><b>论坛主持人</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>赵宇波，山东产业技术研究院（青岛）</b>
+
+                </p>
+                <!-- 邮箱：<span style="color:rgb(52, 152, 221)">llu@sdu.edu.cn</span> -->
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <!-- <img src="../../assets/ztlt/ll.jpg" style="display: block; margin: 10px; width: 80%" -->
+                <!-- onclick="window.open('http://irc.cs.sdu.edu.cn/~lulin')" title="查看主页"> -->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者1</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>金小刚</b>，浙江大学计算机科学与技术学院二级教授，博士生导师。浙江大学-腾讯游戏智能图形创新技术联合实验室主任，浙江省虚拟现实产业联盟理事长，中国计算机学会虚拟现实与可视化专委会副主任委员，中国虚拟现实技术与产业创新平台副理事长，“十三五”国家重点研发计划首席科学家。第九届霍英东青年教师基金、浙江省杰出青年基金获得者，入选教育部新世纪优秀人才支持计划。在ACM
+                  TOG (Proc. of Siggraph)、IEEE
+                  TVCG等国际重要学术刊物上发表论文150多篇，谷歌学术引用4300多次。2008年获教育部高等学校科学研究优秀成果奖自然科学奖一等奖，2017年获浙江省科技进步二等奖。获国际计算机动画学术会议CASA'2017、CASA'2018最佳论文奖，《计算机真实感图形的算法基础》获2001年国家科技图书二等奖。
+                </p>
+                <div class="report">
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/jxg.png" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者2</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>刘利刚</b>，中国科学技术大学数学科学学院教授、博导，国家“杰出青年”科学基金获得者。 于2001年在浙江大学获得应用数学博士学位，曾于微软亚洲研究院、浙江大学、哈佛大学工作或访问。
+                  从事计算机图形学方向的研究，已在该领域顶级期刊ACM Trans. on Graphics发表论文近四十篇。
+                  曾获得陆增镛CAD&CG高科技奖一等奖、国家自然科学奖二等奖等奖项。曾任多个国际会议的大会主席或程序主席，
+                  现任多个国际学术期刊编委。任中国图学学会常务理事、中国计算机学会计算机辅助设计与图形学专业委员会副主任、
+                  中国工业与应用数学学会几何设计与计算专业委员会副主任、国际几何建模与处理(GMP)协会指导委员会委员、 亚洲图形学协会(Asiagraphics)秘书长。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">lgliu@ustc.edu.cn</span>
+
+                <div class="report">
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/llg.jpg" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+
+        <p class="teacher"><b>论坛讲者3</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>刘红涛</b>
+                  ，北京圜晖科技有限公司创始人。1992年在北京交通大学留校任教。1995年辞职历任思科、甲骨文、施耐德、优集、西门子等国际知名企业高管职务，2008年转入西门子管理学院，2014年起负责西门子“工业4.0”、制造业数字化转型的顶层架构设计，推动中国工业企业数字化转型升级。2019年辞职创业，致力于打造中国自主三维CAD/BIM数据工程化、可视化应用生态。25年的职业生涯，深刻理解自动化、信息化、数字化发展的中国规律，总结出三维轻量化产品数据在“可视化”、“文档化”两大关键领域的发展脉络，积极推动有关国家标准的研制。圜晖科技也成为信创工程三维数据深化应用的排头兵，矢志助推中国自主工业软件的整体突围。
+                </p>
+                <!-- 邮箱：<span style="color:rgb(52, 152, 221)">jyjia@tongji.edu.cn</span> -->
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lht.jpg" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者4</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>银鸽</b>，
+                  2020年获英国剑桥大学计算力学博士学位，同年作为”海外高层次人才“引入广州市，现任广州中望龙腾软件股份有限公司CAX算法研究部总监，主持几何建模底层算法、网格/点云建模的研究和开发工作。银鸽先后师从Fehmi
+                  Cirak、Malcolm Sabin和Mark
+                  Girolami，曾在浙江大学、英国国立阿兰图灵研究所从事CAX理论研究工作，期间参与了瑞士ABB集团、英国国防部、美国NASA的科研项目，在计算力学/计算数学领域发表多篇论文，拥有多项发明专利。
+                </p>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/yg.jpg" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者5</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>张晓武</b>
+                </p>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <!-- <img src="../../assets/ztlt/yg.jpg" style="display: block; margin: 10px; width: 80%"> -->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <hr style="width: 95%; margin: auto">
+
+      </div>
+
       <div class="menu" v-if="topShow">
         <div class="menu_list" v-if="Menu">
           <p><b><a href="#panel_1">国产CAD几何引擎</a></b></p>
@@ -790,6 +925,8 @@
           <p><b><a href="#panel_3">开源工业软件</a></b></p>
           <p><b><a href="#panel_4">深度几何学习</a></b></p>
           <p><b><a href="#panel_5">增材制造</a></b></p>
+          <p><b><a href="#panel_6">产业特别论坛</a></b></p>
+
         </div>
         <div class="menu_icon" @click="showMenu"><img src="../../assets/menu_icon.png" style="width: 50px;"></div>
 
