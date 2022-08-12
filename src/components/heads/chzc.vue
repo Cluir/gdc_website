@@ -111,7 +111,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;正常注册时间：8月14日-8月18日 <br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;现场注册时间：8月19日-8月22日</p>
       <p style="text-align:left;">2、8月13日前于线上注册的参会嘉宾请于8月20日报到当天领取注册费发票<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8月13日及之后的日期注册的参会嘉宾在两周后可查收电子发票</p>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8月14日及之后的日期注册的参会嘉宾在两周后可查收电子发票</p>
       <p  style="text-align:justify;">3、请根据注册情况选择合适的注册类型，每篇录用论文<span style="font-weight:bold">至少1位作者必须以非学生</span>的类型进行注册。同一作者如有多篇论文录用，需要分别独立注册。
       会员指“中国工业与应用数学学会”会员，加入中国工业与应用数学学会请参见：<a href="https://www.csiam.org.cn/member/join.php" target="_blank">https://www.csiam.org.cn/member/join.php</a>。</p>
 	<p style="text-align:justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于非学会人员，建议先申请加入学会，获得会员号后即可享受优惠价格注册，申请入会时请选择“<span style="font-weight:bold">几何设计与计算专业委员会</span>”。由于会员系统与会议系统数据不是实时更新，如需享受会员优惠，请提前注册会员并缴纳会费。如新注册会员遇会议系统不能识别的情况，请等待几天再尝试注册会议。</p>
