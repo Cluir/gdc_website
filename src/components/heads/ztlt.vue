@@ -678,6 +678,9 @@
                   华中科技大学机械学院副教授/博导，国家重点研发计划青年项目首席科学家，湖北省楚天学者。主要围绕航空、航天、航海等重点领域关键产品的轻量化、整体化、多功能设计需求，从事几何驱动的拓扑优化设计方法及软件、功能超材料结构的多尺度设计与制造、面向制造的优化设计方法与技术等方面的科研工作，发表专著2部、SCI论文40余篇，申请/授权发明专利20余项、登记计算机软件著作权5项，获湖北省科技进步二等奖等奖励。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">lihao2009@hust.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>基于共形几何的薄壳曲面结构多尺度优化设计</p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/lh.png" style="display: block; margin: 10px; width: 80%"
@@ -697,6 +700,9 @@
                   山东大学机械工程学院教授、博导，齐鲁青年学者。2015年于加拿大阿尔伯塔大学获得博士学位，2016年-2018年于美国匹兹堡大学从事博士后研究工作。主要从事拓扑优化与增材制造相关的研究工作。主持与参与国家自然科学基金、装备预研共用技术项目、装备预研快速扶持项目、山东省重点研发计划项目、山东省自然科学基金重大基础项目等国家及省部级项目10余项。至今以一作或通讯作者身份发表SCI检索论文40余篇（中科院一区11篇，ESI高被引5篇）。曾受邀前往加拿大滑铁卢大学、香港中文大学等世界知名高校做专题学术报告。兼任中国机械工程学会增材制造分会委员、山东省工研院增材制造协同创新中心共建负责人。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">jikai_liu@sdu.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>残余应力约束下的金属增材拓扑优化研究</p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/ljk.png" style="display: block; margin: 10px; width: 80%"
@@ -717,6 +723,9 @@
                   2018年在玛丽居里基金的资助下到荷兰代尔夫特理工大学进行博士后工作。主要研究为数字几何处理与计算制造。主持国家自然科学基金青年/面上、玛丽居里基金、辽宁省面上项目等；发表论文20余篇、ESI高被引论文2篇，申请发明专利4项。获得国际结构与多学科优化/Springer最佳论文奖、第十三届几何设计与计算大会最佳论文奖等。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">wwmdlut@dlut.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>增材制造过程驱动的结构设计与优化</p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/wwm.jpg" style="display: block; margin: 10px; width: 80%"
@@ -736,6 +745,9 @@
                   南方科技大学副研究员，博士生导师，深圳市海外高层次人才。2016年毕业于芬兰阿尔托大学工程设计与制造专业，获博士学位。主要从事增材制造装备、自适应工艺规划、设计制造一体化等领域研究。在国际学术刊物杂志及重要国际学术会议上发表论文近40篇。目前承担有科技部、国家自然科学基金、广东省自然科学基金、深圳市科创委项目多项。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">xiongy3@sustech.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>面向扫描式增材制造的计算机辅助工艺规划</p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/xy.jpg" style="display: block; margin: 10px; width: 80%"
@@ -756,6 +768,9 @@
                   (IsoLevel)”已作为路径规划领域代表性算法，收录于MIT研究生课程。任中国计算机学会CAD&CG专委会委员，中国图象图形学学会智能图形专委会委员，多个国际会议的程序委员会委员、分论坛主席。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">qiangzou@cad.zju.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>复杂结构建模：面向超复杂结构的高效鲁棒几何建模</p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/zq.jpg" style="display: block; margin: 10px; width: 80%"
