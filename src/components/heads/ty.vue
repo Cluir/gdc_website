@@ -37,9 +37,12 @@
             <div class="keynote_text">
               <img src="../../assets/ty/cbq.png" onclick='window.open("http://cfcs.pku.edu.cn/baoquan/")' title="查看主页"/>
               <p><strong>报告人：</strong>陈宝权</p>
-              <p><strong>题目：</strong>待定</p>
+              <p><strong>题目：</strong>数字几何的获取、计算与理解</p>
               <p style="text-indent: 27px;"><strong>时间：</strong>8月21日上午08:30—09:30</p>
             <br><br><br><br>
+            <p class="intro2_intro" style="text-indent: 27px;"><strong>报告摘要：</strong>数字化构建形体的三维模型是智能制造、虚拟现实、数字娱乐、数字孪生、智慧城市等应用领域的基础研究问题，是连接数字世界与物理世界的桥梁。在几何数字化的前提下，对于数字形体的物理行为的计算以及语义信息的分析则是支撑以上应用的关键共性技术。本报告将从几何的获取、计算与理解三个方面展开，展示目前的技术进展，并探讨在这三个方面的研究趋势。
+</p>
+              <br>
               <p class="intro2_intro" style="text-indent: 27px;"><strong>个人简介：</strong>北京大学博雅特聘教授、智能学院副院长，博士生导师，IEEE Fellow、中国计算机学会会士和中国图像图形学学会会士。研究领域为计算机图形学、三维视觉与可视化，在ACM SIGGRAPH、IEEE VIS、ACM TOG等国际会议和刊物发表论文200余篇。曾担任973项目“城市大数据计算理论与方法”首席科学家、SIGGRAPH ASIA 2014和IEEE Visualization 2005会议主席及IEEE Visualization 2004程序委员会主席。获2003年美国国家科学基金会杰出青年学者奖（NSF CAREER Award）、2005年IEEE可视化国际会议最佳论文奖、2014年中国计算机图形学大会杰出奖，入选2008年中科院百人计划、2010年国家“杰出青年”科学基金资助、2015年长江学者特聘计划、2016年“万人计划”领军人才、2019年IEEE Fellow和2021年IEEE Visualization Academy。担任中国图像图形学学会常务理事和三维视觉专委会主任。曾任第七届教育部科技委信息学部委员、中国计算机学会常务理事和青工委主任、北京电影学院未来影像高精尖创新中心首席科学家。现主持国家重点研发计划“科技冬奥”重点专项“冰雪项目交互式多维度观赛体验技术与系统”，为北京冬残奥冰球比赛实时提供“子弹时间”特效精彩瞬间回放，并受到了OBS工程技术总监伊西多罗·莫瑞诺（Isidoro Moreno）的高度赞誉。
 </p>
             </div>
