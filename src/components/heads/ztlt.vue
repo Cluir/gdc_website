@@ -904,7 +904,7 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify">
-                  <b>张晓武</b>
+                  <b>张晓武</b>，现任浙江霖研精密科技有限公司技术总监。
                 </p>
               </td>
               <td style="width: 25%; vertical-align: top">
