@@ -15,22 +15,56 @@
                 <td style="text-align: center; width: 10%"><b>主持人</b></td>
             </tr>
             <tr>
-                <td rowspan="2">14:00—17:00 </td>
-                <td style="text-align: center">
-                    <router-link to="/hq">会前课程1 计图框架入门与进阶</router-link>
+                <td rowspan="8">14:00—17:00 </td>
+                <td rowspan="4" style="text-align: center">
+                    <router-link to="/hq">会前课程1 计图入门与可视媒体生成编辑进阶</router-link>
                 </td>
-                <td rowspan="2" style="text-align: center">
-                    庞宇飞 郑澎 雷娜 徐岗
+                <td rowspan="1" style="text-align: center">
+                    李相利 清华大学
                 </td>
-                <td rowspan="2" style="text-align: center">
-                    徐岗
+                <td rowspan="7" style="text-align: center">
+                    徐岗 <br>杭州电子科技大学
                 </td>
             </tr>
             <tr>
-                <td style="text-align: center">
-                    <router-link to="/hq">会前课程2 网格生成</router-link>
+                <td rowspan="1" style="text-align: center">
+                    杨国炜 清华大学
                 </td>
             </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    袁宇杰 中科院计算所
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    刘锋林 中科院计算所
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="4" style="text-align: center">
+                    <router-link to="/hq">会前课程2 网格生成</router-link>
+                </td>
+                <td rowspan="1" style="text-align: center">
+                    庞宇飞 中国空气动力与发展中心
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    郑澎 中物院高性能数值模拟软件中心
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    雷娜 大连理工大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    徐岗 杭州电子科技大学
+                </td>
+            </tr>
+
 
         </table>
         <table class="meeting_schedule">
@@ -40,7 +74,7 @@
             <tr>
                 <td style="text-align: center; width: 15%"><b>时间</b></td>
                 <td style="text-align: center; width: 40%"><b>报告题目</b></td>
-                <td style="text-align: center; width: 25%"><b>讲者</b></td>
+                <td style="text-align: center; width: 25%"><b>讲者/主持人</b></td>
             </tr>
             <tr>
                 <td>8:30—9:00</td>
@@ -52,19 +86,28 @@
                     <router-link to="/ty">特邀报告1：神经隐式三维重建与绘制技术 </router-link>
                 </td>
                 <td style="text-align: center">
-                    浙江大学 鲍虎军
+                    鲍虎军 浙江大学
                 </td>
             </tr>
             <tr>
-                <td>10:20—12:00</td>
-                <td colspan="2" style="text-align: center">全国计算几何协作组四十周年暨苏步青先生诞辰120周年纪念特别论坛</td>
-
+                <td rowspan="2">10:20—12:00</td>
+                <td rowspan="2" colspan="1" style="text-align: center">全国计算几何协作组四十周年暨苏步青先生诞辰120周年纪念特别论坛</td>
+                <td style="text-align: center">
+                    胡事民 清华大学
+                </td>
             </tr>
-
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    吕琳 山东大学
+                </td>
+            </tr>
             <tr>
                 <td>14:00—16:30</td>
-                <td colspan="2" style="text-align: center">学科发展战略研讨会</td>
+                <td colspan="1" style="text-align: center">学科发展战略研讨会</td>
+                <td rowspan="1" style="text-align: center">
+                    汪国平 北京大学
 
+                </td>
             </tr>
             <tr>
                 <td>16:50—17:20</td>
@@ -98,38 +141,84 @@
             <tr>
                 <td>8:30—9:30</td>
                 <td style="text-align: center">
-                    <router-link to="/ty">特邀报告2 </router-link> &nbsp; &nbsp;
+                    <router-link to="/ty">特邀报告2：数字几何的获取、计算与理解 </router-link> &nbsp; &nbsp;
                 </td>
                 <td colspan="2" style="text-align: center">
                     北京大学 陈宝权
                 </td>
             </tr>
             <tr>
-                <td rowspan="2">9:50—11.30</td>
-                <td style="text-align: center">
+                <td rowspan="12">9:50—11.30</td>
+                <td rowspan="7" style="text-align: center">
                     <router-link to="/ztlt">专题论坛1 国产CAD几何引擎</router-link>
                 </td>
                 <td style="text-align: center">
-
-                    陈发来 李华
-                    刘继红 汪国平 冯结青 梅敬成 银鸽
+                    陈发来 中国科学技术大学
                 </td>
-                <td style="text-align: center">
-                    贾晓红
+                <td rowspan="7" style="text-align: center">
+                    贾晓红 <br>中科院数学与系统科学研究院
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    李华 中国科学院计算技术研究所
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    刘继红 北京航空航天大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    汪国平 北京大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    冯结青 浙江大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    梅敬成 华云三维科技有限公司
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    银鸽 广州中望龙腾软件股份有限公司
                 </td>
             </tr>
             <tr>
 
-                <td style="text-align: center">
+                <td rowspan="5" style="text-align: center">
                     <router-link to="/ztlt">专题论坛2 数字孪生</router-link>
                 </td>
                 <td style="text-align: center">
-                    徐凯 汪俊
-                    刘斌 贾金原
-                    刘红涛
+                    徐凯 国防科技大学
                 </td>
-                <td style="text-align: center">
-                    徐凯
+                <td rowspan="5" style="text-align: center">
+                    徐凯 <br>国防科技大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    汪俊 南京航空航天大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    刘斌 山东大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    贾金原 同济大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    刘红涛 北京圜晖科技有限公司
                 </td>
             </tr>
             <tr>
@@ -142,7 +231,7 @@
                     <router-link to="/ty">特邀报告3：数控加工最优路径规划 </router-link>
                 </td>
                 <td colspan="2" style="text-align: center">
-                    中国科学院 高小山
+                    高小山 中科院数学与系统科学研究院
                 </td>
             </tr>
             <tr>
@@ -150,42 +239,105 @@
                 <td colspan="3" style="text-align: center">论文交流2</td>
             </tr>
             <tr>
-                <td rowspan="2">15:40—17:20</td>
-                <td style="text-align: center">
+                <td rowspan="10">15:40—17:20</td>
+                <td rowspan="6" style="text-align: center">
                     <router-link to="/ztlt">专题论坛3 开源工业软件</router-link>
                 </td>
                 <td style="text-align: center">
-                    郭旭
-                    何均宏
-                    张文丰 崔涛 王伟
-                    唐滨
+                    郭旭 大连理工大学
                 </td>
-                <td style="text-align: center">
-                    徐岗
+                <td rowspan="6" style="text-align: center">
+                    徐岗 <br>杭州电子科技大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    何均宏 openCAX
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    张文丰 航天八院
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    崔涛 中科院数学与系统科学研究院
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    王伟 北京航空航天大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    唐滨 哈尔滨工程大学
                 </td>
             </tr>
 
-
             <tr>
-                <td style="text-align: center">
+                <td rowspan="4" style="text-align: center">
                     <router-link to="/ztlt">专题论坛4 深度几何学习</router-link>
                 </td>
                 <td style="text-align: center">
 
-                    李昌健
-                    李曼祎
-                    李贤芝
-                    张举勇
+                    李昌健 英国爱丁堡大学
                 </td>
-                <td style="text-align: center">
-                    胡瑞珍
+                <td rowspan="4" style="text-align: center">
+                    胡瑞珍 <br>深圳大学
                 </td>
             </tr>
             <tr>
-                <td>19:30—21:00</td>
-                <td colspan="3" style="text-align: center">GDC青年学者之夜</td>
+                <td rowspan="1" style="text-align: center">
+                    李曼祎 山东大学
+                </td>
             </tr>
-
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    李贤芝 华中科技大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    张举勇 中国科学技术大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="6">19:30—21:00</td>
+                <td colspan="1" rowspan="6" style="text-align: center">GDC青年学者之夜</td>
+                <td rowspan="1" style="text-align: center">
+                    姚贺源 北京大学
+                </td>
+                <td rowspan="6" style="text-align: center">
+                    辛士庆 山东大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    张博闻 西安交通大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    郭俊甫 中国科学技术大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    刘亦林 深圳大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    余奇晋 国防科技大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    徐瑞 山东大学
+                </td>
+            </tr>
         </table>
         <table class="meeting_schedule">
             <tr>
@@ -198,24 +350,68 @@
                 <td style="text-align: center; width: 10%"><b>主持人</b></td>
             </tr>
             <tr>
-                <td>8:30—10:00</td>
-                <td colspan="3" style="text-align: center">产业特别论坛 </td>
+                <td rowspan="5">8:30—10:00</td>
+                <td rowspan="5" colspan="1" style="text-align: center">产业特别论坛 </td>
+                <td rowspan="1" style="text-align: center">
+                    金小刚 浙江大学
+                </td>
+                <td rowspan="5" style="text-align: center">
+                    赵宇波 <br>山东产业技术研究院(青岛)
+                </td>
             </tr>
             <tr>
-                <td>10:10—11:50</td>
-                <td style="text-align: center">
+                <td rowspan="1" style="text-align: center">
+                    刘利刚 中国科学技术大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    刘红涛 北京圜晖科技有限公司
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    银鸽 广州中望龙腾软件股份有限公司
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    张晓武 浙江霖研精密科技有限公司
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="5">10:10—11:50</td>
+                <td rowspan="5" style="text-align: center">
                     <router-link to="/ztlt">专题论坛5 增材制造</router-link>
                 </td>
                 <td style="text-align: center">
 
-                    李好 刘继凯 王伟明 熊异 邹强
+                    李好 华中科技大学
                 </td>
-                <td style="text-align: center">
-                    吕琳
+                <td rowspan="5" style="text-align: center">
+                    吕琳 山东大学
                 </td>
             </tr>
-
-
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    刘继凯 山东大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    王伟明 大连理工大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    熊异 南方科技大学
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" style="text-align: center">
+                    邹强 浙江大学
+                </td>
+            </tr>
             <tr>
                 <td>11:50—12:00</td>
                 <td colspan="3" style="text-align: center">闭幕式</td>
