@@ -556,7 +556,21 @@
                 <div class="report">
                   <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>Free2CAD: Parsing Freehand Drawings into CAD Commands</p>
                   <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
-                  CAD modeling, despite being the industry-standard, remains restricted to usage by skilled practitioners due to two key barriers. First, the user must be able to mentally parse a final shape into a valid sequence of supported CAD commands; and second, the user must be sufficiently conversant with CAD software packages to be able to execute the corresponding CAD commands. As a step towards addressing both these challenges, we present Free2CAD wherein the user can simply sketch the final shape and our system parses the input strokes into a sequence of commands expressed in a simplified CAD language. When executed, these commands reproduce the sketched object. Technically, we cast sketch-based CAD modeling as a sequence-to-sequence translation problem, for which we leverage the powerful Transformers neural network architecture. Given the sequence of pen strokes as input, we introduce the new task of grouping strokes that correspond to individual CAD operations. We combine stroke grouping with geometric fitting of the operation parameters, such that intermediate groups are geometrically corrected before being reused, as context, for subsequent steps in the sequence inference. Although trained on synthetically-generated data, we demonstrate that Free2CAD generalizes to sketches created from real-world CAD models as well as to sketches drawn by novice users.
+                    CAD modeling, despite being the industry-standard, remains restricted to usage by skilled
+                    practitioners due to two key barriers. First, the user must be able to mentally parse a final shape
+                    into a valid sequence of supported CAD commands; and second, the user must be sufficiently
+                    conversant with CAD software packages to be able to execute the corresponding CAD commands. As a
+                    step towards addressing both these challenges, we present Free2CAD wherein the user can simply
+                    sketch the final shape and our system parses the input strokes into a sequence of commands expressed
+                    in a simplified CAD language. When executed, these commands reproduce the sketched object.
+                    Technically, we cast sketch-based CAD modeling as a sequence-to-sequence translation problem, for
+                    which we leverage the powerful Transformers neural network architecture. Given the sequence of pen
+                    strokes as input, we introduce the new task of grouping strokes that correspond to individual CAD
+                    operations. We combine stroke grouping with geometric fitting of the operation parameters, such that
+                    intermediate groups are geometrically corrected before being reused, as context, for subsequent
+                    steps in the sequence inference. Although trained on synthetically-generated data, we demonstrate
+                    that Free2CAD generalizes to sketches created from real-world CAD models as well as to sketches
+                    drawn by novice users.
                   </p>
                 </div>
 
@@ -583,7 +597,7 @@
                 <div class="report">
                   <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>三维物体建模中的形状结构表达与学习</p>
                   <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
-                  三维建模是计算机图形学中的基础问题，主要研究如何根据用户需求创建高精度、高质量的三维模型。近年来，大量工作利用深度学习方法学习先验知识并生成各种三维模型，其关键问题在于如何选择深度几何学习中的三维模型表达方式并进行神经网络训练。本报告围绕三维物体建模进行展开，首先回顾在深度几何学习中常用的三维模型表达和学习方法。通过分析这些方法的特点和局限性，介绍如何对其形状结构表达进行改造，并设计针对性的神经网络结构和训练方式来进行实现，以提高深度学习方法对于三维模型精度和质量的学习能力。
+                    三维建模是计算机图形学中的基础问题，主要研究如何根据用户需求创建高精度、高质量的三维模型。近年来，大量工作利用深度学习方法学习先验知识并生成各种三维模型，其关键问题在于如何选择深度几何学习中的三维模型表达方式并进行神经网络训练。本报告围绕三维物体建模进行展开，首先回顾在深度几何学习中常用的三维模型表达和学习方法。通过分析这些方法的特点和局限性，介绍如何对其形状结构表达进行改造，并设计针对性的神经网络结构和训练方式来进行实现，以提高深度学习方法对于三维模型精度和质量的学习能力。
                   </p>
                 </div>
               </td>
@@ -610,7 +624,7 @@
                 <div class="report">
                   <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>基于深度学习的点云处理与应用</p>
                   <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
-                  随着激光雷达、深度相机以及三维扫描仪等设备的普及，针对三维点云数据的研究也逐渐从基于传统方法的几何特征提取向基于深度学习的高层次感知过渡。然而，相比于二维图像，三维点云除了维度扩增带来的几何复杂性外，还存在数据采集质量欠佳、难以大量人工标注等问题。鉴于此，在本次报告中，我们将介绍利用深度学习对点云数据进行上采样、旋转不变性分析、以及无监督显著性区域检测的最新研究成果。最后，我们将对三维视觉领域进行展望，探讨深度学习在点云数据处理和应用上的广泛前景。
+                    随着激光雷达、深度相机以及三维扫描仪等设备的普及，针对三维点云数据的研究也逐渐从基于传统方法的几何特征提取向基于深度学习的高层次感知过渡。然而，相比于二维图像，三维点云除了维度扩增带来的几何复杂性外，还存在数据采集质量欠佳、难以大量人工标注等问题。鉴于此，在本次报告中，我们将介绍利用深度学习对点云数据进行上采样、旋转不变性分析、以及无监督显著性区域检测的最新研究成果。最后，我们将对三维视觉领域进行展望，探讨深度学习在点云数据处理和应用上的广泛前景。
                   </p>
                 </div>
               </td>
@@ -914,11 +928,11 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify">
-                  <b>张晓武</b>，现任浙江霖研精密科技有限公司技术总监。
+                  <b>张晓武</b>，硕士学位，曾就读于清华大学，现任浙江霖研精密科技有限公司技术总监，主持工业人工智能及机器视觉产品的研究和开发工作。曾在清华大学、中国地质大学从事工业机器视觉的研究，参与了十三五规划、空军装备部5719所的科研项目，拥有多项发明专利。
                 </p>
               </td>
               <td style="width: 25%; vertical-align: top">
-                <!-- <img src="../../assets/ztlt/yg.jpg" style="display: block; margin: 10px; width: 80%"> -->
+                <img src="../../assets/ztlt/zxw.jpg" style="display: block; margin: 10px; width: 80%">
               </td>
             </tr>
           </tbody>
