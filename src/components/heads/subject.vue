@@ -24,7 +24,7 @@
       <li>2022.07.27 新增赞助商：<a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a></li>
 
       <li>2022.07.23 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc">会议日程</a></li>
-      <li>2022.07.22 早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li>
+      <!-- <li>2022.07.22 早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li> -->
       <li>2022.07.21 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">神经隐式三维重建与绘制技术（鲍虎军）</a></li>
       <li>2022.07.21 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数控加工最优路径规划（高小山）</a></li>
       <li>2022.07.13 GDC 2022已开放注册，请前往<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/chzc">大会注册</a></li>

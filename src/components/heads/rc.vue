@@ -22,8 +22,9 @@
                 <td rowspan="1" style="text-align: center">
                     李相利 清华大学
                 </td>
-                <td rowspan="7" style="text-align: center">
-                    徐岗 <br>杭州电子科技大学
+                <td rowspan="4" style="text-align: center">
+                    李曼祎 <br>山东大学
+
                 </td>
             </tr>
             <tr>
@@ -47,6 +48,10 @@
                 </td>
                 <td rowspan="1" style="text-align: center">
                     庞宇飞 中国空气动力与发展中心
+                </td>
+                <td rowspan="4" style="text-align: center">
+
+                    徐岗 <br>杭州电子科技大学
                 </td>
             </tr>
             <tr>
