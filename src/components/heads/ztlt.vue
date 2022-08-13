@@ -555,6 +555,9 @@
                 邮箱：<span style="color:rgb(52, 152, 221)">chjili2011@gmail.com</span>
                 <div class="report">
                   <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>Free2CAD: Parsing Freehand Drawings into CAD Commands</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                  CAD modeling, despite being the industry-standard, remains restricted to usage by skilled practitioners due to two key barriers. First, the user must be able to mentally parse a final shape into a valid sequence of supported CAD commands; and second, the user must be sufficiently conversant with CAD software packages to be able to execute the corresponding CAD commands. As a step towards addressing both these challenges, we present Free2CAD wherein the user can simply sketch the final shape and our system parses the input strokes into a sequence of commands expressed in a simplified CAD language. When executed, these commands reproduce the sketched object. Technically, we cast sketch-based CAD modeling as a sequence-to-sequence translation problem, for which we leverage the powerful Transformers neural network architecture. Given the sequence of pen strokes as input, we introduce the new task of grouping strokes that correspond to individual CAD operations. We combine stroke grouping with geometric fitting of the operation parameters, such that intermediate groups are geometrically corrected before being reused, as context, for subsequent steps in the sequence inference. Although trained on synthetically-generated data, we demonstrate that Free2CAD generalizes to sketches created from real-world CAD models as well as to sketches drawn by novice users.
+                  </p>
                 </div>
 
 
