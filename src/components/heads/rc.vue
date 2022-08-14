@@ -10,8 +10,8 @@
             </tr>
             <tr>
                 <td style="text-align: center; width: 15%"><b>时间</b></td>
-                <td style="text-align: center; width: 40%"><b>报告题目</b></td>
-                <td style="text-align: center; width: 25%"><b>讲者</b></td>
+                <td style="text-align: center; width: 35%"><b>报告题目</b></td>
+                <td style="text-align: center; width: 30%"><b>讲者</b></td>
                 <td style="text-align: center; width: 10%"><b>主持人</b></td>
             </tr>
             <tr>
@@ -78,8 +78,8 @@
             </tr>
             <tr>
                 <td style="text-align: center; width: 15%"><b>时间</b></td>
-                <td style="text-align: center; width: 40%"><b>报告题目</b></td>
-                <td style="text-align: center; width: 25%"><b>讲者/主持人</b></td>
+                <td style="text-align: center; width: 35%"><b>报告题目</b></td>
+                <td style="text-align: center; width: 30%"><b>讲者/主持人</b></td>
             </tr>
             <tr>
                 <td>8:30—9:00</td>
@@ -139,8 +139,8 @@
             </tr>
             <tr>
                 <td style="text-align: center; width: 15%"><b>时间</b></td>
-                <td style="text-align: center; width: 40%"><b>报告题目</b></td>
-                <td style="text-align: center; width: 25%"><b>讲者</b></td>
+                <td style="text-align: center; width: 35%"><b>报告题目</b></td>
+                <td style="text-align: center; width: 30%"><b>讲者</b></td>
                 <td style="text-align: center; width: 10%"><b>主持人</b></td>
             </tr>
             <tr>
@@ -350,8 +350,8 @@
             </tr>
             <tr>
                 <td style="text-align: center; width: 15%"><b>时间</b></td>
-                <td style="text-align: center; width: 40%"><b>报告题目</b></td>
-                <td style="text-align: center; width: 25%"><b>讲者</b></td>
+                <td style="text-align: center; width: 35%"><b>报告题目</b></td>
+                <td style="text-align: center; width: 30%"><b>讲者</b></td>
                 <td style="text-align: center; width: 10%"><b>主持人</b></td>
             </tr>
             <tr>
@@ -366,7 +366,7 @@
             </tr>
             <tr>
                 <td rowspan="1" style="text-align: center">
-                    刘利刚 中国科学技术大学
+                    孙伟 中山大学
                 </td>
             </tr>
             <tr>
