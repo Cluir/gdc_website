@@ -26,7 +26,7 @@
       </div>
 
       <h3>钻石赞助：
-        <a href="http://www.sdtcca.com/" target="_blank">乾云研究院</a>
+        <a href="http://www.sdtcca.com/" target="_blank">山东可信云信息技术研究院</a>
       </h3>
       <br />
       <div class="img_tu">

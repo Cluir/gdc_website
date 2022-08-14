@@ -33,11 +33,11 @@
 
       <div class="sponsor_img">
         <a href="http://www.sdtcca.com/" target="_blank">
-          <img src="../../assets/zanzhu7-logo.png" alt="" style="width: 150px;" />
+          <img src="../../assets/zanzhu7-logo.png" alt="" style="width: 150px; margin-left: 30px;" />
         </a>
       </div>
       <div class="zuanshizanzhu">
-        <a href="http://www.sdtcca.com/" target="_blank">乾云研究院</a>
+        <a href="http://www.sdtcca.com/" target="_blank">山东可信云信息技术研究院</a>
       </div>
 
       <h3>铂金赞助</h3>
@@ -154,7 +154,7 @@ export default {
 }
 
 .zuanshizanzhu {
-  margin-left: 50px;
+
   margin-bottom: 7px;
 }
 </style>
