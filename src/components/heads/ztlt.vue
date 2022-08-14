@@ -51,7 +51,36 @@
         </table>
         <hr style="width: 95%; margin: auto">
 
+
         <p class="teacher"><b>论坛讲者1</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>刘继红</b>，北京航空航天大学机械工程及自动化学院教授、博士生导师。1996年取得日本东京都立大学机械工程工学博士学位。
+                  1996-2004年任职于华中科技大学机械科学与工程学院，曾担任国家CAD支撑软件工程技术研究中心（武汉）副主任
+                  主要从事复杂产品数字化设计制造、现代设计理论与方法、知识管理与知识工程、智能制造与工业互联网等方向的研究教学工作。
+                  中国机械工程学会机械工业自动化分会副主任委员，《计算机辅助设计与图形学学报》副主编，国家重点研发计划网络协同制造和智能工厂重点专项总体专家组成员。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">ryukeiko@buaa.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>对发展国产CAD几何引擎的个人看法</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    首先介绍二十多年前与CAD有关的个人博士学位论文工作的部分内容—定性立体建模。该研究从机械产品概念设计和人对空间形体认知的角度，按照人工智能的定理推理思想，提出了定性的立体表达和演算方法。对该研究进行自我评价。其次围绕CAD几何引擎是不是卡脖子问题？CAD几何引擎的前景如何？国产CAD几何引擎应不应该走开源路线？打造国产CAD几何引擎的主体应该是谁？国家应不应该支持国产CAD几何引擎开发？等问题，阐明个人的立场观点，抛砖引玉。
+                  </p>
+                </div>
+
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/ljh.jpg" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者2</b></p>
         <table style="width: 90%; margin: auto">
           <tbody>
             <tr>
@@ -66,30 +95,17 @@
                   研究方向为计算机辅助几何设计与几何建模。近来感兴趣的研究课题包括：曲面隐式化的动曲面方法，曲面求交，T网格上的样条曲面，等几何分析及其在拓扑优化中的应用，基于稀疏优化的几何处理等。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">chenfl@ustc.edu.cn</span>
+
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>关于下一代几何引擎模型表示的一点思考</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    几何引擎是CAD系统的核心，现有的几何引擎产生于上世纪八十年代，其模型的数学表示是基于NURBS，它不考虑后续的分析需求。为适应CAD/CAE一体化的需要，现有几何引擎的数学表示需要进行改进，本报告将谈谈个人对该问题的一点看法。
+                  </p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/cfl.jpg" style="display: block; margin: 10px; width: 80%"
                   onclick="window.open('http://staff.ustc.edu.cn/~chenfl/')" title="查看主页">
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <hr style="width: 95%; margin: auto">
-
-        <p class="teacher"><b>论坛讲者2</b></p>
-        <table style="width: 90%; margin: auto">
-          <tbody>
-            <tr>
-              <td style="width: 75%; padding-right: 20px">
-                <p style="text-align: justify"><b>李华</b>，中科院计算所研究员，中国科学院大学岗位教授。1982.2毕业于北京航空学院，1986.2
-                  在北航获硕士学位，唐荣锡指导；1989.3在中科院计算所获博士学位，刘慎权指导；随后留学德国费劳恩霍菲学会图形与数据处理研究所，Encarnacao指导。1991.4开始在计算所从事CAD、图形图像及可视化研究，1994.10研究员；曾任中科院计算所CAD开放实验室主任，CCF
-                  CAD与图形学专委会主任，获得过国家科技进步奖；参与过国产飞机的外形设计；《CAD与图形学学报》副主编；CSIAM 终身会员。
-                </p>
-                邮箱：<span style="color:rgb(52, 152, 221)">lihua@ict.ac.cn </span>
-              </td>
-              <td style="width: 25%; vertical-align: top">
-                <img src="../../assets/ztlt/lh.jpg" style="display: block; margin: 10px; width: 80%"
-                  onclick="window.open('https://people.ucas.ac.cn/~_lihua')" title="查看主页">
               </td>
             </tr>
           </tbody>
@@ -101,21 +117,30 @@
           <tbody>
             <tr>
               <td style="width: 75%; padding-right: 20px">
-                <p style="text-align: justify">
-                  <b>刘继红</b>，北京航空航天大学机械工程及自动化学院教授、博士生导师。1996年取得日本东京都立大学机械工程工学博士学位。
-                  1996-2004年任职于华中科技大学机械科学与工程学院，曾担任国家CAD支撑软件工程技术研究中心（武汉）副主任
-                  主要从事复杂产品数字化设计制造、现代设计理论与方法、知识管理与知识工程、智能制造与工业互联网等方向的研究教学工作。
-                  中国机械工程学会机械工业自动化分会副主任委员，《计算机辅助设计与图形学学报》副主编，国家重点研发计划网络协同制造和智能工厂重点专项总体专家组成员。
+                <p style="text-align: justify"><b>李华</b>，中科院计算所研究员，中国科学院大学岗位教授。1982.2毕业于北京航空学院，1986.2
+                  在北航获硕士学位，唐荣锡指导；1989.3在中科院计算所获博士学位，刘慎权指导；随后留学德国费劳恩霍菲学会图形与数据处理研究所，Encarnacao指导。1991.4开始在计算所从事CAD、图形图像及可视化研究，1994.10研究员；曾任中科院计算所CAD开放实验室主任，CCF
+                  CAD与图形学专委会主任，获得过国家科技进步奖；参与过国产飞机的外形设计；《CAD与图形学学报》副主编；CSIAM 终身会员。
                 </p>
-                邮箱：<span style="color:rgb(52, 152, 221)">ryukeiko@buaa.edu.cn</span>
+                邮箱：<span style="color:rgb(52, 152, 221)">lihua@ict.ac.cn </span>
+
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>创新机制，寻求突破</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    现代制造业依赖工业软件的支撑。几何引擎是工业软件的核心，但至今仍未国产化，与中国这样的制造大国的身份极不相称。最近，更由于国家面临的复杂的国际环境，几何引擎的国产化甚至被赋予了更深层的含义，牵动着国人的心。
+                    推动实现这一目标成为从事计算几何、CAD与图形学相关领域研究开发界的责无旁贷的历史责任。回顾过去几十年国内从事相关基础性研究和工程实践的历程，可以说上上下下缺少的不是一两篇“顶刊”“顶会”的文章和若干个“重大”“重点”项目，而是一种自信、一种精神。在今天这样一个时间节点上，我们需要的是，端正学风，找回历史的自信，脚踏实地，实事求是，敢于放手一搏，创新机制，打出一片国产化的蓝天。
+                  </p>
+                </div>
               </td>
+
               <td style="width: 25%; vertical-align: top">
-                <img src="../../assets/ztlt/ljh.jpg" style="display: block; margin: 10px; width: 80%">
+                <img src="../../assets/ztlt/lh.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('https://people.ucas.ac.cn/~_lihua')" title="查看主页">
               </td>
             </tr>
           </tbody>
         </table>
         <hr style="width: 95%; margin: auto">
+
 
         <p class="teacher"><b>论坛讲者4</b></p>
         <table style="width: 90%; margin: auto">
@@ -130,6 +155,12 @@
                 </p>
 
                 邮箱：<span style="color:rgb(52, 152, 221)">wgp@graphics.pku.edu.cn</span>
+
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>离散几何造型系统的几何内核设计</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                  </p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/wgp.jpg" style="display: block; margin: 10px; width: 80%">
@@ -152,6 +183,12 @@
                   Art》编委、《计算机科学》编委、CSIAM第四、五届几何设计与计算专业委员会副主任、CCF第九届计算机辅助设计与图形学专业委员会副主任、中国图象图形学学会第七、八届理事会理事、中国图学会第八届理事会理事等。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">jqfeng@cad.zju.edu.cn</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>鲁棒几何计算中的误差估计与高精度浮点运算</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    几何建模与处理主要通过数值计算实现。与所有的数值计算应用一样，浮点误差会在数值计算过程中扩散。有效地估计几何计算中的数值误差是实现鲁棒几何计算的基础；在计算结果的数值误差超出系统设置阈值的情况下，高精度浮点运算是实现鲁棒几何计算的一个可能途径。
+                  </p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/fjq.jpg" style="display: block; margin: 10px; width: 80%"
@@ -173,6 +210,14 @@
                   2019年在华天软件的大力支持下，创办山东华云三维科技有限公司，出任总经理，致力于国内首款、完全自主的基于云架构的三位CAD平台CrownCAD的研发和应用推广。
                 </p>
                 邮箱：<span style="color:rgb(52, 152, 221)">jingcheng_mei@163.com</span>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>支持构建云原生CAD的自主三维几何建模引擎的研发</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    三维CAD在经历了线框建模、表面建模、基于特征的实体建模、基于约束的直接建模之后，目前正朝着基于云架构的协同设计方向发展。
+                    基于云原生的三维CAD的研发，对三维几何建模引擎提出了新的要求和挑战。
+                    本报告以完全自主的基于云架构的三维CAD平台CrownCAD为例，介绍对国产自主三维几何建模引擎DGM带来的挑战：建模数据的增量传输、几何数据基于数据库的存储、几何算法的微服务化、多用户编辑冲突处理，等等。
+                  </p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/mjc.jpg" style="display: block; margin: 10px; width: 80%">
@@ -193,6 +238,12 @@
                   Cirak、Malcolm Sabin和Mark
                   Girolami，曾在浙江大学、英国国立阿兰图灵研究所从事CAX理论研究工作，期间参与了瑞士ABB集团、英国国防部、美国NASA的科研项目，在计算力学/计算数学领域发表多篇论文，拥有多项发明专利。
                 </p>
+                <div class="report">
+                  <p style="color:rgb(91, 91, 91)"><b>报告题目：</b>国产CAD三维几何内核的修炼</p>
+                  <p style="color:rgb(91, 91, 91)"><b>内容摘要：</b>
+                    本次报告首先简要介绍了CAx软件的架构、CAD三维几何内核的架构，拆解了几何内核的技术点和相互依赖关系，然后针对其中难点问题的性质给予了分类，最后再分享了中望对于如何各个击破这些几何内核中的技术卡点问题而做出的探索；希望能够以此抛砖引玉，引发工业界、学术界对国产几何内核发展的进一步深入讨论。
+                  </p>
+                </div>
               </td>
               <td style="width: 25%; vertical-align: top">
                 <img src="../../assets/ztlt/yg.jpg" style="display: block; margin: 10px; width: 80%">
@@ -1132,16 +1183,16 @@ export default {
     backTop() {
       window.scroll({ top: 0, left: 0, behavior: 'smooth' })
     },
-    showMenu(){
+    showMenu() {
       console.log("hhh")
       console.log(this.Menu)
-      if(this.Menu){
+      if (this.Menu) {
         this.Menu = false;
-      }else{
+      } else {
         this.Menu = true;
       }
 
-      
+
     },
     scrollToTop() {
       this.scrollTop =
@@ -1169,35 +1220,37 @@ export default {
   margin: 40px auto;
   font-size: 30px;
 }
-.introduce > span {
+
+.introduce>span {
   display: inline-block;
   margin-top: 10px;
   color: #898989;
   font-size: 15px;
 }
 
-.content-main{
-    /* --main-color: #3498db;
+.content-main {
+  /* --main-color: #3498db;
     --minor-color: #1c1f88;
     --main-width: 1000px;
     --small-width: 760px;
     --border-color: #e8e8e8;
     --header-height: 80px; */
-    color: var(--font-color);
-    margin: 20px 0 0 0;
-    padding: 10px 0 8px 0;
-    font-size: 16px;
+  color: var(--font-color);
+  margin: 20px 0 0 0;
+  padding: 10px 0 8px 0;
+  font-size: 16px;
 
 }
 
-.forum{
+.forum {
   margin-top: 20px;
 }
-h2{
+
+h2 {
   margin-bottom: 10px;
 }
 
-.teacher{
+.teacher {
   margin-top: 20px;
 }
 
@@ -1211,26 +1264,26 @@ h2{
   bottom: 15%;
 }
 
-.menu{
+.menu {
 
-    text-align: left;
-    color: #ddd6d7;
-    position: fixed;
-    right: 15%;
-    bottom: 21%;
+  text-align: left;
+  color: #ddd6d7;
+  position: fixed;
+  right: 15%;
+  bottom: 21%;
 }
 
-.menu_icon{
-    width: 30px;
-    height: 30px;
-    color: #ddd6d7;
-    position: fixed;
-    right: 15%;
-    bottom: 21%;
+.menu_icon {
+  width: 30px;
+  height: 30px;
+  color: #ddd6d7;
+  position: fixed;
+  right: 15%;
+  bottom: 21%;
 }
-.report{
+
+.report {
   margin-top: 5px;
   padding-top: 3px;
 }
-
 </style>
