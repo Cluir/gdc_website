@@ -17,6 +17,7 @@
           <li><b><a href="#panel_4">深度几何学习</a></b></li>
           <li><b><a href="#panel_5">增材制造</a></b></li>
           <li><b><a href="#panel_6">产业特别论坛</a></b></li>
+          <li><b><a href="#panel_7">战略发展论坛</a></b></li>
         </ul>
       </div>
 
@@ -942,6 +943,152 @@
 
       </div>
 
+      <div id="panel_7"></div>
+      <div class="forum">
+
+        <h2>战略发展论坛</h2>
+        <!-- <p><b>论坛简介</b></p>
+        <p style="text-indent: 2em; margin-top: 5px;">
+          增材制造是一种快速发展的新型制造技术，在高几何复杂度、多功能性需求的产品制造中具有显著优势。目前增材制造已在航空航天、医疗器械、个性化消费品等领域开展了初步应用并展现出广阔的前景。研究如何通过几何与拓扑结构的巧妙设计和精准制造，达成传统结构所不具备的优良物理性质，已成为多学科交叉的研究热点。本论坛邀请到来自数学、计算力学、机械科学与工程、计算机科学等多个领域从事增材制造相关研究的一线专家学者，就增材制造中的几何与拓扑优化、超材料设计等几何计算的最新研究进展和关键问题进行探讨。
+        </p> -->
+
+        <!-- <p class="teacher"><b>论坛主持人</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>赵宇波，山东产业技术研究院（青岛）</b>
+
+                </p>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto"> -->
+
+
+        <p class="teacher"><b>论坛讲者1</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>孙家昶 </b>
+                </p>
+                <div class="report">
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <!-- <img src="../../assets/ztlt/jxg.png" style="display: block; margin: 10px; width: 80%"> -->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者2</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>高小山</b>，中国科学院数学与系统科学研究院研究员，常务副院长。长期从事数学机械化、几何自动推理、智能CAD与数控算法研究并做出了突出贡献。曾获得国家自然科学二等奖、香港求是杰出青年学者奖、吴文俊应用数学奖、吴文俊人工智能杰出贡献奖、国家基金委杰青、国际计算机学会ISSAC杰出论文奖。曾担任3个973项目的首席科学家、国家基金委创新群体学术带头人。
+                </p>
+                <div class="report">
+                </div>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ty/gxs.png" style="display: block; margin: 10px; width: 80%" onclick="window.open('http://www.mmrc.iss.ac.cn/~xgao/index.html')">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+
+        <p class="teacher"><b>论坛讲者3</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>刘永进</b>，
+                  刘永进，清华大学计算机系长聘教授，人机交互与媒体集成研究所所长。1994年免试保送天津大学，并于1998年获学士学位，2004年获香港科技大学博士学位。主要研究方向为计算几何与图形学、情感计算、多模态媒体智能信息处理。
+                </p>
+                <!-- 邮箱：<span style="color:rgb(52, 152, 221)">jyjia@tongji.edu.cn</span> -->
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/lyj.jpg" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者4</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>雷娜</b>，大连理工大学国际信息与软件学院党总支书记，教授，博士生导师，研究方向为：应用现代微分几何和代数几何的理论与方法解决工程及医学领域的问题，主要聚焦于计算共形几何、计算拓扑、计算机数学及其在人工智能、计算机图形学、计算机视觉、几何建模和医学图像中的应用。多次受邀在国际国内重要会议上做大会邀请报告和会前短课程。主持国家重点研发计划项目课题、国家自然科学基金重点项目、面上项目以及中央部委创新项目等10 余项，主持项目总经费一千余万元。学术成果多次被菲尔兹奖获得者或美国科学院院士等在国际会议上介绍；获得的知识产权在工业界进行成果转化，获得应用单位的好评。担任网格生成领域国际顶会IMR 唯一亚洲committee member。获得世界华人数学家大会最佳论文奖。
+                </p>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/hqkc/leina.png" style="display: block; margin: 10px; width: 80%">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者5</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify">
+                  <b>徐凯</b>，国防科技大学教授。国家优青，湖南省杰青。普林斯顿大学访问学者，西蒙弗雷泽大学客座教授。研究方向为数据驱动的三维感知与建模、机器人三维视觉、数字孪生等。发表CCF
+                  A类论文60余篇，其中包括领域顶级会议和期刊ACM SIGGRAPH/Transactions on Graphics论文27篇。担任图形学顶级期刊ACM Transactions on
+                  Graphics，以及重要期刊Computer Graphics Forum、Computers and Graphics、The Visual Computer等的编委。担任GMP
+                  2023等国际会议的论文共同主席，以及SIGGRAPH、Eurographics等会议的程序委员。担任中国图象图形学会三维视觉专委会副主任，中国工业与应用数学学会几何设计与计算专委会秘书长，中国图学学会理事。获湖南省自然科学一等奖2项（排名第1和第3）、中国计算机学会自然科学一等奖（3）、军队科技进步二等奖等。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">kevin.kai.xu@gmail.com</span>
+
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/xk.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://www.kevinkaixu.net')">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+        <p class="teacher"><b>论坛讲者6</b></p>
+        <table style="width: 90%; margin: auto">
+          <tbody>
+            <tr>
+              <td style="width: 75%; padding-right: 20px">
+                <p style="text-align: justify"><b>吕琳</b>，
+                  山东大学齐鲁青年学者特聘教授。研究方向为计算机图形学，特别是以数字制造为背景的几何计算与优化问题。发表论文60余篇，出版专著1部，授权发明专利35项。获国际实体与物理造型会议（SPM
+                  2020）最佳论文一等奖， 2020年度山东省自然科学一等奖，2021年度吴文俊人工智能自然科学奖二等奖等。
+                </p>
+                邮箱：<span style="color:rgb(52, 152, 221)">llu@sdu.edu.cn</span>
+              </td>
+              <td style="width: 25%; vertical-align: top">
+                <img src="../../assets/ztlt/ll.jpg" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://irc.cs.sdu.edu.cn/~lulin')" title="查看主页">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <hr style="width: 95%; margin: auto">
+
+
+      </div>
+
       <div class="menu" v-if="topShow">
         <div class="menu_list" v-if="Menu">
           <p><b><a href="#panel_1">国产CAD几何引擎</a></b></p>
@@ -950,7 +1097,7 @@
           <p><b><a href="#panel_4">深度几何学习</a></b></p>
           <p><b><a href="#panel_5">增材制造</a></b></p>
           <p><b><a href="#panel_6">产业特别论坛</a></b></p>
-
+          <p><b><a href="#panel_7">战略发展论坛</a></b></p>
         </div>
         <div class="menu_icon" @click="showMenu"><img src="../../assets/menu_icon.png" style="width: 50px;"></div>
 
