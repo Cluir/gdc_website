@@ -874,14 +874,13 @@
           <tbody>
             <tr>
               <td style="width: 75%; padding-right: 20px">
-                <p style="text-align: justify"><b>赵宇波，山东产业技术研究院（青岛）</b>
+                <p style="text-align: justify"><b>赵宇波</b>，博士，山东产业技术研究院副院长兼青岛执行院长。曾任中科院深圳先进技术研究院研究员、工程中心主任，深圳创新设计研究院院长。中国机械工程学会理事，广东省产学研合作促进会副理事长，中国力学学会产学研工作委员会委员，深圳市青年科技人才协会常务副会长，深圳市众创空间协会副会长。曾主持或参与国家863计划、广东省科技计划、深圳市科技计划等各类项目近20项，授权专利100余项。主要研究领域为智能制造与数字化设计。
 
                 </p>
                 <!-- 邮箱：<span style="color:rgb(52, 152, 221)">llu@sdu.edu.cn</span> -->
               </td>
               <td style="width: 25%; vertical-align: top">
-                <!-- <img src="../../assets/ztlt/ll.jpg" style="display: block; margin: 10px; width: 80%" -->
-                <!-- onclick="window.open('http://irc.cs.sdu.edu.cn/~lulin')" title="查看主页"> -->
+                 <img src="../../assets/ztlt/zyb.jpg" style="display: block; margin: 10px; width: 80%"> 
               </td>
             </tr>
           </tbody>
@@ -1061,7 +1060,7 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify"><b>刘永进</b>，
-                  刘永进，清华大学计算机系长聘教授，人机交互与媒体集成研究所所长。1994年免试保送天津大学，并于1998年获学士学位，2004年获香港科技大学博士学位。主要研究方向为计算几何与图形学、情感计算、多模态媒体智能信息处理。
+                  清华大学计算机系长聘教授，人机交互与媒体集成研究所所长。1994年免试保送天津大学，并于1998年获学士学位，2004年获香港科技大学博士学位。主要研究方向为计算几何与图形学、情感计算、多模态媒体智能信息处理。
                 </p>
                 <!-- 邮箱：<span style="color:rgb(52, 152, 221)">jyjia@tongji.edu.cn</span> -->
               </td>
