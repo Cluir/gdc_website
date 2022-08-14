@@ -8,13 +8,13 @@
       <p><strong>会议酒店：汇泉王朝大饭店</strong></p> 
       <p><strong>地址：中国山东省青岛市市南区南海路9号</strong></p>     <br>
       <p class="text_indent">汇泉王朝大饭店是一家五星级饭店，坐落于风景秀丽的汇泉湾畔，依山傍海，景色宜人，红瓦绿树、碧海蓝天。数步之间即可与青岛最负盛名的第一海水浴场拥抱，是最具岛城特色的海边旅游渡假饭店之一。汇泉王朝大饭店以一流的设备、一流的管理、一流的服务，为您提供舒适的享受和温馨的氛围。</p> <br>
-      <p style="text-align: center;"><img src="../../assets/jdyd/huiquan.png"></p>
+      <p style="text-align: center;"><img src="../../assets/jdyd/huiquan.png" style="width: 90%;"></p>
       <p style="text-align: center;"><img src="../../assets/jdyd/position.png" style="width: 83%;"></p>
 
       <h4 class="introduce">酒店分布</h4>
       <p class="text_indent">注意：8月为旅游旺季，建议提前预定酒店。预订时需说明参加（第十四届全国几何设计与计算学术会议）人员，方可享受协议价。</p> <br>
 
-      <p style="text-align: center;"><img src="../../assets/jdyd/jd.png"></p><br>
+      <p style="text-align: center;"><img src="../../assets/jdyd/jd.png" style="width: 90%;"></p><br>
       
       <p> <b>酒店一：青岛汇泉王朝大饭店 <span style="color: red;">(主会场酒店）</span></b> </p> 
       <ul>

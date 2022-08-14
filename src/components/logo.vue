@@ -25,7 +25,7 @@
         </a>
       </div>
 
-      <!-- <h3>钻石赞助：
+      <h3>钻石赞助：
         <a href="http://www.sdtcca.com/" target="_blank">山东可信云信息技术研究院</a>
       </h3>
       <br />
@@ -33,7 +33,7 @@
         <a href="http://www.sdtcca.com/" target="_blank">
           <img src="../assets/zanzhu7-logo.png" alt="" style="width: 150px;margin-bottom:10px" />
         </a>
-      </div> -->
+      </div>
 
       <h3>铂金赞助：
         <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>、
