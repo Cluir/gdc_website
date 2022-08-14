@@ -864,19 +864,14 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify">
-                  <b>刘利刚</b>，中国科学技术大学数学科学学院教授、博导，国家“杰出青年”科学基金获得者。 于2001年在浙江大学获得应用数学博士学位，曾于微软亚洲研究院、浙江大学、哈佛大学工作或访问。
-                  从事计算机图形学方向的研究，已在该领域顶级期刊ACM Trans. on Graphics发表论文近四十篇。
-                  曾获得陆增镛CAD&CG高科技奖一等奖、国家自然科学奖二等奖等奖项。曾任多个国际会议的大会主席或程序主席，
-                  现任多个国际学术期刊编委。任中国图学学会常务理事、中国计算机学会计算机辅助设计与图形学专业委员会副主任、
-                  中国工业与应用数学学会几何设计与计算专业委员会副主任、国际几何建模与处理(GMP)协会指导委员会委员、 亚洲图形学协会(Asiagraphics)秘书长。
+                  <b>孙伟</b>，中山大学电子与信息工程学院教授，博士生导师；教育部信息技术重点实验室主任。中央网信办数据安全专家，工业与信息化部基础软硬件性能与可靠性测评工信部重点实验室学术委员，全国高等院校计算机基础教育研究会常务理事，广东省智慧健康专委会委员，广州市创意经济促进会会长，广东华南经济发展研究会副会长，南方国防教育研究会副理事长，香港IMT技术与创新咨询委员会副主席，佛山市区块链学会会长。
                 </p>
-                邮箱：<span style="color:rgb(52, 152, 221)">lgliu@ustc.edu.cn</span>
 
                 <div class="report">
                 </div>
               </td>
               <td style="width: 25%; vertical-align: top">
-                <img src="../../assets/ztlt/llg.jpg" style="display: block; margin: 10px; width: 80%">
+                <img src="../../assets/ztlt/sw.jpg" style="display: block; margin: 10px; width: 80%;">
               </td>
             </tr>
           </tbody>
@@ -1000,7 +995,8 @@
                 </div>
               </td>
               <td style="width: 25%; vertical-align: top">
-                <img src="../../assets/ty/gxs.png" style="display: block; margin: 10px; width: 80%" onclick="window.open('http://www.mmrc.iss.ac.cn/~xgao/index.html')">
+                <img src="../../assets/ty/gxs.png" style="display: block; margin: 10px; width: 80%"
+                  onclick="window.open('http://www.mmrc.iss.ac.cn/~xgao/index.html')">
               </td>
             </tr>
           </tbody>
@@ -1032,7 +1028,9 @@
             <tr>
               <td style="width: 75%; padding-right: 20px">
                 <p style="text-align: justify">
-                  <b>雷娜</b>，大连理工大学国际信息与软件学院党总支书记，教授，博士生导师，研究方向为：应用现代微分几何和代数几何的理论与方法解决工程及医学领域的问题，主要聚焦于计算共形几何、计算拓扑、计算机数学及其在人工智能、计算机图形学、计算机视觉、几何建模和医学图像中的应用。多次受邀在国际国内重要会议上做大会邀请报告和会前短课程。主持国家重点研发计划项目课题、国家自然科学基金重点项目、面上项目以及中央部委创新项目等10 余项，主持项目总经费一千余万元。学术成果多次被菲尔兹奖获得者或美国科学院院士等在国际会议上介绍；获得的知识产权在工业界进行成果转化，获得应用单位的好评。担任网格生成领域国际顶会IMR 唯一亚洲committee member。获得世界华人数学家大会最佳论文奖。
+                  <b>雷娜</b>，大连理工大学国际信息与软件学院党总支书记，教授，博士生导师，研究方向为：应用现代微分几何和代数几何的理论与方法解决工程及医学领域的问题，主要聚焦于计算共形几何、计算拓扑、计算机数学及其在人工智能、计算机图形学、计算机视觉、几何建模和医学图像中的应用。多次受邀在国际国内重要会议上做大会邀请报告和会前短课程。主持国家重点研发计划项目课题、国家自然科学基金重点项目、面上项目以及中央部委创新项目等10
+                  余项，主持项目总经费一千余万元。学术成果多次被菲尔兹奖获得者或美国科学院院士等在国际会议上介绍；获得的知识产权在工业界进行成果转化，获得应用单位的好评。担任网格生成领域国际顶会IMR
+                  唯一亚洲committee member。获得世界华人数学家大会最佳论文奖。
                 </p>
               </td>
               <td style="width: 25%; vertical-align: top">
