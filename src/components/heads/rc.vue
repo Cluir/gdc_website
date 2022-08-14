@@ -157,11 +157,17 @@
                 <td rowspan="7" style="text-align: center">
                     <router-link to="/ztlt">专题论坛1 国产CAD几何引擎</router-link>
                 </td>
-                <td style="text-align: center">
-                    陈发来 中国科学技术大学
+                <td rowspan="1" style="text-align: center">
+                    刘继红 北京航空航天大学
                 </td>
+
                 <td rowspan="7" style="text-align: center">
                     贾晓红 <br>中科院数学与系统科学研究院
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+                    陈发来 中国科学技术大学
                 </td>
             </tr>
             <tr>
@@ -169,11 +175,7 @@
                     李华 中国科学院计算技术研究所
                 </td>
             </tr>
-            <tr>
-                <td rowspan="1" style="text-align: center">
-                    刘继红 北京航空航天大学
-                </td>
-            </tr>
+
             <tr>
                 <td rowspan="1" style="text-align: center">
                     汪国平 北京大学
