@@ -1,7 +1,7 @@
 <template>
   <!-- 图片 -->
   <div class="bottimg">
-    <div class="introduce">
+    <!-- <div class="introduce">
       <h3>会议相关</h3>
       <span>相关信息</span>
     </div>
@@ -26,7 +26,7 @@
         <span>疫情防控</span>
       </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 

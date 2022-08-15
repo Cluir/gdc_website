@@ -16,6 +16,8 @@ import Chzc from '../components/heads/chzc'
 import Hyjt from '../components/tails/hyjt'
 import Jdyd from '../components/tails/jdyd'
 import Yqfk from '../components/tails/yqfk'
+import Jdjt from '../components/tails/jdjt'
+
 
 
 export default new VueRouter({
@@ -75,6 +77,10 @@ export default new VueRouter({
         {
             path:'/',
             redirect:'/subject'
+        },
+        {
+            path:'/jdjt',
+            component:Jdjt
         }
     ]
 })

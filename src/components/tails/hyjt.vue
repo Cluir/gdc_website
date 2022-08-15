@@ -2,7 +2,6 @@
   <div class="g-rep">
     <div class="introduce">
       <h3>会议交通</h3>
-      <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
 
   <div class="text">

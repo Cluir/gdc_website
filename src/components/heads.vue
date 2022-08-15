@@ -15,6 +15,8 @@
         <li  @click="ty" :class="{'aa':index==g}">特邀报告</li>
         <li  @click="ztlt" :class="{'aa':index==h}">专题论坛</li>
         <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li>
+        <li  @click="jdjt" :class="{'aa':index==k}" style="width: 110px">酒店及交通</li>
+        <li  @click="yqfk" :class="{'aa':index==l}">疫情防控</li>
 
       </ul>
       <div class="top_div">
@@ -44,7 +46,9 @@ export default {
       h: 0,
       i: 0,
       j: 0,
-      arr:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]
+      k: 0,
+      l: 0,
+      arr:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]
     };
   },
   mounted(){
@@ -60,13 +64,13 @@ export default {
     sy() {
       if(this.a == 0) this.a = 1
       this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
-      this.g = 0; this.h = 0; this.i = 0;
+      this.g = 0; this.h = 0; this.i = 0; this.k = 0; this.l = 0;
       this.$router.push("/subject");
     },
     zz() {
       this.a = 0
       this.b = 1; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
-      this.g = 0; this.h = 0; this.i = 0;
+      this.g = 0; this.h = 0; this.i = 0; this.k = 0; this.l = 0;
       //  for(let i of this.arr){
       //   console.log(i);
       //   if(this.arr[1]) this.arr[1] = 1
@@ -78,51 +82,65 @@ export default {
     chzc() {
       this.a = 0
       this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
-      this.g = 0; this.h = 0; this.i = 0; this.j = 1;
+      this.g = 0; this.h = 0; this.i = 0; this.j = 1; this.k = 0; this.l = 0;
       this.$router.push("/chzc");
     },
     hy() {
       this.a = 0
       this.b = 0; this.c = 1; this.d = 0; this.e = 0; this.f = 0;
-      this.g = 0; this.h = 0; this.i = 0;
+      this.g = 0; this.h = 0; this.i = 0; this.k = 0; this.l = 0;
       this.$router.push("/hy");
     },
     js() {
       this.a = 0
       this.b = 0; this.c = 0; this.d = 1; this.e = 0; this.f = 0;
-      this.g = 0; this.h = 0; this.i = 0;
+      this.g = 0; this.h = 0; this.i = 0; this.k = 0; this.l = 0;
       this.$router.push("/js");
     },
     rc() {
        this.a = 0
        this.b = 0; this.c = 0; this.d = 0; this.e = 1; this.f = 0;
-       this.g = 0; this.h = 0; this.i = 0;
-       this.$router.push("/rc");
+       this.g = 0; this.h = 0; this.i = 0; this.k = 0; this.l = 0;
+       this.$router.push("/rc"); 
     },
     hq() {
        this.a = 0
        this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 1;
-       this.g = 0; this.h = 0; this.i = 0;
+       this.g = 0; this.h = 0; this.i = 0; this.k = 0; this.l = 0;
        this.$router.push("/hq");
     },
     ty() {
        this.a = 0
        this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
-       this.g = 1; this.h = 0; this.i = 0;
+       this.g = 1; this.h = 0; this.i = 0; this.k = 0; this.l = 0;
        this.$router.push("/ty");
     },
     ztlt() {
        this.a = 0
        this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
-       this.g = 0; this.h = 1; this.i = 0;
+       this.g = 0; this.h = 1; this.i = 0; this.k = 0; this.l = 0;
        this.$router.push("/ztlt");
     },
     zzqy() {
        this.a = 0
        this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
-       this.g = 0; this.h = 0; this.i = 1;
-       this.$router.push("/zzqy");
+       this.g = 0; this.h = 0; this.i = 1; this.k = 0; this.l = 0;
+       this.$router.push("/zzqy"); 
     },
+    jdjt() {
+       this.a = 0
+       this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
+       this.g = 0; this.h = 0; this.i = 0; this.k = 1; this.l = 0;
+       this.$router.push("/jdjt"); 
+    },    
+    yqfk() {
+       this.a = 0
+       this.b = 0; this.c = 0; this.d = 0; this.e = 0; this.f = 0;
+       this.g = 0; this.h = 0; this.i = 0; this.k = 0; this.l = 1;
+       this.$router.push("/yqfk"); 
+    },
+
+
   },
 };
 </script>
@@ -153,7 +171,7 @@ export default {
 }
 .top_top {
   position: absolute;
-  left: 21%;
+  left: 11%;
   z-index: 5;
 }
 .top_img {
