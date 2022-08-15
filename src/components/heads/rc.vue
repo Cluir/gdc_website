@@ -88,10 +88,10 @@
             <tr>
                 <td>9:00—10:00</td>
                 <td style="text-align: center">
-                    <router-link to="/ty">特邀报告1：神经隐式三维重建与绘制技术 </router-link>
+                    <router-link to="/ty">特邀报告1：数控加工最优路径规划 </router-link>
                 </td>
                 <td style="text-align: center">
-                    鲍虎军 浙江大学
+                    高小山 中科院数学与系统科学研究院
                 </td>
             </tr>
             <tr>
@@ -234,11 +234,12 @@
             </tr>
             <tr>
                 <td>14:00—15:00</td>
+
                 <td style="text-align: center">
-                    <router-link to="/ty">特邀报告3：数控加工最优路径规划 </router-link>
+                    <router-link to="/ty">特邀报告3：神经隐式三维重建与绘制技术 </router-link>
                 </td>
                 <td colspan="2" style="text-align: center">
-                    高小山 中科院数学与系统科学研究院
+                    鲍虎军 浙江大学
                 </td>
             </tr>
             <tr>
