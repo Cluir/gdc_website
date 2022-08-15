@@ -19,7 +19,7 @@
               <p><strong>报告人：</strong>高小山</p>
               <p><strong>题目：</strong>数控加工最优路径规划
               </p>
-              <p style="text-indent: 27px;"><strong>时间：</strong>8月21日下午14:00—15:00</p>
+              <p style="text-indent: 27px;"><strong>时间：</strong>8月20日上午09:00-10:00</p>
               <br><br><br><br>
               <p class="intro2_intro" style="text-indent: 27px;"><strong>报告摘要：</strong>To design time-optimal
                 trajectories under the constraints of the dynamic ability of the CNC machines and a given precision
@@ -77,7 +77,7 @@
               </p>
               <p><strong>题目：</strong>神经隐式三维重建与绘制技术
               </p>
-              <p style="text-indent: 27px;"><strong>时间：</strong>8月20日上午09:00-10:00</p>
+              <p style="text-indent: 27px;"><strong>时间：8月21日下午14:00—15:00</strong></p>
               <br><br><br><br>
               <p class="intro2_intro" style="text-indent: 27px;">
                 <strong>报告摘要：</strong>三维景物的建模与绘制是计算机图形学的基础性问题，也是混合现实、数字孪生、无人系统等众多应用的核心技术。传统的三维几何建模与绘制技术经过多年发展已趋成熟，但仍面临着质量与效率之间的矛盾，且难以处理动态人体、弱纹理表面、透明与高光物体等复杂对象。近年来涌现的神经隐式表示方法为解决上述挑战提供了新的途径。该方法能够更灵活地表达三维对象的几何与外观信息，更好地学习与利用对象的先验知识，并且支持基于可微渲染的端到端优化，以实现高效率、高真实感的建模与绘制。本报告将重点介绍我们团队在该方向的最新研究进展，包括：实时单目三维场景重建、用户化身的高精度重建与多模态自然驱动等，并简要探讨未来的研究方向。
