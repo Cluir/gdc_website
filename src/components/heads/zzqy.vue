@@ -14,7 +14,7 @@
       <br />
       <div class="sponsor_img">
         <a href="https://www.zwcad.com/" target="_blank">
-          <img src="../../assets/zanzhu1-logo.png" alt="" style="width: 22rem;margin-bottom: 10px;" />
+          <img src="../../assets/zanzhu1-logo.png" alt="" style="height: 5rem;margin-bottom: 10px;" />
         </a>
         <div class="name">
           <a href="https://www.zwcad.com/" target="_blank">中望软件</a>
@@ -23,7 +23,7 @@
 
       <div class="sponsor_img">
         <a href="https://www.featuremaker.com/" target="_blank">
-          <img src="../../assets/zanzhu3-logo.png" alt="" style="width: 22rem;" />
+          <img src="../../assets/zanzhu3-logo.png" alt="" style="height: 5rem;" />
         </a>
         <div class="name">
           <a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a>
@@ -37,7 +37,7 @@
 
       <div class="sponsor_img">
         <a href="http://www.sdtcca.com/" target="_blank">
-          <img src="../../assets/zanzhu7-logo.png" alt="" style="width: 10rem; margin-left: 10px" />
+          <img src="../../assets/zanzhu7-logo.png" alt="" style="height: 5rem; margin-left: 60px" />
         </a>
         <div class="name">
           <a href="http://www.sdtcca.com/" target="_blank" style="font-size: 18px;">山东可信云信息技术研究院</a>
@@ -49,7 +49,7 @@
       <br />
       <div class="sponsor_img">
         <a href="https://www.boomingtech.com/" target="_blank">
-          <img src="../../assets/zanzhu2-logo.png" alt="" style="width: 20rem;" />
+          <img src="../../assets/zanzhu2-logo.png" alt="" style="height: 5rem;" />
         </a>
         <div class="name">
           <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>
@@ -59,7 +59,7 @@
 
       <div class="sponsor_img">
         <a href="http://www2.lysis.com.cn/" target="_blank">
-          <img src="../../assets/zanzhu5-logo.png" alt="" style="width: 15rem;" />
+          <img src="../../assets/zanzhu5-logo.png" alt="" style="height: 5rem;" />
         </a>
         <div class="name">
           <a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a>
@@ -72,7 +72,7 @@
       <br />
       <div class="sponsor_img">
         <a href="https://www.hoteamsoft.com/" target="_blank">
-          <img src="../../assets/zanzhu4-logo.png" alt="" style="width: 20rem;" />
+          <img src="../../assets/zanzhu4-logo.png" alt="" style="height: 5rem;" />
         </a>
         <div class="name">
           <a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a>
@@ -81,7 +81,7 @@
 
       <div class="sponsor_img">
         <a href="http://www.cogenda.com/" target="_blank">
-          <img src="../../assets/zanzhu6-logo.png" alt="" style="width: 20rem;margin-bottom: 40px;" />
+          <img src="../../assets/zanzhu6-logo.png" alt="" style="height: 2rem;margin-bottom: 30px;" />
         </a>
         <div class="name">
           <a href="http://www.cogenda.com/" target="_blank">珂晶达</a>

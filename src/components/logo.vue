@@ -15,13 +15,13 @@
       <br />
       <div class="img_tu">
         <a href="https://www.zwcad.com/" target="_blank">
-          <img src="../assets/zanzhu1-logo.png" alt="" style="width: 300px;margin-bottom:10px" />
+          <img src="../assets/zanzhu1-logo.png" alt="" style="width: 300px;margin-bottom:5px" />
         </a>
       </div>
 
       <div class="img_tu">
         <a href="https://www.featuremaker.com/" target="_blank">
-          <img src="../assets/zanzhu3-logo.png" alt="" style="width: 300px;" />
+          <img src="../assets/zanzhu3-logo.png" alt="" style="width: 220px;" />
         </a>
       </div>
 
@@ -31,7 +31,7 @@
       <br />
       <div class="img_tu">
         <a href="http://www.sdtcca.com/" target="_blank">
-          <img src="../assets/zanzhu7-logo.png" alt="" style="width: 150px;margin-bottom:10px" />
+          <img src="../assets/zanzhu7-logo.png" alt="" style="width: 100px;margin-bottom:10px" />
         </a>
       </div>
 
@@ -42,13 +42,13 @@
       <br />
       <div class="img_tu">
         <a href="https://www.boomingtech.com/" target="_blank">
-          <img src="../assets/zanzhu2-logo.png" alt="" style="width: 300px;" />
+          <img src="../assets/zanzhu2-logo.png" alt="" style="height: 70px;margin-right: 50px;" />
         </a>
       </div>
 
       <div class="img_tu">
         <a href="http://www2.lysis.com.cn/" target="_blank">
-          <img src="../assets/zanzhu5-logo.png" alt="" style="width: 200px;" />
+          <img src="../assets/zanzhu5-logo.png" alt="" style="height: 70px;" />
         </a>
       </div>
 
@@ -61,12 +61,12 @@
       </h3>
       <div class="img_tu">
         <a href="https://www.hoteamsoft.com/" target="_blank">
-          <img src="../assets/zanzhu4-logo.png" alt="" style="width: 300px;" />
+          <img src="../assets/zanzhu4-logo.png" alt="" style="height: 100px;" />
         </a>
       </div>
       <div class="img_tu">
         <a href="http://www.cogenda.com/" target="_blank">
-          <img src="../assets/zanzhu6-logo.png" alt="" style="width: 300px;margin-bottom:45px" />
+          <img src="../assets/zanzhu6-logo.png" alt="" style="width: 300px;margin-bottom:35px" />
         </a>
       </div>
 
