@@ -749,7 +749,7 @@
                 </p>
             </div>
             <div class="subtitle">
-                <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">4</label></span>
+                <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">43</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>构造曲率单调的组合二次h-Bézier曲线
                     <br> <b>作者： </b>李林,解滨,韩力文* <br> <b>单位： </b> 河北师范大学
