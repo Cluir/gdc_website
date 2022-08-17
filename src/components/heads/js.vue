@@ -185,6 +185,28 @@ export default {
 </script>
 
 <style>
+@media screen and (max-width: 500px){
+  .introduce_1,
+  .introduce_2
+   {
+    width: 100vw !important;
+   
+  }
+  .introduce_1 h3,
+  .introduce_2 h3
+  {
+    width: 100%;
+    font-size: 7vw;
+    height: 9vw;
+     text-align: center !important;
+  }
+  .introduce_2 {
+    margin:auto !important;
+  }
+  .pp{
+    font-size: 4vw !important;
+  }
+}
 .introduce {
   width: 300px;
   text-align: center;
@@ -301,7 +323,7 @@ export default {
 
 .box_left {
   float: left;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .box_last {

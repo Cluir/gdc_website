@@ -1244,7 +1244,16 @@ export default {
 }
 </script>
 
-<style>
+<style scope>
+@media screen and (max-width: 500px){
+  .content-main .formu-list h2{
+    font-size: 7vw;
+    text-align: center;
+  }
+  .content-main .formu-list ul{
+    text-align: center;
+  }
+}
 .introduce {
   width: 300px;
   text-align: center;

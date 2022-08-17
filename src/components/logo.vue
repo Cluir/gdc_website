@@ -105,8 +105,8 @@
       </div>
     </div> -->
     <div class="more">
-      <p>持续招募中，更多赞助信息请访问《
-        <a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">
+      <p>持续招募中，更多赞助信息请访问 <br>
+        《<a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">
           GDC2022诚招赞助伙伴
         </a>
         》

@@ -5,7 +5,7 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <!-- <p class="js">会议将邀请本领域著名专家学者作大会报告， 举办会前专题课程、论文展示、专题研讨会、专家论坛等活动，围绕本领域当前研究热点，针对学科发展现状和发展趋势展开深入讨论。此外将举办纪念计算几何协作组四十周年系列活动。欢迎从事计算机辅助设计、数字孪生、计算机图形学、计算辅助几何设计制造与仿真、虚拟现实、可视化与可视分析、计算机视觉、图像处理等相关领域研究的专家学者、青年学生以及工业界的专家、专业技术人员积极参加本次会议并踊跃投稿，展示最新成果，研讨热点问题，展望学科前景。</p> -->
-    <div class="ty-box" style="height:100px;">
+      <div class="ty-box" style="height:120px;">
       <h3 class="title">主办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:30px auto;">
@@ -17,16 +17,13 @@
       </div>
     </div>
 
-    <div class="ty-box" style="height:150px;">
+    <div class="ty-box cbandw" style="height:200px;">
       <h3 class="title">承办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:0 auto;">
-          <a href="http://47.89.254.160/gdc/" target="_blank"><img src="../../assets/index_10.png" alt=""
-              style="height:150px;margin-bottom: 20px;margin-left:80px;"></a>
-          <a href="https://www.sdu.edu.cn/" target="_blank"><img src="../../assets/index_03.png" alt=""
-              style="margin-bottom: 50px;margin-left:70px;margin-right: 70px;"></a>
-          <a href="http://www.sdiitqd.cn/" target="_blank"><img src="../../assets/index_11.png" alt=""
-              style="height:60px;margin-bottom: 50px;"></a>
+          <a href="http://47.89.254.160/gdc/" target="_blank"><img class="img1" src="../../assets/index_10.png" alt="" style="height:150px;margin-bottom: 20px;margin-left:80px;"></a>
+          <a href="https://www.sdu.edu.cn/" target="_blank"><img class="img2" src="../../assets/index_03.png" alt="" style="margin-bottom: 50px;margin-left:70px;margin-right: 70px;"></a>
+          <a href="http://www.sdiitqd.cn/" target="_blank"><img class="img3" src="../../assets/index_11.png" alt="" style="height:60px;margin-bottom: 50px;"></a>
 
 
           <!-- <h4 style="text-align:center;">中国工业与应用数学学会</h4> -->
@@ -809,5 +806,52 @@ body {
 .item_1 {
   margin: 10px auto;
   font-size: 20px;
+}
+@media screen and (max-width: 500px) {
+  .content{
+    display: block;
+  }
+  .cbandw{
+    height: 105vw !important;
+  }
+  .content .item_1 a img{
+    width: 80vw;
+  }
+  .content .item_1 a .img1,
+  .content .item_1 a .img2,
+  .content .item_1 a .img3{
+   margin: 2vw 0 !important;
+   
+  }
+  .b1 .content{
+    height: 175vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .b1 .content .item{
+padding-top: 5vw;
+  }
+  .box-wrap{
+    display: block;
+ 
+  }
+  .box-wrap .b2,
+  .box-wrap .b3,
+  .box-wrap .b4
+  {
+    width: 87%;
+  }
+  .box-wrap .b2 .content,
+  .box-wrap .b4 .content
+  {
+    height: 125vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .ty-list td{
+    width: 100%;
+  }
 }
 </style>

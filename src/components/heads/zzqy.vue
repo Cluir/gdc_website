@@ -14,7 +14,7 @@
       <br />
       <div class="sponsor_img">
         <a href="https://www.zwcad.com/" target="_blank">
-          <img src="../../assets/zanzhu1-logo.png" alt="" style="height: 5rem;margin-bottom: 10px;" />
+          <img src="../../assets/zanzhu1-logo.png" alt="" style="height: 5rem;margin-bottom: 10px;" class="img-zhongwang"/>
         </a>
         <div class="name">
           <a href="https://www.zwcad.com/" target="_blank">中望软件</a>
@@ -49,7 +49,7 @@
       <br />
       <div class="sponsor_img">
         <a href="https://www.boomingtech.com/" target="_blank">
-          <img src="../../assets/zanzhu2-logo.png" alt="" style="height: 5rem;" />
+          <img src="../../assets/zanzhu2-logo.png" alt="" style="height: 5rem;"  class="zanz2"/>
         </a>
         <div class="name">
           <a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a>
@@ -59,7 +59,7 @@
 
       <div class="sponsor_img">
         <a href="http://www2.lysis.com.cn/" target="_blank">
-          <img src="../../assets/zanzhu5-logo.png" alt="" style="height: 5rem;" />
+          <img src="../../assets/zanzhu5-logo.png" alt="" style="height: 5rem;" class="zanz2"/>
         </a>
         <div class="name">
           <a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a>
@@ -103,10 +103,10 @@
 
     <!-- <h2>待更新...</h2> -->
     <div style="text-align: center">
-      <img src="../../assets/qiye1.png" alt="" style="display: inline-block;width:100%;text-align: center">
+      <img src="../../assets/qiye1.png" alt="" style="display: inline-block;width:100%;text-align: center" class="qyjsimg">
     </div>
     <div style="text-align: center">
-      <img src="../../assets/qiye2.png" alt="" style="display: inline-block;width:100%;text-align: center">
+      <img src="../../assets/qiye2.png" alt="" style="display: inline-block;width:100%;text-align: center" class="qyjsimg">
     </div>
     <br/>
     <div style="width:100%;border: 1px solid #d0d0d0;"></div>
@@ -120,7 +120,7 @@
       <p>联系方式：0531-88818689</p>
       <p>电子邮箱：contact@sdtcca.com</p>
       <p>联系人：苗蕴章 ，13658631862</p>
-      <img src="../../assets/qiye3.png" alt="">
+      <img src="../../assets/qiye3.png" alt="" class="img-qiye3">
     </div>
 
 
@@ -135,7 +135,54 @@ export default {
 }
 </script>
 
-<style>
+<style scope>
+@media screen and (max-width:500px){
+  .img-zhongwang {
+    width: 80%;
+  }
+  .img-qiye3 {
+    width: 80%;
+  }
+  .top_{
+  font-size: 4vw !important;
+  margin-top: 7vw;
+}
+.tebiezanzhu,
+.bojinzanzhu
+{
+  display: flex !important;
+}
+.sponsor{
+  position: relative;
+} 
+.zanz2{
+  margin-bottom: 6vw;
+}
+.zanzhu5{
+  margin-left: 15vw;
+}
+.tebiezanzhu :nth-child(1),
+.bojinzanzhu :nth-child(1)
+{
+  position: absolute;
+  top: 36vw;
+  margin-left:40vw !important;
+}
+.bojinzanzhu :nth-child(1){
+  top: 115vw;
+}
+.tebiezanzhu :nth-child(2),
+.bojinzanzhu :nth-child(2)
+{
+  margin-left: 40vw !important;
+}
+.sponsor > h3{
+  text-align: center;
+}
+.qyjsimg{
+  width: 99vw !important;
+}
+}
 .kexinyun {
   font-size: 22px;
 }

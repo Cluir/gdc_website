@@ -26,7 +26,32 @@
       </div>
 
     </div>
-    <img src="../assets/toumingtiao.png" alt="" />
+    <!-- <img src="../assets/toumingtiao.png" alt="" /> -->
+    <van-cell @click="showPopup" class="vancell" ><van-icon name="ellipsis" class="vanicon"/>
+   
+
+   <!-- <span>导航</span> -->
+   </van-cell>
+<van-popup v-model="show" @click="show2">
+  <ul class="pp-ul">
+    <li  @click="sy" :class="{'aa':index==a}" class="sye">首页</li>
+        <li  @click="zz" :class="{'aa':index==b}">组织结构</li>
+        <li  @click="hy" :class="{'aa':index==c}">会议征文</li>
+
+        <li  @click="js" :class="{'aa':index==d}" class="jisssn" >计算几何四十年</li>
+        <li  @click="rc" :class="{'aa':index==e}">会议日程</li>
+
+        <li  @click="hq" :class="{'aa':index==f}">会前课程</li>
+        <li  @click="ty" :class="{'aa':index==g}">特邀报告</li>
+        <li  @click="ztlt" :class="{'aa':index==h}">专题论坛</li>
+        <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li>
+        <li  @click="jdjt" :class="{'aa':index==k}">酒店及交通</li>
+        <li  @click="yqfk" :class="{'aa':index==l}">疫情防控</li>
+
+  </ul>
+</van-popup>
+
+    <img class="bluediv" src="../assets/toumingtiao.png" alt="" />
   </div>
 </template>
 
@@ -48,16 +73,38 @@ export default {
       j: 0,
       k: 0,
       l: 0,
-      arr:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]
+      arr:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],
+      show:false
     };
   },
   mounted(){
     this.a = 1
     // this.arr[0] = 1
     // console.log(this.arr);
-    
+    window.onresize = () => {
+        return (() => {
+          console.log(document.body.clientWidth);
+         this.showTop(document.body.clientWidth)
+        })();
+      };
+    this.showTop(document.body.clientWidth);
   },
   methods: {
+    showTop(data){
+      if(data<450){
+        document.querySelector('.vancell').style.display="block"
+      document.querySelector('.top_top').style.display="none"
+      }else{
+      document.querySelector('.top_top').style.display="block"
+      document.querySelector('.vancell').style.display="none"
+      }
+    },
+    showPopup() {
+      this.show = true;
+    },
+    show2(){
+      this.show=false;
+    },
     hrefClick() {
        window.open("http://www.smartchair.org/GDC2022");
     },
@@ -146,6 +193,64 @@ export default {
 </script>
 
 <style scoped>
+
+@media screen and (max-width:500px) {
+ 
+  .bluediv{
+    display: none;
+  }
+  .van-popup--center{
+    left: 38% !important;
+    top: 40% !important;
+  }
+  .pp-ul{
+  margin-left: 20vw;
+    width: 120vw;
+    height: 120vw;
+    border-radius: 24px;
+    background: #fff;
+    display: block;
+  }
+  .pp-ul li{
+    text-align: center;
+line-height: 9vw;
+margin-bottom: 1vw;
+border: #6b6868 solid 1px;
+font-size: 5vw;
+font-weight: 700;
+margin-top: 3vw;
+margin-left: 3vw;
+  }
+  .pp-ul li:hover{
+    color: bisque;
+  }
+  .vancell{
+    /* display: none !important; */
+    position: absolute;
+    width: 100vw;
+    height: 100%;
+    background: #fff;
+    background-size: 100% 100%;
+  
+  }
+  .vancell span{
+font-size: 7vw !important;
+font-weight: 600 !important;
+margin-left: 2vw;
+margin-bottom: 2vw;
+
+  }
+  .vanicon{
+    font-size: 11vw !important;
+  }
+
+  .jisssn{
+  width: 100% !important;
+}
+}
+.jisssn{
+  width: 130px;
+}
 .aa{
   background: url(../assets/yuanjiao.png) no-repeat 0% 45%/100% 60%;
 }

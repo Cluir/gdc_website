@@ -143,7 +143,24 @@ export default {
 }
 </script>
 
-<style>
+<style scope>
+@media screen and (max-width: 500px){
+.introduce h3 {
+    height: 3vw;
+}
+.introduce {
+ 
+  text-align: center;
+  margin: 5vw auto !important;
+  font-size: 8vw !important;
+}
+#speakerList{
+  padding-top: 2vw !important;
+}
+.keynote_text p {
+  font-size: 4vw !important;
+}
+}
 .introduce {
   width: 300px;
   text-align: center;

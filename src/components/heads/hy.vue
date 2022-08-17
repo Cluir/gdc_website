@@ -4,7 +4,7 @@
       <h3>会议征文</h3>
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
-                <div style="font-size:20px;line-height: 1.35;">
+                <div style="font-size:20px;line-height: 1.35;" class="wen1">
                 <br>
                 <div>
                     <p>&nbsp; &nbsp;&nbsp; &nbsp;
@@ -48,36 +48,36 @@
                 <div class="requirement">
                   <p style="font-weight:bold;">推荐期刊的复审要求</p>
                   <p>1.	《Communications in Mathematics and Statistics》</p>
-                  <p style="margin-left:2em;text-align:justify;">(1) 根据会议审稿意见修改论文；<br/>
+                  <p style="margin-left:2em;text-align:justify;" class="a1">(1) 根据会议审稿意见修改论文；<br/>
                       (2) 需要在https://www.editorialmanager.com/cims/网址注册账号；<br/>
                       (3) 上传修改后的论文，附上对会议审稿意见答复信；<br/>
                       (4) 提交论文的时候在Comment中备注是GDC2022录取并推荐的论文。
                   </p>
                   <p>2. 《Applied Mathematics - A Journal of Chinese Universities (Series B)》</p>
-                  <p style="margin-left:2em;text-align:justify;">根据会议审稿意见修改论文。复审投稿流程已邮件通知。</p>
+                  <p style="margin-left:2em; text-align:justify;" class="a1">根据会议审稿意见修改论文。复审投稿流程已邮件通知。</p>
                   <p>3.	《Computer Modeling in Engineering & Sciences》</p>
-                  <p style="margin-left:2em;">(1)按照会议审稿意见认真修改，将干净的修改稿上传即可，不需要附修改说明，投稿题目不需要加后缀GDC2022；<br/>
-                    (2)投稿地址：https://www.techscience.com/CMES/special_detail/integration <br/>
+                  <p style="margin-left:2em;" class="a1">(1)按照会议审稿意见认真修改，将干净的修改稿上传即可，不需要附修改说明，投稿题目不需要加后缀GDC2022；<br/>
+                    (2)投稿地址：https://www.techscience.com/CMES/     special_detail/integration <br/>
                     (3)投稿时需要在"Section"这里选择 Special issue: Integration of Geometric Modeling and Numerical Simulation" 。
                   </p>
                   <p>4.	《计算机辅助设计与图形学学报》</p>
-                  <p style="margin-left:2em;text-align:justify;">(1) 根据会议审稿意见修改论文，于8月12日前提交至期刊，若作者逾期视为放弃推荐；<br/>
+                  <p style="margin-left:2em;text-align:justify;" class="a1">(1) 根据会议审稿意见修改论文，于8月12日前提交至期刊，若作者逾期视为放弃推荐；<br/>
 (2)  按照期刊主页(https://www.jcad.cn) -投稿指南-“退修稿件要求”中第1项电子版文件要求上传稿件：原稿、修改稿(按照投稿模板排版，.doc格式) 、修改说明检查表(在主页下载) 打包上传(不超过20M，若文件超大请与编辑部联系) ；暂不需邮寄打印文件；<br/>
 (3)  在投稿系统中录入论文题目时，务必加后缀“-GDC2022”，以与正常投稿区分，否则无法按照推荐论文流程处理，影响审理进度；<br/>
 (4)  特别注意：论文不可与已发表论文(包括作者本人已收录或未收录的学位论文) 重复。编辑部将不接受学术不端检测重复率偏高的论文；且发表前将再次进行学术不端检测，若发现已接收的论文存在重复率偏高问题，将退稿处理。
 </p>
 <p>5.《计算机科学》</p>
-<p style="margin-left:2em;">(1) 根据会议审稿意见修改论文；<br/>
+<p style="margin-left:2em;" class="a1">(1) 根据会议审稿意见修改论文；<br/>
 (2) 期刊会有一个投稿通道 GDC2022，请作者投到该通道；<br/>
 (3) 提交带标记的修改稿、评审意见原文、评审意见的逐条回复。
 </p>
 <p>6.《计算机科学与工程》</p>
-<p style="margin-left:2em;text-align:justify;">(1)根据会议审稿意见修改论文；<br/>
+<p style="margin-left:2em;text-align:justify;" class="a1">(1)根据会议审稿意见修改论文；<br/>
 (2)通过期刊主页joces.nudt.edu.cn提交论文，论文格式请使用期刊主页下载中心的模板。<br/>
 (3)提交论文时必须备注GDC 2022推荐论文。
 </p>
 <p>7. 《图学学报》</p>
-<p style="margin-left:2em;text-align:justify;">(1) 根据会议审稿意见修改论文；<br/>
+<p style="margin-left:2em;text-align:justify;" class="a1">(1) 根据会议审稿意见修改论文；<br/>
 (2) 登录期刊官网(http://www.txxb.com.cn/) ，点击作者在线投稿，新用户需在线注册，老用户直接使用用户名及密码登录。<br/>
 (3) 将带批注或用修订格式的修改稿、至少2位审稿专家的审稿意见、修改说明3个文件压缩上传系统(期刊为了快速审稿，需上传会议方给出的审稿意见、根据审稿意见做出的相应回答的修改说明、带批注的修改稿) 。<br/>
 (4) 另外，为了便于本刊标记，请在投稿的计划栏目中选择“GDC2022-青岛”栏目。(已经开通会议稿件投稿专门通道) 
@@ -95,7 +95,7 @@ export default {
 }
 </script>
 
-<style>
+<style scope>
 .introduce {
   width: 300px;
   text-align: center;
@@ -107,5 +107,27 @@ export default {
   margin-top: 10px;
   color: #898989;
   font-size: 15px;
+}
+@media screen and (max-width: 500px) {
+  .introduce {
+  width: 300px;
+  text-align: center;
+  margin:5vw auto !important;
+  font-size: 25px !important;
+}
+  .introduce h3{
+  width: 100%;
+  height: 3vw;
+}
+.introduce > span{
+  margin-top: 8vw !important;
+}
+.wen1{
+  font-size: 4vw !important;
+}
+.a1{
+  text-align: initial !important;
+  margin-left: 1vw !important;
+}
 }
 </style>

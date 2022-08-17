@@ -61,6 +61,7 @@ export default {
   margin: 0;
   padding: 0;
   text-decoration: none;
+  box-sizing: border-box;
 }
 #body {
   /* height: 2820px; */

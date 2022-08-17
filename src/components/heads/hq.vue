@@ -234,6 +234,32 @@ export default {
 </script>
 
 <style>
+@media screen and (max-width:500px){
+  .introduce h3{
+    height: 7vw;
+  }
+  .course_p p{
+    font-size:5vw;
+  }
+  .course_table{
+    margin-left: 2vw !important;
+  }
+  tr{
+    font-size: 4vw;
+    border: 1px #898989 solid;
+  }
+  tr td{
+   float: left;
+   clear:left;
+   width: 100% !important;
+  }
+  tr td img{
+    margin: auto !important;
+  }
+  .course_pp{
+    width: 100vw;
+  }
+}
 .introduce {
   width: 300px;
   text-align: center;
