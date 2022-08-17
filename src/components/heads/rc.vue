@@ -333,7 +333,7 @@
             </tr>
             <tr>
                 <td rowspan="1" style="text-align: center">
-                    刘亦林 深圳大学
+                    刘奕林 深圳大学
                 </td>
             </tr>
             <tr>
@@ -591,7 +591,7 @@
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>Planar shape representation and deformation via B-spline models <br> <b>作者：
 
-                    </b>王旭辉*,邵周建,李锐 <br> <b>单位： </b> 河海大学,合肥工业大学
+                    </b>王旭辉*,邵周健,李锐 <br> <b>单位： </b> 河海大学,合肥工业大学
                 </p>
             </div>
             <div class="subtitle">
@@ -636,7 +636,7 @@
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>Regular control surfaces of toric patch and integer programming
                     <br> <b>作者： </b>王涵,朱春钢*
-                    <br> <b>单位： </b> 大连理工大学,山东工商学院,
+                    <br> <b>单位： </b> 山东工商学院,大连理工大学
                 </p>
             </div>
             <div class="subtitle">
@@ -838,7 +838,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .introduce {
     width: 300px;
     text-align: center;

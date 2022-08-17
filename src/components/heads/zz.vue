@@ -5,12 +5,13 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <!-- <p class="js">会议将邀请本领域著名专家学者作大会报告， 举办会前专题课程、论文展示、专题研讨会、专家论坛等活动，围绕本领域当前研究热点，针对学科发展现状和发展趋势展开深入讨论。此外将举办纪念计算几何协作组四十周年系列活动。欢迎从事计算机辅助设计、数字孪生、计算机图形学、计算辅助几何设计制造与仿真、虚拟现实、可视化与可视分析、计算机视觉、图像处理等相关领域研究的专家学者、青年学生以及工业界的专家、专业技术人员积极参加本次会议并踊跃投稿，展示最新成果，研讨热点问题，展望学科前景。</p> -->
-      <div class="ty-box" style="height:100px;">
+    <div class="ty-box" style="height:100px;">
       <h3 class="title">主办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:30px auto;">
-        
-        <a href="https://www.csiam.org.cn/home/index/index.html" target="_blank"><img src="../../assets/index_06.png" alt=""></a>
+
+          <a href="https://www.csiam.org.cn/home/index/index.html" target="_blank"><img src="../../assets/index_06.png"
+              alt=""></a>
           <!-- <h4 style="text-align:center;">中国工业与应用数学学会</h4> -->
         </div>
       </div>
@@ -20,9 +21,12 @@
       <h3 class="title">承办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:0 auto;">
-          <a href="http://47.89.254.160/gdc/" target="_blank"><img src="../../assets/index_10.png" alt="" style="height:150px;margin-bottom: 20px;margin-left:80px;"></a>
-          <a href="https://www.sdu.edu.cn/" target="_blank"><img src="../../assets/index_03.png" alt="" style="margin-bottom: 50px;margin-left:70px;margin-right: 70px;"></a>
-          <a href="http://www.sdiitqd.cn/" target="_blank"><img src="../../assets/index_11.png" alt="" style="height:60px;margin-bottom: 50px;"></a>
+          <a href="http://47.89.254.160/gdc/" target="_blank"><img src="../../assets/index_10.png" alt=""
+              style="height:150px;margin-bottom: 20px;margin-left:80px;"></a>
+          <a href="https://www.sdu.edu.cn/" target="_blank"><img src="../../assets/index_03.png" alt=""
+              style="margin-bottom: 50px;margin-left:70px;margin-right: 70px;"></a>
+          <a href="http://www.sdiitqd.cn/" target="_blank"><img src="../../assets/index_11.png" alt=""
+              style="height:60px;margin-bottom: 50px;"></a>
 
 
           <!-- <h4 style="text-align:center;">中国工业与应用数学学会</h4> -->
@@ -94,11 +98,11 @@
           <div class="item">
             <img src="../../assets/photo/index3_21-29.png" alt="">
             <h4>贾晓红</h4>
-            <span>中国科学院数学与<br/>系统科学研究院</span>
+            <span>中国科学院数学与<br />系统科学研究院</span>
           </div>
           <div class="item">
             <img src="../../assets/photo/index3_21-31.png" alt="">
-            <h4>徐   岗</h4>
+            <h4>徐 岗</h4>
             <span>杭州电子科技大学</span>
           </div>
         </div>
@@ -110,7 +114,7 @@
         <div class="content">
           <div class="item">
             <img src="../../assets/photo/index3_21-40.png" alt="">
-            <h4>易   冉</h4>
+            <h4>易 冉</h4>
             <span>上海交通大学</span>
           </div>
         </div>
@@ -130,7 +134,7 @@
           </div>
           <div class="item">
             <img src="../../assets/photo/index3_21-47.png" alt="">
-            <h4>吕   琳</h4>
+            <h4>吕 琳</h4>
             <span>山东大学</span>
           </div>
           <div class="item">
@@ -648,25 +652,28 @@
 
 <script>
 export default {
-    name:'zz'
+  name: 'zz'
 }
 </script>
 
-<style>
+<style scoped>
 body {
   background-color: #FCFCFC;
 }
+
 .ty {
   padding-top: 32px;
   width: 1040px;
   color: #333;
 }
+
 .ty .js {
   text-indent: 2em;
   font-size: 18px;
   line-height: 1.6;
   text-align: justify;
 }
+
 .ty-box {
   margin-top: 68px;
   position: relative;
@@ -675,6 +682,7 @@ body {
   border-radius: 4px;
   box-shadow: 4px 4px 12px 3px #0301020d;
 }
+
 .ty-box .title {
   position: absolute;
   color: #fff;
@@ -687,19 +695,25 @@ body {
   font-size: 36px;
   letter-spacing: .05em;
   text-shadow: 1px 1px 10px #0f41a7;
+  width: 100%;
+  margin-top: 30px;
 }
+
 .content {
   display: flex;
   justify-content: space-between;
   height: 350px;
 }
+
 .b1 .content .item {
   padding-top: 82px;
 }
+
 .content .item {
   padding-top: 38px;
   text-align: center;
 }
+
 .content .item img {
   width: 136px;
   height: 136px;
@@ -707,52 +721,65 @@ body {
   border-radius: 50%;
   overflow: hidden;
 }
+
 .content .item h4 {
   color: #333;
   font-size: 18px;
   font-weight: 600;
 }
+
 .content .item span {
   padding: 0 6px;
   color: #999999;
   font-size: 17px;
 }
-.b1 .content{
+
+.b1 .content {
   height: 330px;
 }
-.content{
+
+.content {
   height: 280px;
 }
+
 .box-wrap {
   display: flex;
   justify-content: space-between;
 }
+
 .b2 {
   width: 43%;
 }
+
 .b3 {
   width: 28%;
 }
+
 .b3 .content {
   justify-content: center;
 }
+
 .b4 {
   width: 59%;
 }
+
 .ty-list {
   padding-top: 36px;
   width: 100%;
 }
+
 .ty-list td {
   padding: 6px 12px;
   width: 45%;
   font-size: 18px;
 }
+
 .ty-list td {
   display: inline-block;
   margin-left: 8px;
   margin-right: 8px;
 }
+
 .ty-list td span {
   display: inline-block;
   font-weight: 700;
@@ -760,24 +787,27 @@ body {
   min-width: 72px;
   padding-right: 8px;
 }
+
 .ty-list tr:nth-of-type(2n) td {
   background-color: #F7F7F7;
 }
+
 .introduce {
   width: 300px;
   text-align: center;
   margin: 40px auto;
   font-size: 30px;
 }
-.introduce > span {
+
+.introduce>span {
   display: inline-block;
   margin-top: 10px;
   color: #898989;
   font-size: 15px;
 }
+
 .item_1 {
-  margin:10px auto;
+  margin: 10px auto;
   font-size: 20px;
 }
-
 </style>
