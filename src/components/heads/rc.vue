@@ -487,7 +487,7 @@
             <div class="subtitle">
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">07</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
-                    <b>标题： </b>一种G^1连续组合曲线曲面的构造 <br> <b>作者： </b> 严兰兰* <br> <b>单位： </b> 东华理工大学<br>
+                    <b>标题： </b>一种G^1连续组合曲线曲面的构造 <br> <b>作者： </b> 严兰兰, 付雨楠, 揭梦柔, 刘喆 <br> <b>单位： </b> 东华理工大学<br>
                 </p>
             </div>
 
@@ -495,7 +495,7 @@
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">08</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>密度先验引导的无监督深度点云降噪算法
-                    <br> <b>作者： </b>张杰,王佳旭,聂明辉,刘秀平* <br> <b>单位： </b> 大连理工大学,辽宁师范大学
+                    <br> <b>作者： </b>张杰,王佳旭,聂明辉,刘秀平* <br> <b>单位： </b> 辽宁师范大学, 大连理工大学
                 </p>
             </div>
             <div class="subtitle">
@@ -533,7 +533,7 @@
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">13</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>An intelligent identification approach of assembly interface for CAD models
-                    <br> <b>作者：</b>王毅刚*,李虹,潘万彬*,曹伟娟,苗洁,艾小飞 <br> <b>单位： </b> 杭州电子科技大学
+                    <br> <b>作者：</b>王毅刚*,李虹,潘万彬*,曹伟娟,苗洁,艾小飞, 沈恩亚 <br> <b>单位： </b> 杭州电子科技大学, 清华大学
                 </p>
             </div>
             <div class="subtitle">
@@ -554,7 +554,7 @@
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">16</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>两条 B 样条曲线求交的高效计算方法
-                    <br> <b>作者： </b>王永澳,吕航汀,陈小雕* <br> <b>单位： </b> 杭州电子科技大学
+                    <br> <b>作者： </b>王永澳, 吕杭汀, 陈小雕* <br> <b>单位： </b> 杭州电子科技大学
                 </p>
             </div>
             <div class="subtitle">
@@ -562,7 +562,7 @@
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>Progressive explicit formulae for root-finding problems based on reparameterization
 
-                    <br> <b>作者： </b>王辉,钱诚*,Ma Weiyin,陈小雕* <br> <b>单位： </b> 杭州电子科技大学
+                    <br> <b>作者： </b>王辉, 钱诚*, 马维银, 陈小雕* <br> <b>单位： </b> 杭州电子科技大学
                 </p>
             </div>
             <div class="subtitle">
@@ -665,14 +665,14 @@
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">31</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>基于语义分割引导的三维目标检测
-                    <br> <b>作者： </b>李宗民,崔振东*,刘玉杰,李华 <br> <b>单位： </b> 中国石油大学(华东),中国科学院大学
+                    <br> <b>作者： </b>李宗民,崔振东*,杨树林,刘玉杰,李华 <br> <b>单位： </b> 中国石油大学(华东),中国科学院大学
                 </p>
             </div>
             <div class="subtitle">
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">32</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>TwoSPNet: A two-stage structure-preserving network for point cloud completion
-                    <br> <b>作者：</b>缪永伟,张磊,景程宇,王金荣,刘复昌*,王奔* <br> <b>单位： </b> 杭州师范大学,浙江理工大学
+                    <br> <b>作者：</b>缪永伟,景程宇,张磊,王金荣,刘复昌*,王奔* <br> <b>单位： </b> 杭州师范大学,浙江理工大学
                 </p>
             </div>
             <div class="subtitle">
@@ -686,7 +686,7 @@
             <div class="subtitle">
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">34</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
-                    <b>标题： </b>多类别适用的草图到三维模型生成方法
+                    <b>标题： </b>基于草图的三维物体生成的多类训练统一模型
                     <br> <b>作者： </b>徐晋,杨彬鑫,陈雪锦* <br> <b>单位： </b> 中国科学技术大学
                 </p>
             </div>
@@ -695,28 +695,28 @@
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>Motion-Guided Graph Convolutional Network for Skeleton-based Action Recognition
 
-                    <br> <b>作者： </b>李晶晶,Zou Lu,黄章进* <br> <b>单位： </b> 中国科学技术大学
+                    <br> <b>作者： </b>李晶晶, 邹露, 黄章进* <br> <b>单位： </b> 中国科学技术大学
                 </p>
             </div>
             <div class="subtitle">
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">36</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>基于结构感知的建筑网格重建
-                    <br> <b>作者： </b>王瀚霄,赵明阳,郭建伟,严冬明* <br> <b>单位： </b> 中国科学院自动化研究所,北京智源人工智能研究院,中科院数学与系统科学研究院
+                    <br> <b>作者： </b>王瀚霄, 赵明阳, 曾铮, 郭建伟, 严冬明* <br> <b>单位： </b> 中科院数学与系统科学研究院, 中国科学院自动化研究所, 北京智源人工智能研究院
                 </p>
             </div>
             <div class="subtitle">
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">37</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>基于视觉信息积累的行人重识别网络
-                    <br> <b>作者： </b>耿圆* <br> <b>单位： </b> 北京工业大学
+                    <br> <b>作者： </b>耿圆，谭红臣*, 李敬华, 王立春 <br> <b>单位： </b> 北京工业大学
                 </p>
             </div>
             <div class="subtitle">
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">38</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>A time series prediction algorithm with period and trend as constraints
-                    <br> <b>作者：</b>李雪梅,Xu Yunyang,Song Guowei,Feng Wenzhi,张彩明*
+                    <br> <b>作者：</b>李雪梅, 许云扬, 宋国伟, 冯文治, 张彩明*
                     <br> <b>单位： </b> 山东大学
                 </p>
             </div>
@@ -744,7 +744,7 @@
             <div class="subtitle">
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">42</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
-                    <b>标题： </b>Lupaş q-Bézier曲线的离散卷积生成与赋值算法
+                    <b>标题： </b>Lupaş q-Bézier曲线的离散卷积生成与求值算法
                     <br> <b>作者： </b>耿梦圆,解滨,韩力文* <br> <b>单位： </b> 河北师范大学
                 </p>
             </div>
@@ -796,8 +796,8 @@
                 <span><label style="font-size:30px;margin-top:0;margin-bottom:10px">49</label></span>
                 <p style="display: inline-block; width:90%;vertical-align: middle;">
                     <b>标题： </b>EAPCR: Edge-Aware Point Cloud Registration
-                    <br> <b>作者： </b>高俊杰,Wang Ruian,Wang Zixiong,Gao
-                    Haohao,辛士庆* 山东大学
+                    <br> <b>作者： </b>高俊杰，王瑞安，王子雄，董秋杰，高浩浩，辛士庆*
+                    <br> <b>单位： </b>山东大学
                 </p>
             </div>
             <div class="subtitle">
@@ -839,12 +839,12 @@ export default {
 </script>
 
 <style scoped>
-
-@media screen and (max-width:500px){
-    .introduce h3{
+@media screen and (max-width:500px) {
+    .introduce h3 {
         height: 7vw;
     }
 }
+
 .introduce {
     width: 300px;
     text-align: center;
