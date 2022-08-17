@@ -9,9 +9,8 @@
       <h3 class="title">主办单位</h3>
       <div class="content">
         <div class="item_1" style="margin:30px auto;">
-
-          <a href="https://www.csiam.org.cn/home/index/index.html" target="_blank"><img src="../../assets/index_06.png"
-              alt=""></a>
+        
+        <a href="https://www.csiam.org.cn/home/index/index.html" target="_blank"><img src="../../assets/index_06.png" alt=""></a>
           <!-- <h4 style="text-align:center;">中国工业与应用数学学会</h4> -->
         </div>
       </div>
@@ -95,11 +94,11 @@
           <div class="item">
             <img src="../../assets/photo/index3_21-29.png" alt="">
             <h4>贾晓红</h4>
-            <span>中国科学院数学与<br />系统科学研究院</span>
+            <span>中国科学院数学与<br/>系统科学研究院</span>
           </div>
           <div class="item">
             <img src="../../assets/photo/index3_21-31.png" alt="">
-            <h4>徐 岗</h4>
+            <h4>徐   岗</h4>
             <span>杭州电子科技大学</span>
           </div>
         </div>
@@ -111,7 +110,7 @@
         <div class="content">
           <div class="item">
             <img src="../../assets/photo/index3_21-40.png" alt="">
-            <h4>易 冉</h4>
+            <h4>易   冉</h4>
             <span>上海交通大学</span>
           </div>
         </div>
@@ -131,7 +130,7 @@
           </div>
           <div class="item">
             <img src="../../assets/photo/index3_21-47.png" alt="">
-            <h4>吕 琳</h4>
+            <h4>吕   琳</h4>
             <span>山东大学</span>
           </div>
           <div class="item">
@@ -649,28 +648,25 @@
 
 <script>
 export default {
-  name: 'zz'
+    name:'zz'
 }
 </script>
 
-<style scoped>
+<style>
 body {
   background-color: #FCFCFC;
 }
-
 .ty {
   padding-top: 32px;
   width: 1040px;
   color: #333;
 }
-
 .ty .js {
   text-indent: 2em;
   font-size: 18px;
   line-height: 1.6;
   text-align: justify;
 }
-
 .ty-box {
   margin-top: 68px;
   position: relative;
@@ -679,7 +675,6 @@ body {
   border-radius: 4px;
   box-shadow: 4px 4px 12px 3px #0301020d;
 }
-
 .ty-box .title {
   position: absolute;
   color: #fff;
@@ -687,30 +682,24 @@ body {
   right: 0;
   text-align: center;
   height: 42px;
-  top: -23px;
+  top: -60px;
   line-height: 42px;
   font-size: 36px;
   letter-spacing: .05em;
   text-shadow: 1px 1px 10px #0f41a7;
-  width: 100%;
-  margin-top: 30px;
 }
-
 .content {
   display: flex;
   justify-content: space-between;
   height: 350px;
 }
-
 .b1 .content .item {
   padding-top: 82px;
 }
-
 .content .item {
   padding-top: 38px;
   text-align: center;
 }
-
 .content .item img {
   width: 136px;
   height: 136px;
@@ -718,65 +707,52 @@ body {
   border-radius: 50%;
   overflow: hidden;
 }
-
 .content .item h4 {
   color: #333;
   font-size: 18px;
   font-weight: 600;
 }
-
 .content .item span {
   padding: 0 6px;
   color: #999999;
   font-size: 17px;
 }
-
-.b1 .content {
+.b1 .content{
   height: 330px;
 }
-
-.content {
+.content{
   height: 280px;
 }
-
 .box-wrap {
   display: flex;
   justify-content: space-between;
 }
-
 .b2 {
   width: 43%;
 }
-
 .b3 {
   width: 28%;
 }
-
 .b3 .content {
   justify-content: center;
 }
-
 .b4 {
   width: 59%;
 }
-
 .ty-list {
   padding-top: 36px;
   width: 100%;
 }
-
 .ty-list td {
   padding: 6px 12px;
   width: 45%;
   font-size: 18px;
 }
-
 .ty-list td {
   display: inline-block;
   margin-left: 8px;
   margin-right: 8px;
 }
-
 .ty-list td span {
   display: inline-block;
   font-weight: 700;
@@ -784,27 +760,23 @@ body {
   min-width: 72px;
   padding-right: 8px;
 }
-
 .ty-list tr:nth-of-type(2n) td {
   background-color: #F7F7F7;
 }
-
 .introduce {
   width: 300px;
   text-align: center;
   margin: 40px auto;
   font-size: 30px;
 }
-
-.introduce>span {
+.introduce > span {
   display: inline-block;
   margin-top: 10px;
   color: #898989;
   font-size: 15px;
 }
-
 .item_1 {
-  margin: 10px auto;
+  margin:10px auto;
   font-size: 20px;
 }
 @media screen and (max-width: 500px) {
