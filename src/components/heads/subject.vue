@@ -7,6 +7,7 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
+      <li>2022.08.17 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc">会议接收论文</a></li>
       <li>2022.08.15 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">战略发展论坛</a></li>
       <li>2022.08.14 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">产业特别论坛</a></li>
       <li>2022.08.12 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数字几何的获取、计算与理解（陈宝权）</a></li>
