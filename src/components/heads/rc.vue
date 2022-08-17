@@ -125,7 +125,7 @@
 
             </tr>
             <tr>
-                <td>18:30—20:30</td>
+                <td>18:30—20:00</td>
                 <td colspan="2" style="text-align: center">晚宴</td>
             </tr>
             <tr>
