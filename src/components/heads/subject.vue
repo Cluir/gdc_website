@@ -7,13 +7,13 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
+      <li>2022.08.18 <b>更新</b><a
+          href="https://irc.cs.sdu.edu.cn/gdc2022/pdf/huiyitongzhi-gaizhangban.pdf"
+          target="_blank"><b>会议通知</b></a></li>
       <li>2022.08.17 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc">会议接收论文</a></li>
       <li>2022.08.15 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">战略发展论坛</a></li>
       <li>2022.08.14 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">产业特别论坛</a></li>
       <li>2022.08.12 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数字几何的获取、计算与理解（陈宝权）</a></li>
-      <li>2022.08.11 <b>发布</b><a
-          href="https://irc.cs.sdu.edu.cn/gdc2022/pdf/20220810huiyitongzhi-dishisijiequanguojiheshejiyujisuanxueshuhuiyi.pdf"
-          target="_blank"><b>会议通知</b></a></li>
       <li>2022.08.10 新增赞助商：<a href="http://www.cogenda.com/" target="_blank">珂晶达</a></li>
       <li>2022.08.04 发布会前课程 <a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hq" target="_blank">网格生成</a></li>
       <li>2022.08.03 新增赞助商：<a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a></li>
