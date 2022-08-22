@@ -338,7 +338,7 @@
             </tr>
             <tr>
                 <td rowspan="1" style="text-align: center">
-                    余奇晋 国防科技大学
+                    佘奇晋 国防科技大学
                 </td>
             </tr>
             <tr>
