@@ -7,24 +7,23 @@
       <!-- <span>第十四届全国几何设计与计算学术会议</span> -->
     </div>
     <ul style="font-size: 20px;line-height:1.35">
-      <li>2022.08.18 <b>更新</b><a
-          href="https://irc.cs.sdu.edu.cn/gdc2022/pdf/huiyitongzhi-gaizhangban.pdf"
+      <li>2022.08.18 <b>更新</b><a href="https://irc.cs.sdu.edu.cn/gdc2022/pdf/huiyitongzhi-gaizhangban.pdf"
           target="_blank"><b>会议通知</b></a></li>
       <li>2022.08.17 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc">会议接收论文</a></li>
       <li>2022.08.15 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">战略发展论坛</a></li>
       <li>2022.08.14 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">产业特别论坛</a></li>
       <li>2022.08.12 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数字几何的获取、计算与理解（陈宝权）</a></li>
-      <li>2022.08.10 新增赞助商：<a href="http://www.cogenda.com/" target="_blank">珂晶达</a></li>
+      <!-- <li>2022.08.10 新增赞助商：<a href="http://www.cogenda.com/" target="_blank">珂晶达</a></li> -->
       <li>2022.08.04 发布会前课程 <a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hq" target="_blank">网格生成</a></li>
-      <li>2022.08.03 新增赞助商：<a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a></li>
+      <!-- <li>2022.08.03 新增赞助商：<a href="http://www2.lysis.com.cn/" target="_blank">霖研精密</a></li>
       <li>2022.08.03 新增赞助商：<a href="https://www.hoteamsoft.com/" target="_blank">华天软件</a></li>
-      <li>2022.07.31 新增赞助商：<a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a></li>
+      <li>2022.07.31 新增赞助商：<a href="https://www.featuremaker.com/" target="_blank">圜晖科技</a></li> -->
       <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">国产CAD几何引擎</a></li>
       <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">数字孪生</a></li>
       <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">开源工业软件</a></li>
       <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">深度几何学习</a></li>
       <li>2022.07.31 发布专题论坛：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ztlt">增材制造</a></li>
-      <li>2022.07.27 新增赞助商：<a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a></li>
+      <!-- <li>2022.07.27 新增赞助商：<a href="https://www.boomingtech.com/" target="_blank">不鸣科技</a></li> -->
 
       <li>2022.07.23 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/rc">会议日程</a></li>
       <!-- <li>2022.07.22 早鸟注册时间更改为<strong>7月14日00:00-8月13日00:00</strong></li> -->
@@ -32,8 +31,8 @@
       <li>2022.07.21 发布特邀报告：<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/ty">数控加工最优路径规划（高小山）</a></li>
       <li>2022.07.13 GDC 2022已开放注册，请前往<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/chzc">大会注册</a></li>
       <li>2022.07.11 发布<a href="https://irc.cs.sdu.edu.cn/gdc2022/index.html#/hy">推荐期刊的复审要求</a></li>
-      <li>2022.06.11 新增赞助商：<a href="https://www.zwcad.com/" target="_blank">中望科技</a></li>
-      <li>2022.05.21 GDC2022<a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">诚邀赞助商</a></li>
+      <!-- <li>2022.06.11 新增赞助商：<a href="https://www.zwcad.com/" target="_blank">中望科技</a></li>
+      <li>2022.05.21 GDC2022<a href="https://mp.weixin.qq.com/s/f-_C-ClniiHb0rgZ60uiqg" target="_blank">诚邀赞助商</a></li> -->
       <li>2022.05.05 征稿截止日期延期至5月31日</li>
       <li>2022.05.05 论文录用通知延期至7月11日</li>
       <li>2022.04.02 会议网站<a href="https://gdc22.csiam-gdc.cn" target="_blank">https://gdc22.csiam-gdc.cn</a>上线</li>
@@ -329,15 +328,18 @@
 }
 
 @media screen and (max-width:500px) {
-  ul{
+  ul {
     font-size: 4vw !important;
   }
-  .right{
+
+  .right {
     font-size: 3vw !important;
   }
-  .text1{
+
+  .text1 {
     font-size: 4vw !important;
   }
+
   .g-rep {
     margin: 0 auto;
     width: 100%;
