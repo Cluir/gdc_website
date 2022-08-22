@@ -14,7 +14,7 @@
         <li  @click="hq" :class="{'aa':index==f}">会前课程</li>
         <li  @click="ty" :class="{'aa':index==g}">特邀报告</li>
         <li  @click="ztlt" :class="{'aa':index==h}">专题论坛</li>
-        <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li>
+        <!-- <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li> -->
         <li  @click="jdjt" :class="{'aa':index==k}" style="width: 110px">酒店及交通</li>
         <li  @click="yqfk" :class="{'aa':index==l}">疫情防控</li>
 
@@ -44,7 +44,7 @@
         <li  @click="hq" :class="{'aa':index==f}">会前课程</li>
         <li  @click="ty" :class="{'aa':index==g}">特邀报告</li>
         <li  @click="ztlt" :class="{'aa':index==h}">专题论坛</li>
-        <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li>
+        <!-- <li  @click="zzqy" :class="{'aa':index==i}">赞助企业</li> -->
         <li  @click="jdjt" :class="{'aa':index==k}">酒店及交通</li>
         <li  @click="yqfk" :class="{'aa':index==l}">疫情防控</li>
 
